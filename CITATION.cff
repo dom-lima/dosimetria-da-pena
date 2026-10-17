@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se usar esta obra, cite-a conforme os metadados abaixo."
+title: "Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase"
+authors:
+  - family-names: "Souza Lima Júnior"
+    given-names: "Domingos José de"
+date-released: 2026-10-17
+license: CC-BY-4.0
+url: "https://github.com/domingossouzalima-dev/dosimetria-da-pena"
+abstract: "Estudo jurisprudencial sobre a dosimetria da pena: as sete circunstâncias judiciais do art. 59 do Código Penal e oito crimes em espécie, com os entendimentos do STF e do STJ sobre o que admite e o que não admite valoração."
