@@ -31,3 +31,7 @@ Os dados desta pesquisa foram conferidos por meio de inteligência artificial (I
 ## Como citar
 
 SOUZA LIMA JÚNIOR, Domingos José de. *Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase*. 2026. Disponível em: https://github.com/domingossouzalima-dev/dosimetria-da-pena. Licença CC BY 4.0.
+
+## Contribuir
+
+Veja [`CONTRIBUTING.md`](CONTRIBUTING.md) e o [Código de Conduta](CODE_OF_CONDUCT.md).
