@@ -79,7 +79,7 @@ lang: pt-BR
 
 # 2 Síntese geral
 
-Esta pesquisa reúne, em um só texto, o que os tribunais superiores decidem sobre a primeira e a segunda fase da dosimetria da pena. A **Parte I** examina, caso a caso, sete circunstâncias judiciais do art. 59 do CP (culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do crime; o comportamento da vítima não é objeto do estudo). O **capítulo 5** reúne os critérios de quantificação da pena na primeira fase (frações de 1/6 e de 1/8 e critério diferente) e na segunda fase (agravantes, atenuantes, confissão qualificada e concurso de circunstâncias). A **Parte II** examina oito crimes em espécie e o que neles é próprio da primeira e da segunda fase.
+Esta pesquisa reúne, em um só texto, o que os tribunais superiores decidem sobre a primeira e a segunda fase da dosimetria da pena. A **Parte I** examina, caso a caso, as circunstâncias judiciais do art. 59 do CP (culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do crime) e o comportamento da vítima, que só pode ser neutro ou favorável ao réu, num total de oito. O **capítulo 5** reúne os critérios de quantificação da pena na primeira fase (frações de 1/6 e de 1/8 e critério diferente) e na segunda fase (agravantes, atenuantes, confissão qualificada e concurso de circunstâncias). A **Parte II** examina oito crimes em espécie e o que neles é próprio da primeira e da segunda fase.
 
 **Regras que atravessam todos os capítulos.**
 
@@ -195,7 +195,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa, e
 
 #### 4.1.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
 
-A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata da culpabilidade como vetor, mas a vedação alcança toda a fixação da pena nos crimes sexuais: a reprovabilidade do réu não pode ser graduada por referência à vida sexual pregressa ou ao modo de vida da vítima. Fora isso, não se localizou ação de controle concentrado sobre a culpabilidade como circunstância judicial. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão (DJe); o Informativo 1138 registra o julgamento.
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata da culpabilidade como vetor, mas a vedação alcança toda a fixação da pena nos crimes sexuais: a reprovabilidade do réu não pode ser graduada por referência à vida sexual pregressa ou ao modo de vida da vítima. Fora isso, não se localizou ação de controle concentrado sobre a culpabilidade como circunstância judicial. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.1.5.2 Repercussão geral e súmulas vinculantes
 
@@ -412,7 +412,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.2.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
 
-A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata de antecedentes, mas qualquer fundamento dos antecedentes, em crimes sexuais, não pode se apoiar na vida sexual pregressa da vítima ou no seu modo de vida. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão; o Informativo 1138 registra o julgamento.
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata de antecedentes, mas qualquer fundamento dos antecedentes, em crimes sexuais, não pode se apoiar na vida sexual pregressa da vítima ou no seu modo de vida. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.2.5.2 Repercussão geral e súmulas vinculantes
 
@@ -651,7 +651,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.3.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
 
-A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata da conduta social do réu, mas, nos crimes sexuais, a conduta social não pode ser avaliada por referência à vida sexual da vítima. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão; o Informativo 1138 registra o julgamento.
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata da conduta social do réu, mas, nos crimes sexuais, a conduta social não pode ser avaliada por referência à vida sexual da vítima. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.3.5.2 Repercussão geral e súmulas vinculantes
 
@@ -860,7 +860,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.4.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
 
-A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata da personalidade do réu, mas, nos crimes sexuais, a personalidade não pode ser inferida da vida sexual pregressa ou do modo de vida da vítima. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão; o Informativo 1138 registra o julgamento.
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata da personalidade do réu, mas, nos crimes sexuais, a personalidade não pode ser inferida da vida sexual pregressa ou do modo de vida da vítima. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.4.5.2 Repercussão geral e súmulas vinculantes
 
@@ -1060,7 +1060,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 **ADPF 779 (legítima defesa da honra).** O Plenário, por unanimidade, no julgamento de mérito (Rel. Min. Dias Toffoli, j. 01/08/2023, Informativo 1105), declarou inconstitucional o uso da tese da "legítima defesa da honra" "em crimes de feminicídio ou de agressão contra mulheres", seja na fase pré-processual ou processual, seja no Júri, por violar a dignidade da pessoa humana, a proteção à vida e a igualdade de gênero. Deu interpretação conforme aos arts. 23, II, e 25 do CP e ao art. 65 do CPP, para excluir a legítima defesa da honra do instituto da legítima defesa, e vedou à defesa, à acusação, à autoridade policial e ao juízo o uso direto ou indireto da tese "ou qualquer argumento que induza à tese", sob pena de nulidade do ato e do julgamento. Fixou que o acusado não pode beneficiar-se da própria torpeza (não se reconhece a nulidade quando foi a defesa que usou a tese) e deu interpretação conforme ao art. 483, III, § 2º, do CPP, para que a apelação que anule absolvição fundada em quesito genérico, quando reviva a tese, não ofenda a soberania dos vereditos. A medida cautelar já havia sido referendada pelo Plenário na sessão virtual de 5 a 12/03/2021; a ementa da cautelar registra que a traição tem "desvalor no âmbito ético e moral, não havendo direito subjetivo de contra ela agir com violência".
 
-**ADPF 1107.** Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade: interpretação conforme ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata dos motivos do réu, mas, nos crimes sexuais, os motivos não podem ser extraídos da vida sexual pregressa ou do modo de vida da vítima. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão; o Informativo 1138 registra o julgamento.
+**ADPF 1107.** Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade: interpretação conforme ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata dos motivos do réu, mas, nos crimes sexuais, os motivos não podem ser extraídos da vida sexual pregressa ou do modo de vida da vítima. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.5.5.2 Repercussão geral e súmulas vinculantes
 
@@ -1245,7 +1245,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.6.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
 
-A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata das circunstâncias como vetor, mas, nos crimes sexuais, as circunstâncias do crime não podem ser extraídas da vida sexual pregressa ou do modo de vida da vítima. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão; o Informativo 1138 registra o julgamento.
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Não trata das circunstâncias como vetor, mas, nos crimes sexuais, as circunstâncias do crime não podem ser extraídas da vida sexual pregressa ou do modo de vida da vítima. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.6.5.2 Repercussão geral e súmulas vinculantes
 
@@ -1439,7 +1439,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.7.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
 
-A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Nos crimes sexuais, as consequências do crime não podem ser aferidas pela vida sexual pregressa da vítima ou pelo seu modo de vida; só o dano causado pela conduta do réu conta. A base traz a ementa e a certidão de julgamento, sem data de publicação do acórdão; o Informativo 1138 registra o julgamento.
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". A anotação "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna. Nos crimes sexuais, as consequências do crime não podem ser aferidas pela vida sexual pregressa da vítima ou pelo seu modo de vida; só o dano causado pela conduta do réu conta. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento.
 
 #### 4.7.5.2 Repercussão geral e súmulas vinculantes
 
@@ -1555,6 +1555,227 @@ AgRg no AREsp 2.373.250 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 14
 - **Crimes contra o erário:** o valor expressivo do prejuízo e a ausência de recuperação sustentam as consequências (AgRg no AREsp 2.262.813; AgRg na RvCr 5.719).
 - **Concursos:** os pontos mais cobrados são o dano inerente ao tipo, o Tema 1.394 (filhos menores) e a vedação do *bis in idem* com a majorante do art. 121, § 4º.
 
+## 4.8 Comportamento da vítima
+
+### 4.8.1 Tema e recorte
+
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração do comportamento da vítima (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena, e as razões pelas quais a circunstância não pode ser valorada contra o réu.
+- **Recorte e problema jurídico:** por que o comportamento da vítima só pode ser neutro ou favorável ao réu na pena-base; o que se faz com características da vítima (idade, vulnerabilidade, local do crime) que não são o seu comportamento; e qual o efeito de negativar o vetor. Ficam fora a provocação da vítima como privilégio do homicídio (CP, art. 121, § 1º) e como atenuante (art. 65, III, "c"), citadas apenas como contraste.
+
+### 4.8.2 Síntese executiva
+
+**Conceito do comportamento da vítima na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> Em relação ao comportamento da vítima, a jurisprudência desta Corte Superior de Justiça é no sentido de que esta é uma circunstância judicial ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu, sendo descabida sua utilização para incrementar a pena-base.
+>
+> (agravo regimental (AgRg) no agravo em recurso especial (AREsp) 2.157.484, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 13/09/2022, Diário da Justiça eletrônico (DJe) 19/09/2022)
+
+> De acordo com o entendimento desta Corte Superior, o comportamento da vítima é circunstância judicial que nunca será avaliada desfavoravelmente: ou será positiva, quando a vítima contribui para a prática do delito, ou será neutra, quando não há contribuição [...]
+>
+> (agravo interno (AgInt) no recurso especial (REsp) 1.713.629, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 15/03/2018, DJe 27/03/2018)
+
+**Supremo Tribunal Federal.** Nas buscas feitas, nenhuma ementa traz definição expressa desta circunstância nem a trata como vetor da pena-base.
+
+> [!CAUTION]
+>
+> **Vedado.** Não se admite valorar o comportamento da vítima para aumentar a pena-base. Se a vítima não contribuiu para o crime, o vetor é neutro e não eleva nem reduz a pena (AgRg no REsp 1.720.603; AgRg no REsp 1.294.129). Também não se admite negativá-lo por fórmula genérica, como "vítima em nada contribui para o crime" (_habeas corpus_ (HC) 191.734), nem sem elemento concreto (HC 205.072). Nos crimes sexuais, é vedado valorar a vida sexual pregressa da vítima ou o seu modo de vida (arguição de descumprimento de preceito fundamental (ADPF) 1107).
+
+> [!TIP]
+>
+> **Admitido.** Admite-se o comportamento da vítima apenas em favor do réu: quando a vítima contribui para o crime, a circunstância é favorável e pode compensar circunstância negativa (AgInt no REsp 1.713.629; HC 164.112). Características da vítima que não são o seu comportamento (tenra idade, abuso de confiança, invasão da residência) são valoradas em outro vetor, como as circunstâncias do crime ou a culpabilidade (AgRg no AREsp 20.215; AgRg no HC 532.680).
+
+**Por que não pode ser valorado contra o réu.** Seis razões, desenvolvidas na seção 4.8.6.2: (1) o vetor mede a contribuição da vítima, e não o seu desvalor; (2) a falta de contribuição é a normalidade do crime; (3) a circunstância é de via única, só admite compensação em favor do réu; (4) negativar exige fundamento concreto, que nesse vetor dificilmente existe; (5) o afastamento do vetor impõe a redução proporcional da pena-base (Tema 1.214/STJ); (6) a vítima não pode ser desqualificada para agravar a pena (ADPF 1107).
+
+**Efeitos.** Afastado o vetor em recurso exclusivo da defesa, a redução proporcional da pena-base é obrigatória (Tema 1.214/STJ). Não implica *reformatio in pejus* a mera correção da classificação de um fato já negativado, para enquadrá-lo em outra circunstância judicial, como a culpabilidade (mesmo Tema).
+
+### 4.8.3 Quadro de entendimentos vinculantes e de observância obrigatória
+
+| Instrumento | Nº | Órgão | Tese / texto | Situação |
+|---|---|---|---|---|
+| Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre o comportamento da vítima nas bases consultadas. | — |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade, com divulgação em 23/08/2024 e publicação em 26/08/2024 (Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Repercussão Geral (Tema) | não localizado | STF | Nenhum tema de repercussão geral sobre o comportamento da vítima nas bases consultadas. | — |
+| Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | "É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. [...]" Paradigma: REsp 2.058.971, Rel. Min. Sebastião Reis Júnior, j. 28/08/2024, DJe 12/09/2024 (afetação em 29/08/2023). | Trânsito em julgado |
+| Súmula | não localizada | STJ | Nenhuma súmula do STJ sobre o comportamento da vítima nas bases consultadas; a orientação consta de julgados reiterados (seção 4.8.6.2). | — |
+
+### 4.8.4 Fundamentação normativa
+
+#### 4.8.4.1 Constituição Federal
+
+A individualização da pena (Constituição Federal (CF), art. 5º, XLVI) e o dever de motivar as decisões (art. 93, IX) fundamentam a exigência de elemento concreto para negativar qualquer vetor. A ADPF 1107 extrai da dignidade da pessoa humana e da igualdade a vedação de desqualificar a vítima na fixação da pena dos crimes sexuais.
+
+#### 4.8.4.2 Legislação infraconstitucional
+
+**CP, art. 59, caput:** o juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime e ao **comportamento da vítima**, estabelecerá o necessário e suficiente para reprovação e prevenção do crime. A redação é da Lei 7.209/1984, com a anotação "Vide ADPF 1107".
+
+**CP, art. 65, III, "c" (atenuante):** ter o agente cometido o crime sob a influência de violenta emoção provocada por ato injusto da vítima. É a atenuante legal que corresponde à provocação da vítima; não se confunde com o vetor do art. 59.
+
+**CP, art. 121, § 1º (privilégio do homicídio):** o juiz pode reduzir a pena de um sexto a um terço se o agente comete o crime sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima. Quando a provocação é considerada como privilégio ou atenuante, não deve ser usada de novo como comportamento da vítima, para evitar *bis in idem* (inferência do estudo).
+
+#### 4.8.4.3 Atos infralegais e resoluções
+
+Não localizados nas bases consultadas.
+
+### 4.8.5 Jurisprudência do Supremo Tribunal Federal
+
+#### 4.8.5.1 Controle de constitucionalidade (ADI, ADC, ADPF)
+
+A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024, por unanimidade) deu interpretação conforme à Constituição ao art. 59 do CP, para "assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Não trata do comportamento da vítima como vetor em geral, mas fixa o limite constitucional: a vítima não pode ser desqualificada para agravar a pena. A ementa e as datas de divulgação (23/08/2024) e de publicação (26/08/2024) vêm do portal oficial do STF, por texto fornecido pelo autor; o Informativo 1138 registra o julgamento. O dispositivo traz ainda o dever do magistrado de impedir a prática, sob pena de responsabilização civil, administrativa e penal.
+
+#### 4.8.5.2 Repercussão geral e súmulas vinculantes
+
+Não localizados nas bases consultadas.
+
+#### 4.8.5.3 Julgados de Turma e do Plenário
+
+Nas buscas feitas (curadoria interna e repositório externo, quatro páginas de dez ementas em cada uma das cinco consultas), nenhum acórdão do STF trata o comportamento da vítima como vetor da pena-base.
+
+### 4.8.6 Jurisprudência do Superior Tribunal de Justiça
+
+#### 4.8.6.1 Recursos repetitivos e IAC
+
+**Tema 1.214.** REsp 2.058.971, Rel. Min. Sebastião Reis Júnior, Terceira Seção, 28/08/2024, DJe 12/09/2024. A redução proporcional da pena-base é obrigatória quando o tribunal afasta, em recurso exclusivo da defesa, circunstância negativa reconhecida na sentença, o que alcança o comportamento da vítima. Não há tema repetitivo nem incidente de assunção de competência (IAC) específico sobre o vetor.
+
+#### 4.8.6.2 Súmulas e teses
+
+A orientação do STJ é reiterada, sem súmula nem tese repetitiva. Os julgados permitem reconstituir as razões pelas quais o vetor não pode ser valorado contra o réu.
+
+##### Regra: neutro ou favorável
+
+> Em relação ao comportamento da vítima, a jurisprudência desta Corte Superior de Justiça é no sentido de que esta é uma circunstância judicial ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu, sendo descabida sua utilização para incrementar a pena-base.
+>
+> (AgRg no AREsp 2.157.484, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 13/09/2022, DJe 19/09/2022)
+
+> Este Sodalício possui entendimento de que o comportamento da vítima é circunstância judicial ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu, sendo inviável sua utilização de forma desfavorável ao culpado.
+>
+> (AgRg no REsp 1.667.814, 5ª T., Rel. Min. Ribeiro Dantas, j. 10/04/2018, DJe 18/04/2018)
+
+> De acordo com o entendimento desta Corte Superior, o comportamento da vítima é circunstância judicial que nunca será avaliada desfavoravelmente: ou será positiva, quando a vítima contribui para a prática do delito, ou será neutra, quando não há contribuição [...]
+>
+> (AgInt no REsp 1.713.629, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 15/03/2018, DJe 27/03/2018)
+
+##### Razão 1: o vetor mede a contribuição da vítima, e não o seu desvalor
+
+O vetor serve para avaliar se a vítima provocou, facilitou ou de algum modo concorreu para o fato. Se concorreu, a circunstância é favorável ao réu; se não concorreu, não há o que valorar e o vetor fica neutro (AgInt no REsp 1.713.629). Quando o comportamento da vítima não contribui ou é "normal à espécie", não há consideração desfavorável:
+
+> Esta Corte tem reiteradamente decidido que, quando o comportamento da vítima não contribui para o cometimento do crime, ou é considerado "normal à espécie", não há falar em consideração desfavorável ao acusado.
+>
+> (HC 148.275, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 21/08/2012, DJe 05/09/2012)
+
+##### Razão 2: a falta de contribuição é a normalidade do crime
+
+Quase toda vítima nada faz para provocar o crime. Aumentar a pena por isso converteria a ausência de uma circunstância favorável em circunstância desfavorável, na prática uma agravante que a lei não prevê (inferência do estudo, a partir dos julgados). Por isso o vetor neutro não eleva nem reduz a pena-base:
+
+> É assente o entendimento, nesta Corte Superior, de que o comportamento da vítima deve considerado neutro, se em nada contribuiu para o delito, não justificando o incremento ou a redução da pena-base.
+>
+> (AgRg no REsp 1.720.603, 5ª T., Rel. Min. Jorge Mussi, j. 23/04/2019, DJe 07/05/2019)
+
+> O comportamento da vítima valorado como neutro não pode subsidiar a exasperação da pena base.
+>
+> (AgRg no REsp 1.294.129, 5ª T., Rel. Min. Jorge Mussi, j. 05/02/2013, DJe 15/02/2013)
+
+> O comportamento da vítima tachado como neutro não pode ser valorado como prejudicial ao acusado.
+>
+> (HC 83.066, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 25/08/2009, DJe 14/09/2009)
+
+##### Razão 3: a circunstância é de via única
+
+Sendo a única do art. 59 que pode apenas beneficiar o réu, ela admite compensação com circunstância negativa, mas não se soma a elas. No HC 164.112, a sentença reconheceu que a conduta da vítima contribuiu para o crime, e o aumento por duas circunstâncias negativas foi compensado:
+
+> Nesse sentido, lembre-se que "dentre as oito circunstâncias trazidas no artigo 59 do Código Penal, existe uma, o comportamento da vítima, que pode ser valorada em favor do réu, razão pela qual mostra-se plenamente possível a compensação entre circunstâncias negativa e positiva"
+>
+> (HC 164.112, 5ª T., Rel. Min. Laurita Vaz, j. 27/11/2012, DJe 05/12/2012)
+
+##### Razão 4: negativar exige fundamento concreto, que nesse vetor dificilmente existe
+
+Fórmulas como "vítima em nada contribui para o crime" são genéricas e não bastam. O lucro fácil e o comportamento da vítima também não legitimam o aumento da pena-base nos crimes patrimoniais. Se o juiz considera o vetor desfavorável sem elemento concreto, a pena-base é reduzida:
+
+> Não pode o magistrado sentenciante majorar a pena-base fundando-se, tão somente, em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a exasperação, tais como, "tinha consciência de que agia em desacordo com a lei" (culpabilidade) e "vítima em nada contribui para o crime" (comportamento da vítima).
+>
+> (HC 191.734, 5ª T., Rel. Min. Laurita Vaz, j. 18/09/2012, DJe 26/09/2012)
+
+> Igualmente não legitima o aumento da basilar o lucro fácil, inerente aos delitos patrimoniais, nem o comportamento da vítima, circunstância favorável ao réu ou neutra.
+>
+> (AgRg no REsp 1.819.373, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 17/10/2019, DJe 25/10/2019)
+
+> Tendo o Juiz sentenciante considerado desfavorável o comportamento da vítima, sem, no entanto, ter apontado qualquer elemento concreto que justificasse o porquê de tal conclusão, mostra-se devida a redução da pena-base nesse ponto.
+>
+> (HC 205.072, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 06/09/2012, DJe 26/09/2012)
+
+##### Razão 5: efeito do afastamento do vetor
+
+Reconhecida a ilegalidade, o STJ afasta o vetor e refaz a pena-base. No AgRg no AREsp 2.157.484, afastado o desvalor do comportamento da vítima e mantidas as demais circunstâncias negativas, a pena foi redimensionada. Em recurso exclusivo da defesa, a redução proporcional é obrigatória (Tema 1.214/STJ).
+
+##### Razão 6: a vítima não pode ser desqualificada
+
+Nos crimes sexuais, a ADPF 1107 veda valorar a vida sexual pregressa da vítima ou o seu modo de vida na fixação da pena (seção 4.8.5.1). A vedação reforça a razão central: o julgamento da pena recai sobre a conduta do réu, e não sobre o modo de ser da vítima.
+
+##### O que fazer com características da vítima que não são o seu comportamento
+
+O STJ não proíbe considerar fatos ligados à vítima. Proíbe lançá-los no vetor "comportamento da vítima", e os valora em outro vetor, desde que concretos e alheios ao tipo. Idade tenra e gravidade concreta do modo de agir vão para as circunstâncias do crime; a maior reprovabilidade vai para a culpabilidade:
+
+> A tenra idade das vítimas - oito anos de idade - é motivo idôneo para considerar negativamente as circunstâncias do delito, as quais emprestaram à conduta do Réu especial reprovabilidade, que não se afiguram inerentes ao próprio tipo penal, exasperando a pena-base.
+>
+> (AgRg no AREsp 20.215, 5ª T., Rel. Min. Laurita Vaz, j. 18/04/2013, DJe 25/04/2013)
+
+> É idônea a valoração negativa das circunstâncias do delito, tendo em vista a gravidade concreta da conduta de quem invade a residência da vítima.
+>
+> (AgRg no HC 609.143, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 02/02/2021, DJe 04/02/2021)
+
+> Em outras palavras, não foi valorada negativamente a circunstância judicial "comportamento das vítimas", mas a culpabilidade, evidenciada pela intensa reprovabilidade da conduta dos réus.
+>
+> (AgRg no HC 532.680, 6ª T., Rel. Min. Antonio Saldanha Palheiro, j. 30/06/2020, DJe 04/08/2020)
+
+#### 4.8.6.3 Hipóteses em que a valoração é admitida (causas que autorizam negativar)
+
+Como a valoração só pode ser neutra ou favorável, não há hipótese que autorize negativar o vetor. A tabela traz o que se admite: a valoração em favor do réu e o aproveitamento do fato em outro vetor.
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Comportamento da vítima que contribui para o crime: circunstância favorável | AgInt no REsp 1.713.629, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 15/03/2018, DJe 27/03/2018; HC 164.112, 5ª T., Rel. Min. Laurita Vaz, j. 27/11/2012, DJe 05/12/2012 | A circunstância é positiva quando a vítima contribui para o delito; pode compensar circunstância negativa, como no HC 164.112, em que a conduta da vítima contribuiu para o crime. |
+| Vítima que não contribui: vetor neutro | AgRg no REsp 1.720.603, 5ª T., Rel. Min. Jorge Mussi, j. 23/04/2019, DJe 07/05/2019; HC 148.275, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 21/08/2012, DJe 05/09/2012 | O vetor é neutro e não justifica incremento nem redução da pena-base. |
+| Idade tenra da vítima, valorada nas circunstâncias do crime | AgRg no AREsp 20.215, 5ª T., Rel. Min. Laurita Vaz, j. 18/04/2013, DJe 25/04/2013 | Fato concreto que não é inerente ao tipo, valorado como circunstância do crime, e não como comportamento da vítima. |
+| Invasão da residência da vítima, valorada nas circunstâncias do crime | AgRg no HC 609.143, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 02/02/2021, DJe 04/02/2021 | A gravidade concreta da conduta é circunstância do crime. |
+| Aproveitamento da condição da vítima na culpabilidade | AgRg no HC 532.680, 6ª T., Rel. Min. Antonio Saldanha Palheiro, j. 30/06/2020, DJe 04/08/2020 | A maior reprovabilidade da conduta é culpabilidade; não foi valorado o comportamento das vítimas. |
+
+#### 4.8.6.4 Hipóteses em que a valoração não é admitida (causas que não autorizam negativar)
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Comportamento da vítima negativado como circunstância desfavorável | AgRg no AREsp 2.157.484, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 13/09/2022, DJe 19/09/2022; AgRg no REsp 1.667.814, 5ª T., Rel. Min. Ribeiro Dantas, j. 10/04/2018, DJe 18/04/2018; AgRg no REsp 1.710.012, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 06/03/2018, DJe 14/03/2018 | Circunstância ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu; é descabida a utilização para incrementar a pena-base. |
+| Vetor valorado como neutro usado para exasperar a pena | AgRg no REsp 1.294.129, 5ª T., Rel. Min. Jorge Mussi, j. 05/02/2013, DJe 15/02/2013; HC 83.066, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 25/08/2009, DJe 14/09/2009 | O que foi tido como neutro não pode ser tratado como prejudicial ao acusado. |
+| Fórmula genérica ("vítima em nada contribui para o crime") | HC 191.734, 5ª T., Rel. Min. Laurita Vaz, j. 18/09/2012, DJe 26/09/2012 | Referência vaga e genérica, sem fundamentação objetiva, não justifica a exasperação. |
+| Negativação sem elemento concreto | HC 205.072, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 06/09/2012, DJe 26/09/2012 | Devida a redução da pena-base nesse ponto. |
+| Lucro fácil e comportamento da vítima nos crimes patrimoniais | AgRg no REsp 1.819.373, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 17/10/2019, DJe 25/10/2019 | Lucro fácil é inerente aos delitos patrimoniais, e o comportamento da vítima é favorável ou neutro; nenhum legitima o aumento da basilar. |
+| Vida sexual pregressa e modo de vida da vítima de crime sexual | ADPF 1107, STF, Plenário, Rel. Min. Cármen Lúcia, j. 23/05/2024 | A vedação é vinculante e alcança a fixação da pena. |
+
+### 4.8.7 Divergências, superações e temas pendentes
+
+**Julgados mais antigos que negativaram o vetor.** Em 2006 e em 2010, a Quinta Turma manteve o aumento da pena-base com o comportamento da vítima entre as circunstâncias desfavoráveis:
+
+> Hipótese em que a Magistrada sentenciante, ao fixar a pena-base acima do mínimo legal, justificou os motivos que levaram ao indigitado quantum, considerando, no caso, a culpabilidade e a personalidade do réu, os motivos, as circunstâncias e as conseqüências do delito, além do comportamento da vítima, como ensejadoras do aumento da reprimenda.
+>
+> (HC 58.821, 5ª T., Rel. Min. Gilson Dipp, j. 15/08/2006, Diário da Justiça (DJ) 11/09/2006)
+
+> Pena-base que não pode ser fixada no mínimo legal, por persistirem as circunstâncias judiciais negativamente valoradas relativas às consequências do crime, ao comportamento da vítima e aos maus antecedentes do réu.
+>
+> (HC 184.977, 5ª T., Rel. Min. Gilson Dipp, j. 02/12/2010, DJe 13/12/2010)
+
+A orientação posterior, de 2012 em diante, é a de que o vetor só pode ser neutro ou favorável (julgados da seção 4.8.6.2), e em 2018 o STJ a qualifica como "posição pacífica" (AgInt no REsp 1.713.629). Os dois julgados antigos não devem ser usados como paradigma.
+
+**Temas pendentes.** Não foi localizado tema afetado e não julgado sobre o comportamento da vítima.
+
+### 4.8.8 Aplicação prática
+
+- **Na sentença penal e na do Júri:** registre o comportamento da vítima como neutro quando ela não contribuiu para o crime, e como favorável, quando contribuiu, apontando o fato concreto. Não escreva "a vítima em nada contribuiu" como razão de aumento.
+- **Características da vítima:** idade, vulnerabilidade, abuso de confiança e local do crime não são "comportamento da vítima". Se excederem o inerente ao tipo, valore-os nas circunstâncias do crime, nas consequências ou na culpabilidade, e fundamente cada um.
+- **Defesa:** peça o decote quando a sentença negativar o vetor, e a redução proporcional da pena-base se a apelação for só da defesa (Tema 1.214). Se a sentença reconheceu que a vítima contribuiu, peça a compensação com as circunstâncias negativas (HC 164.112).
+- **Acusação:** não insista no vetor para aumentar a pena. Se o fato é grave, enquadre-o na culpabilidade ou nas circunstâncias, com elemento concreto.
+- **Crimes sexuais:** não use a vida sexual pregressa nem o modo de vida da vítima em nenhuma etapa da fixação da pena (ADPF 1107).
+- **Concursos:** o ponto cobrado é que o vetor "comportamento da vítima" só pode ser neutro ou favorável, e que a ausência de contribuição da vítima não agrava a pena.
+
 # 5 Critérios de quantificação da pena na primeira e na segunda fase
 
 Este capítulo é geral: vale para todos os vetores da Parte I e para os crimes da Parte II. Os parâmetros de fração não são regras de direito; o que vincula é o dever de motivar e o limite do intervalo de pena do tipo.
@@ -1589,7 +1810,7 @@ Este capítulo é geral: vale para todos os vetores da Parte I e para os crimes 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
 | CP, art. 59 | caput | — | O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime e ao comportamento da vítima, estabelece a quantidade de pena aplicável, conforme seja necessário e suficiente para reprovação e prevenção do crime (Lei 7.209/1984). | Texto vigente |
-| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (a remissão "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade, com divulgação em 23/08/2024 e publicação em 26/08/2024 (a remissão "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna). | Julgada procedente; eficácia contra todos e efeito vinculante |
 | CP, art. 65, I e III, "d" | I; III, d | — | Atenuam a pena ser o agente menor de 21 anos na data do fato ou maior de 70 na data da sentença, salvo se o crime envolver violência sexual contra a mulher (inciso I, redação da Lei 15.160/2025), e ter confessado espontaneamente, perante a autoridade, a autoria do crime (inciso III, "d"). | Texto vigente |
 | CP, art. 67 | caput | — | No concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência (Lei 7.209/1984). | Texto vigente |
 | CP, art. 68 | caput | — | A pena-base é fixada atendendo-se ao art. 59; em seguida, consideram-se as atenuantes e agravantes; por último, as causas de diminuição e de aumento (Lei 7.209/1984). | Texto vigente |
@@ -1674,6 +1895,7 @@ O STJ admite aumento superior a 1/6 ou critério diverso de 1/8 e 1/6, mas fixa 
 > A fixação da pena-base seguiu os princípios da proporcionalidade e razoabilidade, não sendo vinculada a um critério matemático rígido, mas sim à discricionariedade fundamentada do julgador, conforme reiterada jurisprudência do STJ.
 >
 > (AREsp 2.296.413, 5ª T., Rel. Min. Daniela Teixeira, j. 26/11/2024, DJEN 04/12/2024)
+
 
 ### 5.4.5 Quadro comparativo
 
@@ -1919,14 +2141,14 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 
 ### 6.2.1 Tema e recorte
 
-- **Tema:** Particularidades do feminicídio (CP, art. 121-A e, para fatos anteriores, art. 121, § 2º, VI) na primeira e na segunda fase da dosimetria da pena.
+- **Tema:** Particularidades do feminicídio (Código Penal (CP), art. 121-A e, para fatos anteriores, art. 121, § 2º, VI) na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio do feminicídio na primeira e na segunda fase. As regras gerais de cada vetor do art. 59 e a terceira fase (majorantes do § 2º do art. 121-A, tentativa, concurso) ficam fora. Para o homicídio em geral, ver a seção 6.1.
 
 ### 6.2.2 Síntese executiva
 
 **Primeira fase.** O art. 121-A prevê pena de reclusão de 20 a 40 anos. O contexto de violência doméstica ou o menosprezo à condição de mulher já integram o tipo e não podem ser repetidos como circunstância judicial. O que o STJ aceita são fatos concretos que vão além do núcleo da qualificadora: padrão sistemático de controle e intimidação, premeditação vingativa, monitoramento da rotina da vítima, escolha do momento de maior vulnerabilidade (culpabilidade, motivos e circunstâncias); histórico de agressividade e de conflitos com companheiras (personalidade e conduta social); crime praticado durante o cumprimento de pena, em presença de filho de tenra idade (culpabilidade).
 
-**Segunda fase.** (a) A agravante do art. 61, II, "f", pode ser aplicada em conjunto com a Lei Maria da Penha, sem *bis in idem*, em crimes cujo tipo não tem a condição de mulher como elementar (Tema 1.197/STJ). (b) Na lesão corporal do art. 129, § 13, a condição de mulher é elementar, e a agravante é *bis in idem* (REsp 2.247.908). No crime do art. 24-A da Lei 11.340/2006, em que a violência doméstica integra o tipo, a agravante da alínea "f" também configura *bis in idem* (REsp 2.182.733). **Não localizei julgado do STJ que aplique ou vede a alínea "f" ao art. 121-A** (ver seção 7.10, item 6.2.1). (c) Qualificadora do motivo fútil ou torpe convive com a do feminicídio, por serem de natureza distinta, e a remanescente pode agravar a pena.
+**Segunda fase.** (a) A agravante do art. 61, II, "f", pode ser aplicada em conjunto com a Lei Maria da Penha, sem *bis in idem*, em crimes cujo tipo não tem a condição de mulher como elementar (Tema 1.197/STJ). (b) Na lesão corporal do art. 129, § 13, a condição de mulher é elementar, e a agravante é *bis in idem* (recurso especial (REsp) 2.247.908). No crime do art. 24-A da Lei 11.340/2006, em que a violência doméstica integra o tipo, a agravante da alínea "f" também configura *bis in idem* (REsp 2.182.733). **Não localizei julgado do STJ que aplique ou vede a alínea "f" ao art. 121-A** (ver seção 7.11, item 6.2.1). (c) Qualificadora do motivo fútil ou torpe convive com a do feminicídio, por serem de natureza distinta, e a remanescente pode agravar a pena.
 
 ### 6.2.3 Normas e entendimentos de observância obrigatória
 
@@ -1934,10 +2156,10 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 |---|---|---|---|---|
 | CP, art. 121-A (curadoria interna) | caput e §§ 1º a 3º | — | "Matar mulher por razões da condição do sexo feminino": reclusão de 20 a 40 anos. § 1º: há razões da condição do sexo feminino quando envolve violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher. § 2º: aumento de 1/3 até a metade (gestação, até 3 meses após o parto, mãe ou responsável por criança, adolescente ou pessoa com deficiência; vítima menor de 14, maior de 60 ou com deficiência; presença física ou virtual de descendente ou ascendente; descumprimento de medidas protetivas; circunstâncias dos incisos III, IV e VIII do § 2º do art. 121). § 3º: comunicam-se ao coautor as circunstâncias pessoais elementares do § 1º. Incluído pela Lei 14.994/2024. | Texto vigente na curadoria interna |
 | CP, art. 121, § 2º, VI | — | — | Feminicídio como qualificadora (Lei 13.104/2015), revogado pela Lei 14.994/2024, assim como o § 2º-A e o § 7º. Aplica-se aos fatos anteriores. | Revogado (curadoria interna) |
-| Recurso Repetitivo | 1.197 | STJ (3ª Seção) | "A aplicação da agravante do art. 61, inc. II, alínea f, do CP, em conjunto com as disposições da Lei Maria da Penha (Lei n. 11.340/2006), não configura bis in idem." Paradigma REsp 2.027.794, Rel. Min. Jesuíno Rissato (Des. convocado do TJDFT); afetação em 25/04/2023; acórdãos de 12/06/2024 (REsps 2.026.129, 2.027.794 e 2.029.515, conforme o REsp 2.247.908). | Trânsito em julgado |
-| Recurso Repetitivo | 1.318 | STJ (3ª Seção) | A premeditação autoriza negativar a culpabilidade, desde que não seja elementar nem pressuposto de qualificadora ou agravante. REsp 2.174.028 e 2.174.008, Rel. Min. Otávio de Almeida Toledo, j. 08/05/2025, DJEN 13/05/2025. | Trânsito em julgado |
-| Recurso Repetitivo | 1.394 | STJ (3ª Seção) | É válida a exasperação da pena-base pelas consequências quando a vítima de homicídio deixou filho(s) menor(es) de idade. REsp 2.195.921, Rel. Min. Reynaldo Soares da Fonseca. Voltado ao homicídio; aplicação ao feminicídio é inferência (ver seção 7.10). | Trânsito em julgado |
-| ADPF | 779 | STF (Plenário) | Inconstitucional a "legítima defesa da honra" em crimes de feminicídio ou de agressão contra mulheres. Rel. Min. Dias Toffoli, j. 01/08/2023 (Informativo 1105). | Julgada |
+| Recurso Repetitivo | 1.197 | STJ (3ª Seção) | "A aplicação da agravante do art. 61, inc. II, alínea f, do CP, em conjunto com as disposições da Lei Maria da Penha (Lei n. 11.340/2006), não configura bis in idem." Paradigma REsp 2.027.794, Rel. Min. Jesuíno Rissato (Des. convocado do Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)); afetação em 25/04/2023; acórdãos de 12/06/2024 (REsps 2.026.129, 2.027.794 e 2.029.515, conforme o REsp 2.247.908). | Trânsito em julgado |
+| Recurso Repetitivo | 1.318 | STJ (3ª Seção) | A premeditação autoriza negativar a culpabilidade, desde que não seja elementar nem pressuposto de qualificadora ou agravante. REsp 2.174.028 e 2.174.008, Rel. Min. Otávio de Almeida Toledo, j. 08/05/2025, Diário de Justiça Eletrônico Nacional (DJEN) 13/05/2025. | Trânsito em julgado |
+| Recurso Repetitivo | 1.394 | STJ (3ª Seção) | É válida a exasperação da pena-base pelas consequências quando a vítima de homicídio deixou filho(s) menor(es) de idade. REsp 2.195.921, Rel. Min. Reynaldo Soares da Fonseca. Voltado ao homicídio; aplicação ao feminicídio é inferência (ver seção 7.11). | Trânsito em julgado |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 779 | STF (Plenário) | Inconstitucional a "legítima defesa da honra" em crimes de feminicídio ou de agressão contra mulheres. Rel. Min. Dias Toffoli, j. 01/08/2023 (Informativo 1105). | Julgada |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
 ### 6.2.4 Primeira fase: o que é próprio do feminicídio
@@ -1946,11 +2168,11 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Culpabilidade, motivos e circunstâncias: controle, intimidação, premeditação vingativa, monitoramento, momento de maior vulnerabilidade | AgRg no AREsp 3.128.353, 5ª T., Rel. Min. Messod Azulay Neto, j. 02/06/2026, DJe 10/06/2026 | São elementos do modo de agir que "não se confundem com o núcleo da qualificadora do feminicídio", e por isso afastam o *bis in idem*. Pena definitiva de 15 anos e 8 meses (fato sob a redação anterior, art. 121, § 2º, VI). |
-| Personalidade (agressiva e controladora) e conduta social (histórico de conflitos com companheiras e com o pai) | AgRg no HC 855.044, 5ª T., Rel. Min. Joel Ilan Paciornik, DJe 08/05/2024 | Feminicídio tentado. A origem apreciou os vetores em conjunto, mas indicou elementos suficientes para cada um; sem *bis in idem*. |
+| Culpabilidade, motivos e circunstâncias: controle, intimidação, premeditação vingativa, monitoramento, momento de maior vulnerabilidade | Agravo regimental (AgRg) no agravo em recurso especial (AREsp) 3.128.353, 5ª T., Rel. Min. Messod Azulay Neto, j. 02/06/2026, Diário da Justiça eletrônico (DJe) 10/06/2026 | São elementos do modo de agir que "não se confundem com o núcleo da qualificadora do feminicídio", e por isso afastam o *bis in idem*. Pena definitiva de 15 anos e 8 meses (fato sob a redação anterior, art. 121, § 2º, VI). |
+| Personalidade (agressiva e controladora) e conduta social (histórico de conflitos com companheiras e com o pai) | AgRg no _habeas corpus_ (HC) 855.044, 5ª T., Rel. Min. Joel Ilan Paciornik, DJe 08/05/2024 | Feminicídio tentado. A origem apreciou os vetores em conjunto, mas indicou elementos suficientes para cada um; sem *bis in idem*. |
 | Culpabilidade: crime durante o cumprimento de pena em regime aberto e na presença de filha de tenra idade | AgRg no HC 1.077.923, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 14/04/2026 | Feminicídio tentado. Pena-base elevada em 1/3 (1/6 por vetor: antecedentes e culpabilidade). A presença da menor, também majorante, serviu só de reforço, sem *bis in idem*. Mais de 1/6 por vetor exige fundamentação concreta. |
 | Antecedentes: condenação por fato anterior com trânsito posterior | AgRg no HC 1.077.923 | Maus antecedentes abrangem condenações transitadas em julgado no curso da ação penal. |
-| Consequências: desamparo de pais idosos pela perda da única filha | AgRg no HC 783.124, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 18/12/2022; AgRg no HC 731.837, 6ª T., Rel. Min. Olindo Menezes (Des. convocado do TRF 1ª Região), DJe 16/09/2022 | Efeitos que extrapolam o resultado ordinário do tipo. |
+| Consequências: desamparo de pais idosos pela perda da única filha | AgRg no HC 783.124, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 18/12/2022; AgRg no HC 731.837, 6ª T., Rel. Min. Olindo Menezes (Des. convocado do Tribunal Regional Federal (TRF) 1ª Região), DJe 16/09/2022 | Efeitos que extrapolam o resultado ordinário do tipo. |
 | Circunstâncias e culpabilidade: arrastar a vítima pelos cabelos | AgRg no AREsp 2.547.967, 5ª T., Rel. Min. Ribeiro Dantas, DJe 21/06/2024; AgRg no HC 647.478, 5ª T., Rel. Min. Joel Ilan Paciornik, DJe 07/06/2021 | Violência adicional ao núcleo do tipo eleva a pena-base. |
 | Pena-base mantida em feminicídio doloso consumado | HC 894.656, 3ª Seção, Rel. Min. Daniela Teixeira, DJe 04/12/2024 | Pena total de 23 anos, 8 meses e 20 dias, resultado do aumento em apelação do Ministério Público; fundamentação das vetoriais considerada idônea. |
 
@@ -1963,6 +2185,8 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Honra, ciúme ou traição como motivo nobre | ADPF 779 | Por coerência com a vedação à tese da "legítima defesa da honra" (inferência a conferir). |
 | Premeditação que é pressuposto de qualificadora ou agravante | Tema 1.318/STJ, item 6.2.1 | Veda o *bis in idem*. |
 
+**ADPF 1107: modo de vida e vivência sexual pregressa da vítima.** A arguição de descumprimento de preceito fundamental (ADPF) 1107 foi julgada procedente pelo Tribunal Pleno do STF, Rel. Min. Cármen Lúcia, em 23/05/2024 (divulgação em 23/08/2024; publicação em 26/08/2024). A ementa assenta: "Ofende os princípios da igualdade e da dignidade da pessoa humana a perquirição da vítima, em processos apuratórios e julgamentos de crimes contra a dignidade sexual, quanto ao seu modo de vida e histórico de experiências sexuais." E acrescenta que o Tribunal deve interpretar os dispositivos "conforme a Constituição da República, para conferir máxima efetividade aos direitos constitucionalmente postos e coibir a perpetuação de práticas que impliquem na revitimização de mulheres agredidas sexualmente". No dispositivo, o Tribunal: (i) deu interpretação conforme ao art. 400-A do Código de Processo Penal (CPP) "para excluir a possibilidade de invocação, pelas partes ou procuradores, de elementos referentes à vivência sexual pregressa da vítima ou ao seu modo de vida em audiência de instrução e julgamento de crimes contra a dignidade sexual e de violência contra a mulher, sob pena de nulidade do ato ou do julgamento"; (ii) vedou o reconhecimento dessa nulidade quando a defesa invocar o modo de vida ou a vivência sexual pregressa da vítima com essa finalidade, "considerando a impossibilidade do acusado se beneficiar da própria torpeza"; (iii) deu interpretação conforme ao art. 59 do CP, "para assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida"; e (iv) assentou ser dever do magistrado "atuar no sentido de impedir essa prática inconstitucional, sob pena de responsabilização civil, administrativa e penal". **No feminicídio**, o item (iii) refere-se expressamente a crimes sexuais; já o item (i) alcança a audiência de instrução e julgamento de crimes de violência contra a mulher. Por coerência com a ementa, que condena a revitimização, o modo de vida e a vivência sexual pregressa da vítima não devem entrar na pena-base do feminicídio, seja na culpabilidade, nas circunstâncias ou no comportamento da vítima (inferência do estudo; não há julgado específico do STF sobre a pena-base do feminicídio).
+
 ### 6.2.5 Segunda fase: o que é próprio do feminicídio
 
 #### 6.2.5.1 Hipóteses em que a valoração é admitida
@@ -1971,8 +2195,8 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 |---|---|---|
 | Agravante do art. 61, II, "f", com a Lei Maria da Penha, em crimes cujo tipo não exige a condição de mulher | Tema 1.197/STJ; REsp 2.101.650, 3ª Seção, Rel. Min. Daniela Teixeira, DJe 16/12/2024 | Lesão corporal e ameaça contra companheira: sem *bis in idem*. |
 | Qualificadora de motivo fútil ou torpe, de natureza subjetiva, junto à do feminicídio | AgRg no HC 787.022, 6ª T., Rel. Min. Sebastião Reis Júnior, DJe 16/03/2023; REsp 2.158.599, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 15/04/2026, DJe 22/04/2026 | As qualificadoras do motivo torpe e do feminicídio "não possuem a mesma natureza" e podem ser aplicadas em conjunto. No REsp 2.158.599 (homicídio qualificado tentado, feminicídio e motivo fútil), a qualificadora remanescente foi valorada como agravante. O AgRg no HC 787.022 não foi conhecido (Súmula 182/STJ); a tese vem da decisão agravada. |
-| Feminicídio (objetivo) e motivo fútil (subjetivo): compatibilidade após a Lei 14.994/2024 | EDcl no AgRg no AREsp 3.083.812, 5ª T., Rel. Min. Messod Azulay Neto, j. 05/05/2026, DJe 12/05/2026; AgRg no REsp 2.191.868, 6ª T., Rel. Min. Og Fernandes, j. 19/08/2026, DJe 24/08/2026 | A Lei 14.994/2024 não vedou as agravantes genéricas; fração de 1/8 por vetorial. O EDcl no AgRg no AREsp 3.083.812 cita o HC 1.035.983/SP e o REsp 2.029.364/CE. |
-| Paga ou promessa de recompensa não se comunica automaticamente ao mandante | Embargos de divergência (EDv) nos EREsp 1.973.397, 3ª S., Rel. Min. Antonio Saldanha Palheiro, DJe 25/09/2025 | Julgado em homicídio mercenário; relevante ao motivo torpe como agravante. |
+| Feminicídio (objetivo) e motivo fútil (subjetivo): compatibilidade após a Lei 14.994/2024 | Embargos de declaração (EDcl) no AgRg no AREsp 3.083.812, 5ª T., Rel. Min. Messod Azulay Neto, j. 05/05/2026, DJe 12/05/2026; AgRg no REsp 2.191.868, 6ª T., Rel. Min. Og Fernandes, j. 19/08/2026, DJe 24/08/2026 | A Lei 14.994/2024 não vedou as agravantes genéricas; fração de 1/8 por vetorial. O EDcl no AgRg no AREsp 3.083.812 cita o HC 1.035.983/SP e o REsp 2.029.364/CE. |
+| Paga ou promessa de recompensa não se comunica automaticamente ao mandante | Embargos de divergência (EDv) nos embargos de divergência em recurso especial (EREsp) 1.973.397, 3ª S., Rel. Min. Antonio Saldanha Palheiro, DJe 25/09/2025 | Julgado em homicídio mercenário; relevante ao motivo torpe como agravante. |
 | Feminicídio como qualificadora objetiva | AgRg no AREsp 3.207.327, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 04/08/2026, DJe 18/08/2026 | Incide quando o homicídio ocorre em violência doméstica e familiar, sem exigir prova de motivação por menosprezo; o reatar da relação pela vítima não afasta o dolo (pronúncia). |
 
 #### 6.2.5.2 Hipóteses em que a valoração não é admitida
@@ -1991,7 +2215,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 
 ### 6.3.2 Síntese executiva
 
-**Primeira fase.** O tipo do caput comina, no texto vigente na curadoria interna, reclusão de 6 a 10 anos (redação da Lei 15.397/2026). Três pontos são próprios do roubo. (a) **Arma branca:** desde a Lei 13.654/2018 deixou de ser majorante; o Tema 1.110/STJ permite usá-la para aumentar a pena-base, com fundamentação, e veda ao STJ fazer a "transposição valorativa" entre as fases. O texto vigente do art. 157, § 2º, VII (Lei 13.964/2019) prevê de novo a arma branca como majorante; o STJ aplica o inciso VII a condenações por roubo com arma branca, sem delimitar o alcance temporal em relação ao Tema 1.110 (ver seção 7.11, item 6.3.1). (b) **Modo de execução:** premeditação, organização, ousadia, arma de fogo apontada a adolescente e prejuízo expressivo sustentam culpabilidade, circunstâncias e consequências, desde que distintos dos fatos que sustentam as majorantes. (c) **Fração:** acima de 1/6 (ou 1/8) por vetor exige fundamentação específica.
+**Primeira fase.** O tipo do caput comina, no texto vigente na curadoria interna, reclusão de 6 a 10 anos (redação da Lei 15.397/2026). Três pontos são próprios do roubo. (a) **Arma branca:** desde a Lei 13.654/2018 deixou de ser majorante; o Tema 1.110/STJ permite usá-la para aumentar a pena-base, com fundamentação, e veda ao STJ fazer a "transposição valorativa" entre as fases. O texto vigente do art. 157, § 2º, VII (Lei 13.964/2019) prevê de novo a arma branca como majorante; o STJ aplica o inciso VII a condenações por roubo com arma branca, sem delimitar o alcance temporal em relação ao Tema 1.110 (ver seção 7.12, item 6.3.1). (b) **Modo de execução:** premeditação, organização, ousadia, arma de fogo apontada a adolescente e prejuízo expressivo sustentam culpabilidade, circunstâncias e consequências, desde que distintos dos fatos que sustentam as majorantes. (c) **Fração:** acima de 1/6 (ou 1/8) por vetor exige fundamentação específica.
 
 **Segunda fase.** A confissão não reduz a pena abaixo do mínimo (Súmula 231/STJ). A confissão compensa-se integralmente com a reincidência, salvo multirreincidência (Tema 585/STJ). Agravantes como o recurso que dificultou a defesa (art. 61, II, "c") exigem posicionamento estratégico ou meio concreto.
 
@@ -2123,7 +2347,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 
 ### 6.5.2 Síntese executiva
 
-**Primeira fase.** Os tipos especiais definem a faixa de partida da pena-base (quadro da seção 6.5.3). Três pontos são próprios do furto. (a) **Qualificadora sobejante:** havendo duas ou mais qualificadoras do § 4º, uma qualifica o crime e a remanescente pode exasperar a pena-base, sem *bis in idem* (REsp 2.235.210; AgRg no REsp 2.174.591). (b) **Período noturno:** o Tema 1.087/STJ afasta a majorante do repouso noturno no furto qualificado, mas o período noturno pode ser circunstância judicial negativa, se fundamentada a menor vigilância (AgRg no HC 1.014.935). (c) **Prejuízo:** o prejuízo expressivo é aceito nas consequências por julgados da 5ª e da 6ª Turma, mas outros julgados das mesmas Turmas o rejeitam por ser inerente ao tipo; não há tese da Terceira Seção (ver seção 7.13).
+**Primeira fase.** Os tipos especiais definem a faixa de partida da pena-base (quadro da seção 6.5.3). Três pontos são próprios do furto. (a) **Qualificadora sobejante:** havendo duas ou mais qualificadoras do § 4º, uma qualifica o crime e a remanescente pode exasperar a pena-base, sem *bis in idem* (REsp 2.235.210; AgRg no REsp 2.174.591). (b) **Período noturno:** o Tema 1.087/STJ afasta a majorante do repouso noturno no furto qualificado, mas o período noturno pode ser circunstância judicial negativa, se fundamentada a menor vigilância (AgRg no HC 1.014.935). (c) **Prejuízo:** o prejuízo expressivo é aceito nas consequências por julgados da 5ª e da 6ª Turma, mas outros julgados das mesmas Turmas o rejeitam por ser inerente ao tipo; não há tese da Terceira Seção (ver seção 7.14).
 
 **Segunda fase.** Não localizei particularidade do furto além das regras gerais: a atenuante não reduz abaixo do mínimo (Súmula 231/STJ) e a reincidência pesa também no regime e na substituição.
 
@@ -2304,12 +2528,12 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 
 ### 6.8.1 Tema e recorte
 
-- **Tema:** Particularidades do estupro (CP, art. 213) e do estupro de vulnerável (CP, art. 217-A) na primeira e na segunda fase da dosimetria da pena.
+- **Tema:** Particularidades do estupro (Código Penal (CP), art. 213) e do estupro de vulnerável (CP, art. 217-A) na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio dos crimes sexuais na primeira e na segunda fase. Ficam fora a terceira fase (majorantes dos arts. 226 e 234-A), a continuidade delitiva (Súmula 659 e Tema 1.202/STJ) e a tipicidade (Súmula 593 e Tema 1.121/STJ).
 
 ### 6.8.2 Síntese executiva
 
-**Primeira fase.** O art. 213 comina reclusão de 6 a 10 anos; o art. 217-A, de 10 a 18 anos (redação da Lei 15.280/2025 na curadoria interna). Quatro pontos são próprios do estupro. (a) **ADPF 1107:** é vedado valorar a vida sexual pregressa da vítima ou seu modo de vida. (b) **Idade da vítima:** a idade é elementar do estupro de vulnerável, mas a "tenra idade" pode ser graduada, ora na culpabilidade (6ª Turma), ora nas circunstâncias do crime (5ª Turma). (c) **Consequências:** o abalo psicológico severo, comprovado e que exige tratamento, não é inerente ao tipo e dispensa laudo pericial. (d) **Meio de execução:** conjunção carnal e coito anal revelam maior reprovabilidade que o mero ato libidinoso.
+**Primeira fase.** O art. 213 comina reclusão de 6 a 10 anos; o art. 217-A, de 10 a 18 anos (redação da Lei 15.280/2025 na curadoria interna). Quatro pontos são próprios do estupro. (a) **arguição de descumprimento de preceito fundamental (ADPF) 1107:** é vedado valorar a vida sexual pregressa da vítima ou seu modo de vida. (b) **Idade da vítima:** a idade é elementar do estupro de vulnerável, mas a "tenra idade" pode ser graduada, ora na culpabilidade (6ª Turma), ora nas circunstâncias do crime (5ª Turma). (c) **Consequências:** o abalo psicológico severo, comprovado e que exige tratamento, não é inerente ao tipo e dispensa laudo pericial. (d) **Meio de execução:** conjunção carnal e coito anal revelam maior reprovabilidade que o mero ato libidinoso.
 
 **Segunda fase.** O Tema 1.215/STJ admite a agravante do art. 61, II, "f", junto com a majorante do art. 226, II, salvo quando só há relação de autoridade, caso em que incide apenas a majorante. A confissão é atenuante independentemente de ter formado o convencimento do julgador (Súmula 545/STJ, redação revisada em 10/09/2025), mas é aplicada em menor proporção (1/12) e sem preponderância sobre agravantes quando o fato confessado for tipificado com pena menor (Tema 1.194/STJ).
 
@@ -2319,10 +2543,10 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 |---|---|---|---|---|
 | CP, art. 213 (curadoria interna) | caput e §§ 1º e 2º | — | Reclusão de 6 a 10 anos; § 1º (lesão grave ou vítima menor de 18 e maior de 14): 8 a 12 anos; § 2º (morte): 12 a 30 anos. | Texto vigente na curadoria interna |
 | CP, art. 217-A | caput e §§ 1º a 5º | — | Reclusão de 10 a 18 anos e multa (Lei 15.280/2025); § 3º, lesão grave: 12 a 24; § 4º, morte: 20 a 40. § 4º-A (Lei 15.353/2026): "É absoluta a presunção de vulnerabilidade da vítima e inadmissível sua relativização." § 5º: penas aplicáveis independentemente do consentimento, da experiência sexual ou de gravidez. | Texto vigente |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, j. 23/05/2024, por unanimidade (Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
-| Recurso Repetitivo | 1.215 | STJ (3ª Seção) | "Nos crimes contra a dignidade sexual, não configura bis in idem a aplicação simultânea da agravante genérica do art. 61, II, 'f', e da majorante específica do art. 226, II, ambos do Código Penal, salvo quando presente apenas a relação de autoridade do agente sobre a vítima, hipótese na qual deve ser aplicada tão somente a causa de aumento." REsp 2.038.833 e 2.049.969, Rel. Min. Joel Ilan Paciornik, j. 13/11/2024, DJe 18/11/2024. | Acórdão publicado; trânsito em julgado |
-| Recurso Repetitivo | 1.194 | STJ (3ª Seção) | A confissão espontânea abranda a pena independentemente de ter formado o convencimento do juiz, desde que sem retratação; aplica-se em menor proporção e sem preponderância sobre as agravantes, quando o fato confessado for tipificado com menor pena ou excluir a tipicidade, a ilicitude ou a culpabilidade. Paradigma REsp 2.001.973, Rel. Min. Jesuíno Rissato (Des. convocado do TJDFT). | Trânsito em julgado |
-| Súmula | 545 | STJ | Redação revisada pela 3ª Seção em 10/09/2025 (REsp 2.001.973/RS, Tema 1.194/STJ, DJEN 02/12/2025): "A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do CP, independentemente de ser utilizada na formação do convencimento do julgador." | Vigente (nova redação) |
+| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, j. 23/05/2024, por unanimidade, DJe-s/n com divulgação em 23/08/2024 e publicação em 26/08/2024 (Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Recurso Repetitivo | 1.215 | STJ (3ª Seção) | "Nos crimes contra a dignidade sexual, não configura bis in idem a aplicação simultânea da agravante genérica do art. 61, II, 'f', e da majorante específica do art. 226, II, ambos do Código Penal, salvo quando presente apenas a relação de autoridade do agente sobre a vítima, hipótese na qual deve ser aplicada tão somente a causa de aumento." recurso especial (REsp) 2.038.833 e 2.049.969, Rel. Min. Joel Ilan Paciornik, j. 13/11/2024, Diário da Justiça eletrônico (DJe) 18/11/2024. | Acórdão publicado; trânsito em julgado |
+| Recurso Repetitivo | 1.194 | STJ (3ª Seção) | A confissão espontânea abranda a pena independentemente de ter formado o convencimento do juiz, desde que sem retratação; aplica-se em menor proporção e sem preponderância sobre as agravantes, quando o fato confessado for tipificado com menor pena ou excluir a tipicidade, a ilicitude ou a culpabilidade. Paradigma REsp 2.001.973, Rel. Min. Jesuíno Rissato (Des. convocado do Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)). | Trânsito em julgado |
+| Súmula | 545 | STJ | Redação revisada pela 3ª Seção em 10/09/2025 (REsp 2.001.973/RS, Tema 1.194/STJ, Diário de Justiça Eletrônico Nacional (DJEN) 02/12/2025): "A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do CP, independentemente de ser utilizada na formação do convencimento do julgador." | Vigente (nova redação) |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
 ### 6.8.4 Primeira fase: o que é próprio do estupro
@@ -2331,13 +2555,13 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Culpabilidade: conjunção carnal e coito anal, em comparação com o mero ato libidinoso | AgRg no HC 1.075.946, 5ª T., Rel. Min. Maria Marluce Caldas, j. 17/06/2026, DJe 22/06/2026 | A gravidade concreta dos atos evidencia maior reprovabilidade. O Tribunal de origem não tratara do vetor, o que impediu a análise direta; de todo modo, a sentença era idônea. |
+| Culpabilidade: conjunção carnal e coito anal, em comparação com o mero ato libidinoso | Agravo regimental (AgRg) no _habeas corpus_ (HC) 1.075.946, 5ª T., Rel. Min. Maria Marluce Caldas, j. 17/06/2026, DJe 22/06/2026 | A gravidade concreta dos atos evidencia maior reprovabilidade. O Tribunal de origem não tratara do vetor, o que impediu a análise direta; de todo modo, a sentença era idônea. |
 | Culpabilidade: pluralidade de núcleos do tipo | REsp 2.244.686, 5ª T., Rel. Min. Maria Marluce Caldas, j. 17/06/2026, DJe 22/06/2026 | A prática de mais de um núcleo do tipo no mesmo contexto foi valorada na culpabilidade. |
 | Circunstâncias: tenra idade da vítima | AgRg no HC 1.075.946 | A idade de 9 anos legitima o aumento da pena-base pela maior vulnerabilidade física e psíquica. |
-| Culpabilidade: tenra idade e relação de confiança familiar | AgRg no AgRg no AREsp 2.807.164, 6ª T., Rel. Min. Og Fernandes, j. 04/08/2026, DJe 14/08/2026; REsp 2.176.423, 6ª T., Rel. Min. Og Fernandes, j. 27/08/2025, DJEN 01/09/2025; AgRg no HC 677.747, 6ª T., Rel. Min. Antonio Saldanha Palheiro, j. 14/06/2022, DJe 20/06/2022 | Vítima de 4 anos, em relação de confiança familiar, com reações emocionais atípicas e acompanhamento psicológico (AgRg no AgRg no AREsp 2.807.164); vítima de 5 anos (REsp 2.176.423); "a vulnerabilidade da vítima também deve ser contada em graus" (AgRg no HC 677.747). Sem *bis in idem*. |
+| Culpabilidade: tenra idade e relação de confiança familiar | AgRg no AgRg no agravo em recurso especial (AREsp) 2.807.164, 6ª T., Rel. Min. Og Fernandes, j. 04/08/2026, DJe 14/08/2026; REsp 2.176.423, 6ª T., Rel. Min. Og Fernandes, j. 27/08/2025, DJEN 01/09/2025; AgRg no HC 677.747, 6ª T., Rel. Min. Antonio Saldanha Palheiro, j. 14/06/2022, DJe 20/06/2022 | Vítima de 4 anos, em relação de confiança familiar, com reações emocionais atípicas e acompanhamento psicológico (AgRg no AgRg no AREsp 2.807.164); vítima de 5 anos (REsp 2.176.423); "a vulnerabilidade da vítima também deve ser contada em graus" (AgRg no HC 677.747). Sem *bis in idem*. |
 | Consequências: abalo psicológico severo, duradouro, com tratamento | AgRg no HC 1.075.946; AgRg no HC 1.090.235, 6ª T., Rel. Min. Nilsoni de Freitas (Desembargadora convocada do TJDFT), j. 12/08/2026, DJe 17/08/2026; AgRg no AREsp 3.194.800, 5ª T., Rel. Min. Maria Marluce Caldas, j. 04/08/2026, DJe 13/08/2026 | O trauma não é inerente ao tipo; basta impacto emocional profundo e duradouro, e é dispensável laudo, perícia ou relatório médico, desde que demonstrado por prova testemunhal. Casos de sequelas psíquicas (ansiedade e automutilação) em vítima menor. |
 | Abuso de confiança da família | REsp 2.176.423 | Abuso de confiança nas circunstâncias do crime; trauma documentado nas consequências. |
-| Circunstâncias do crime: embriagar a vítima adolescente para a conjunção carnal | HC 256.079 (AgR), STF, 2ª T., Rel. Min. Gilmar Mendes, j. 06/08/2025 **[Repositório externo]** | Estupro de vulnerável. A conduta de embriagar adolescente com o propósito de manter conjunção carnal extrapola os limites do tipo do art. 217-A e permite aumentar a pena-base; não há *bis in idem* quando a conduta é punida uma só vez (CP, art. 108), ainda que alcançada pela prescrição a condenação pela contravenção do art. 63, I, da Lei das Contravenções Penais. |
+| Circunstâncias do crime: embriagar a vítima adolescente para a conjunção carnal | HC 256.079 (agravo regimental (AgR)), STF, 2ª T., Rel. Min. Gilmar Mendes, j. 06/08/2025 **[Repositório externo]** | Estupro de vulnerável. A conduta de embriagar adolescente com o propósito de manter conjunção carnal extrapola os limites do tipo do art. 217-A e permite aumentar a pena-base; não há *bis in idem* quando a conduta é punida uma só vez (CP, art. 108), ainda que alcançada pela prescrição a condenação pela contravenção do art. 63, I, da Lei das Contravenções Penais. |
 
 #### 6.8.4.2 Hipóteses em que a valoração não é admitida
 
@@ -2346,7 +2570,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Vida sexual pregressa e modo de vida da vítima | ADPF 1107, STF | Vedado na fixação da pena dos crimes sexuais. |
 | Consentimento, experiência sexual ou namoro como fundamento de menor reprovabilidade | Art. 217-A, §§ 4º-A e 5º (curadoria interna) | A vulnerabilidade é absoluta e as penas independem do consentimento e da experiência anterior da vítima. |
 | Relação de autoridade usada na pena-base e também na majorante | AgRg no HC 1.050.088, 5ª T., Rel. Min. Messod Azulay Neto, j. 12/08/2026, DJe 17/08/2026 | A origem decotou o aumento da pena-base por *bis in idem*, preservando a agravante e a majorante. |
-| Idade da vítima como único fundamento, quando elementar do tipo | Inferência: art. 217-A (menor de 14 anos) | A idade é elementar do tipo; só a tenra idade, graduada pela vulnerabilidade em graus, ou fato adicional pode agravar. Ver divergência na seção 7.16. |
+| Idade da vítima como único fundamento, quando elementar do tipo | Inferência: art. 217-A (menor de 14 anos) | A idade é elementar do tipo; só a tenra idade, graduada pela vulnerabilidade em graus, ou fato adicional pode agravar. Ver divergência na seção 7.17. |
+
+**ADPF 1107: modo de vida e vivência sexual pregressa da vítima.** A arguição de descumprimento de preceito fundamental (ADPF) 1107 foi julgada procedente pelo Tribunal Pleno do STF, Rel. Min. Cármen Lúcia, em 23/05/2024 (divulgação em 23/08/2024; publicação em 26/08/2024). A ementa assenta: "Ofende os princípios da igualdade e da dignidade da pessoa humana a perquirição da vítima, em processos apuratórios e julgamentos de crimes contra a dignidade sexual, quanto ao seu modo de vida e histórico de experiências sexuais." E acrescenta que o Tribunal deve interpretar os dispositivos "conforme a Constituição da República, para conferir máxima efetividade aos direitos constitucionalmente postos e coibir a perpetuação de práticas que impliquem na revitimização de mulheres agredidas sexualmente". No dispositivo, o Tribunal: (i) deu interpretação conforme ao art. 400-A do Código de Processo Penal (CPP) "para excluir a possibilidade de invocação, pelas partes ou procuradores, de elementos referentes à vivência sexual pregressa da vítima ou ao seu modo de vida em audiência de instrução e julgamento de crimes contra a dignidade sexual e de violência contra a mulher, sob pena de nulidade do ato ou do julgamento"; (ii) vedou o reconhecimento dessa nulidade quando a defesa invocar o modo de vida ou a vivência sexual pregressa da vítima com essa finalidade, "considerando a impossibilidade do acusado se beneficiar da própria torpeza"; (iii) deu interpretação conforme ao art. 59 do CP, "para assentar ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida"; e (iv) assentou ser dever do magistrado "atuar no sentido de impedir essa prática inconstitucional, sob pena de responsabilização civil, administrativa e penal". **No estupro**, o item (iii) incide diretamente: o modo de vida e a vida sexual pregressa da vítima não podem ser valorados em nenhuma circunstância judicial da primeira fase, e a vedação vale para os arts. 213 e 217-A do CP, por serem crimes sexuais.
 
 ### 6.8.5 Segunda fase: o que é próprio do estupro
 
@@ -2375,7 +2601,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 
 1. **STF e premeditação.** O HC 94.620 foi localizado (Plenário, 24/06/2015, Info 791), mas o Informativo não menciona a premeditação; relação com o Tema 1.318 não confirmada. O HC-AgR 199.716 foi localizado no repositório externo (ver seção 4.1.5.3), com a marca **[Repositório externo]**; o RHC-AgR 195.426 e o HC-AgR 192.870 não foram localizados em nenhuma fonte (consulta por número e por tema), e a curadoria interna do STF só traz Informativos. Não devem ser citados como confirmados.
 2. **Tema 1.262.** A curadoria interna indica como paradigma o REsp 2.003.735 (afetação), enquanto o acórdão de mérito localizado é o REsp 2.004.455; conferir qual é o paradigma na fonte oficial.
-3. **Base do STF.** Apenas texto de Informativo, sem ementa oficial, sem DJe (exceto a ADPF 1107, cuja ementa e certidão de julgamento constam da curadoria interna, também sem data de publicação). Para uso em peça, conferir a íntegra no repositório oficial do STF.
+3. **Base do STF.** Apenas texto de Informativo, sem ementa oficial, sem DJe (exceto a ADPF 1107, cuja ementa e datas de divulgação e de publicação vieram do portal oficial do STF, por texto fornecido pelo autor). Para uso em peça, conferir a íntegra no repositório oficial do STF.
 4. **Julgados antigos usados como reforço.** HC 126.383 (2010), HC 140.205 (2012), HC 217.396 (2012) e HC 162.790 (2011). Não foi verificado se algum foi superado.
 5. **Cobertura.** A curadoria interna devolve 10 acórdãos por consulta; as buscas foram lidas em uma a quatro páginas de dez ementas. Os julgados de 2024 a 2026 foram obtidos pelo canal de ementas do DJe, que traz a ementa, e não o inteiro teor.
 6. **Citações indiretas.** O AgRg no AREsp 2.107.370 (6ª T., 2022) foi obtido por citação.
@@ -2455,14 +2681,21 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 7. **Crimes de trânsito.** Sem acórdão da Terceira Seção sobre consequências nesses crimes.
 8. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas. Atos infralegais não localizados.
 
-## 7.8 Critérios de quantificação
+## 7.8 Comportamento da vítima
+
+1. **STF.** Nas cinco consultas feitas, com quatro páginas de dez ementas em cada canal e sem filtro de ano, nenhuma ementa do STF trata o comportamento da vítima como vetor da pena-base. A posição apresentada é a do STJ, e o limite constitucional vem da ADPF 1107, cuja ementa e datas de publicação vieram do portal oficial do STF, por texto fornecido pelo autor.
+2. **Ementas do DJe.** Os julgados do STJ foram lidos pela ementa, sem inteiro teor. Os de 2006 a 2013 usados como reforço não tiveram a superação verificada.
+3. **Razões 1 e 2.** São a reconstituição do estudo a partir dos julgados; o STJ não as formula expressamente nesses termos. Conferir no inteiro teor, se for usar em peça.
+4. **Escopo das buscas.** A ausência de resultado vale para as consultas feitas. Atos infralegais não localizados.
+
+## 7.9 Critérios de quantificação
 
 - **Menoridade relativa e demais atenuantes no concurso do art. 67.** Foram feitas duas consultas específicas sobre a menoridade relativa em concurso com agravantes, sem filtro de ano, com quatro páginas de dez ementas em cada canal (STJ e STF de curadoria interna e repositório externo), além das demais consultas da segunda fase. Nenhuma ementa enfrenta a preponderância da menoridade relativa ou das atenuantes do art. 65, III, "a" a "c" e "e", sobre a reincidência. Os julgados localizados tratam apenas do quantum de redução: HC 341.483, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 01/03/2016, DJe 09/03/2016; e HC 176.326, 6ª T., Rel. Min. Haroldo Rodrigues (Desembargador convocado do TJ/CE), j. 05/05/2011, DJe 03/08/2011. Ponto não resolvido.
 - **Posição do STF sobre as frações de 1/8 e de 1/6 na primeira fase.** Nas buscas feitas (curadoria interna e repositório externo), nenhum acórdão do STF adota ou rejeita expressamente o critério de 1/8 sobre o intervalo ou de 1/6 sobre a pena mínima por circunstância judicial negativa. Localizaram-se apenas julgados que afirmam a ausência de critério matemático rígido (HC 104.282; RHC 128.355). Ponto não resolvido.
 - **Fração da confissão qualificada.** As Turmas do STJ divergem: 1/12 (AgRg no REsp 2.095.569; AgRg no AREsp 2.695.312; AgRg no REsp 2.128.777) e 1/6 em júri (AgRg no REsp 2.195.701). Não localizei acórdão da Terceira Seção que fixe a fração depois do Tema 1.194.
 - **Textos legais.** Confirmar a vigência e o direito intertemporal da Lei 15.160/2025, que deu nova redação ao art. 65, I, do CP.
 
-## 7.9 Homicídio
+## 7.10 Homicídio
 
 1. **Homicídio culposo (CP, art. 121, § 3º).** Examinei 40 ementas do STJ (quatro páginas de dez) por busca semântica sem filtro de ano; as que tratam de homicídio culposo são do art. 302 do CTB (por exemplo, AgRg no AREsp 2.201.123, 5ª T., Rel. Min. Ribeiro Dantas, DJe 14/12/2022; EDcl no AREsp 1.855.734, 5ª T., Rel. Min. Messod Azulay Neto, DJe 14/12/2023; AgRg no REsp 2.261.362, 5ª T., Rel. Min. Ribeiro Dantas, DJe 19/08/2026), e as demais, de homicídio doloso; nenhuma do art. 121, § 3º. No repositório externo, o único julgado de homicídio culposo localizado é o HC 135.360, do Código Penal Militar (ver 4.2). Não os aproveito para o tipo do Código Penal comum.
 2. **Fração da qualificadora sobejante.** Não há tese vinculante sobre a fração da agravante nem sobre a preferência entre a primeira e a segunda fase.
@@ -2472,7 +2705,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
     - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de as Leis 14.994/2024, 15.159/2025, 15.358/2026 e 15.384/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 5. **STF.** Dos Informativos do STF, aproveitei apenas o RHC 99.293, a AO 1046 e o HC 97.473; do repositório externo, o HC 108.146, o HC 107.501, o HC 121.758 e o HC 135.360. Não há outro julgado do STF sobre a dosimetria específica do homicídio doloso.
 
-## 7.10 Feminicídio
+## 7.11 Feminicídio
 
 1. **Agravante do art. 61, II, "f", no feminicídio.** Nenhum acórdão localizado aplica ou veda a agravante da alínea "f" em conjunto com o art. 121-A ou com o art. 121, § 2º, VI. Foram lidas mais de 100 ementas do STJ, em buscas com e sem filtro de ano. Os tribunais decidiram assim nos temas que cercam a questão:
     - **Alínea "f" e Lei Maria da Penha (Tema 1.197/STJ).** A Terceira Seção fixou que aplicar a agravante do art. 61, II, "f", em conjunto com a Lei 11.340/2006 não configura *bis in idem* (REsp 2.027.794, Rel. Min. Jesuíno Rissato, Des. convocado do TJDFT, j. 12/06/2024, DJe 24/06/2024). O fundamento é que as elementares do art. 129, § 9º, do CP não aludem ao gênero feminino da vítima, e é a condição de mulher que justifica a agravante.
@@ -2482,11 +2715,11 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 2. **Tema 1.394 no feminicídio.** O repetitivo trata do homicídio; não localizei julgado que o aplique expressamente ao art. 121-A, embora haja julgados de consequências em feminicídio por desamparo de familiares (AgRg no HC 783.124; AgRg no HC 731.837).
 3. **Textos legais e vigência.** A Lei 14.994/2024, que criou o art. 121-A, aparece na curadoria interna; a data de entrada em vigor não consta do retorno. Para fatos anteriores, vale o art. 121, § 2º, VI, e as majorantes do § 7º (revogados).
     - **Publicação e vigência na base.** Para a Lei 14.994/2024 a data de entrada em vigor não consta do retorno da base.
-    - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Lei 14.994/2024. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
+    - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Lei 14.994/2024. O STJ aplica a irretroatividade da lei penal mais gravosa (Constituição Federal (CF), art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 4. **Julgados de 2023 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **STF.** Nenhum julgado do STF sobre a dosimetria específica do feminicídio foi localizado, além da ADPF 779 e da ADPF 1107. No repositório externo, examinei 40 ementas por busca semântica e outras 10 por busca híbrida; nenhuma aplica ou veda a agravante do art. 61, II, "f", em conjunto com a qualificadora do feminicídio. O único acórdão de dosimetria do feminicídio localizado (HC 261.176, Primeira Turma, Rel. Min. Cármen Lúcia, j. 13/10/2025) trata da fração de redução da tentativa, matéria de terceira fase, fora do recorte.
 
-## 7.11 Roubo
+## 7.12 Roubo
 
 1. **Tema 1.110 e a Lei 13.964/2019.** A curadoria interna traz o art. 157, § 2º, VII (arma branca como majorante). Nenhum acórdão localizado delimita o alcance temporal do inciso VII em relação ao Tema 1.110. Os tribunais decidiram assim:
     - **Lei 13.654/2018.** A revogação do inciso I do § 2º retirou a arma branca do rol das majorantes, e a novatio legis in mellius retroage em benefício do réu (AgRg no HC 584.177, 6ª T., Rel. Min. Laurita Vaz, j. 01/09/2020, DJe 17/09/2020; AgRg no REsp 1.821.560, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 15/08/2019, DJe 30/08/2019).
@@ -2499,7 +2732,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 3. **Julgados de 2021 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 4. **STF.** Dos Informativos do STF, aproveitei apenas o HC 97.473. Do repositório externo, aproveitei o HC 138.257, o HC 180.846, o RHC 124.797, o HC 225.709, o HC 208.584 e o HC 107.556. Quanto ao Tema 1.110/STJ, o HC 208.584 trata do deslocamento da arma branca para a pena-base na execução, mas não resolve a aplicação temporal do art. 157, § 2º, VII; a pendência do item 6.3.1 permanece.
 
-## 7.12 Latrocínio
+## 7.13 Latrocínio
 
 1. **Majorantes do roubo como circunstâncias no latrocínio.** Entre as ementas examinadas, só o AgRg no HC 784.336 aceita arma e concurso de agentes nas circunstâncias; não localizei tese da 3ª Seção que unifique o ponto.
 2. **STF.** Nenhum julgado do STF sobre a dosimetria específica do latrocínio foi localizado nos Informativos. No repositório externo, a busca devolveu um único acórdão de latrocínio (HC 127.056, Primeira Turma, Rel. Min. Marco Aurélio, j. 17/10/2017), que apenas anulou a parte da sentença que fixou a pena e determinou nova dosimetria, sem tese aproveitável; não é citado como precedente. As Súmulas 603 e 610 tratam de competência e consumação, fora do recorte.
@@ -2509,7 +2742,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 4. **Julgados de 2023 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **AgRg no AREsp 2.063.632 (6ª T.).** Latrocínio consumado contra quatro vítimas, com negativação de culpabilidade, circunstâncias e consequências; o recurso não foi conhecido por falta de prequestionamento, e a curadoria interna não traz os fundamentos. Não é aproveitado.
 
-## 7.13 Furto
+## 7.14 Furto
 
 1. **Divergência sobre o prejuízo nas consequências.** Não há tese da Terceira Seção. Acolhem a valoração negativa: REsp 2.063.025, AgRg no AREsp 2.517.815 e AgRg no REsp 2.226.304; rejeitam: REsp 2.154.023 e REsp 2.270.558, em julgados da 5ª e da 6ª Turma. Os tribunais decidiram assim:
     - **Prejuízo comum é inerente ao tipo.** O prejuízo próprio dos crimes patrimoniais não autoriza negativar as consequências sem elemento concreto, como o valor exacerbado da coisa ou do dano (AgRg no AREsp 2.213.274, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 23/05/2023, DJe 31/05/2023). A subtração de celular de R$ 900,00, não restituído, não extrapola o tipo, e a majoração configura *bis in idem* (HC 839.713, 5ª T., Rel. Min. Daniela Teixeira, j. 15/10/2024, DJe 11/11/2024).
@@ -2523,7 +2756,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
     - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Leis 15.358/2026, 15.397/2026 e 15.517/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 6. **Julgados de 2023 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 
-## 7.14 Porte ilegal de arma de fogo
+## 7.15 Porte ilegal de arma de fogo
 
 1. **Uso restrito e proibido.** Não localizei acórdão que defina patamar próprio de aumento para o art. 16, *caput*, ou para o § 2º (uso proibido), nem sobre a proporcionalidade da pena mínima de 3 anos. Os tribunais decidiram assim nos pontos que cercam a questão:
     - **Fração da pena-base no art. 16.** A 5ª Turma aplicou 1/6 por circunstância desfavorável, com fração maior exigindo fundamentação específica (AgRg no AREsp 1.780.482, Rel. Min. Reynaldo Soares da Fonseca, j. 25/05/2021, DJe 01/06/2021, posse de arma de uso restrito e de artefatos explosivos); aceitou 1/4 pelas circunstâncias do crime e reduziu a pena-base de 4 anos e 6 meses, por desproporcional (AgRg no HC 344.002, Rel. Min. Joel Ilan Paciornik, j. 04/04/2017, DJe 10/04/2017); e o AgRg no HC 864.638 trata de aumento de 1/3.
@@ -2535,7 +2768,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 4. **Julgados de 2021 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **STF.** Nenhum julgado do STF sobre a dosimetria do porte foi localizado nos Informativos (6 resultados examinados); do repositório externo, aproveitei apenas o HC 162.345, e os demais acórdãos localizados tratam de *abolitio criminis* temporária e de tipicidade; o HC 96.922 (1ª T., Rel. Min. Ricardo Lewandowski, j. 17/03/2009, Informativo 539), sobre dispensabilidade de perícia, trata de tipicidade e fica fora do recorte.
 
-## 7.15 Lesão corporal
+## 7.16 Lesão corporal
 
 1. **Divergência na 5ª Turma sobre o § 13.** O REsp 2.247.908 (5ª T., Rel. Min. Ribeiro Dantas, j. 07/04/2026, DJEN 13/04/2026) afasta a agravante do art. 61, II, "f", no § 13, com distinção do Tema 1.197. O REsp 2.257.101 (17 de junho de 2026), de outra relatoria, tratou do § 13 e das agravantes das alíneas "f" e "h" e restabeleceu a fração de 1/6 para cada; a ementa não discute o *bis in idem*. Não há acórdão de Seção. Os tribunais decidiram assim nos pontos que cercam a questão:
     - **Natureza e alcance do § 13.** O § 13 tem natureza objetiva e incide quando o crime está ligado à violência doméstica e familiar, sem exigir motivação específica do agente nem coabitação (AgRg no REsp 2.197.066, 6ª T., Rel. Min. Otávio de Almeida Toledo, Des. convocado do TJSP, j. 19/08/2025, DJEN 26/08/2025). Em contexto doméstico, a vulnerabilidade da mulher é presumida, e a condição de gênero feminino basta (AREsp 2.763.567, 6ª T., mesmo relator, j. 03/09/2025, DJEN 08/09/2025). A qualificadora alcança a violência entre mulheres em relação homoafetiva (REsp 2.236.141, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 12/05/2026, DJe 19/05/2026).
@@ -2549,7 +2782,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 5. **Julgados de 2022 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 6. **STF.** Nenhum julgado do STF sobre a dosimetria específica da lesão corporal foi localizado nos Informativos (6 resultados examinados). Do repositório externo, aproveitei o HC 107.409, o HC 226.544 e o RHC 172.842; nenhum deles trata do § 13 do art. 129, e a divergência do item 6.7.1 permanece.
 
-## 7.16 Estupro
+## 7.17 Estupro
 
 1. **Divergência sobre a idade da vítima.** Não há tese da Terceira Seção sobre o vetor em que se valora a idade da vítima de estupro de vulnerável. As duas Turmas aceitam a tenra idade como fundamento da pena-base, ora na culpabilidade, ora nas circunstâncias do crime. O repositório externo não traz julgado do STF sobre o ponto. Os tribunais decidiram assim:
     - **A idade como elemento do tipo.** A idade da vítima integra o art. 217-A, e a satisfação da lascívia é inerente ao delito; só a tenra idade justifica a exasperação (AgRg no AREsp 1.524.052, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 19/09/2019, DJe 27/09/2019).
@@ -2559,7 +2792,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 2. **Tema 1.215 e o padrasto.** O Tema distingue relação doméstica de relação de autoridade; no AgRg no HC 1.050.088 o padrasto reunia as duas (coabitação e autoridade).
 3. **Textos legais e vigência.** O art. 217-A aparece na curadoria interna com redações das Leis 15.280/2025 (pena) e 15.353/2026 (§§ 4º-A e 5º); a data de vigência e o direito intertemporal não constam do retorno. O art. 226, II, tem a redação da Lei 13.718/2018.
     - **Publicação e vigência na base.** Para as Leis 15.280/2025 e 15.353/2026 a base não traz data de publicação nem de vigência.
-    - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Leis 15.280/2025 e 15.353/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
+    - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Leis 15.280/2025 e 15.353/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (Constituição Federal (CF), art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 4. **Julgados de 2022 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **STF.** Além da ADPF 1107, nenhum julgado do STF sobre a dosimetria específica dos crimes sexuais foi localizado nos Informativos (10 resultados examinados). Do repositório externo, aproveitei apenas o HC 256.079; os demais acórdãos de estupro localizados tratam de vulnerabilidade, ação penal e prisão preventiva, fora do recorte.
 
@@ -2596,6 +2829,10 @@ BRASIL. Decreto-Lei nº 3.689, de 3 de outubro de 1941. Código de Processo Pena
 BRASIL. Decreto-Lei nº 2.848, de 7 de dezembro de 1940. Código Penal. Arts. 33, § 3º; 59; 61, II, "h"; 121, § 4º (redação da Lei nº 10.741/2003).
 
 BRASIL. Lei nº 9.503, de 23 de setembro de 1997. Código de Trânsito Brasileiro. Arts. 293 e 302.
+
+BRASIL. Decreto-Lei nº 2.848, de 7 de dezembro de 1940. Código Penal. Arts. 59; 65, III, "c"; 121, § 1º.
+
+BRASIL. Constituição da República Federativa do Brasil de 1988. Arts. 5º, XLVI, e 93, IX.
 
 BRASIL. Decreto-Lei nº 2.848, de 7 de dezembro de 1940. Código Penal. Arts. 61 e 121.
 
@@ -3112,6 +3349,38 @@ BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 1.249.464 (5ª T., 05/04/20
 BRASIL. Superior Tribunal de Justiça. AREsp 2.401.338 (5ª T., DJe 26/12/2024); AREsp 2.416.835 (5ª T., DJe 17/12/2024); AREsp 2.358.929 (5ª T., DJe 24/12/2024); AgRg no HC 1.078.427 (5ª T., DJe 14/04/2026); AgRg no HC 1.062.047 (5ª T., DJe 23/04/2026); AgRg no AREsp 2.373.250 (5ª T., DJe 14/08/2023); AgRg no AREsp 2.932.575 (5ª T., DJe 17/09/2025); AgRg no AREsp 1.843.720 (5ª T., DJe 24/05/2021); AgRg no AREsp 2.244.103 (5ª T., DJe 01/03/2024); AgRg no HC 694.797 (5ª T., DJe 20/06/2022); AgRg no AREsp 2.460.070 (6ª T., DJe 17/11/2025).
 
 BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 3.257.429 (5ª T., j. 04/08/2026, DJe 13/08/2026); AgRg no AREsp 3.146.104 (6ª T., j. 16/06/2026, DJe 23/06/2026); AgRg no AREsp 2.997.271 (5ª T., DJe 12/11/2025); AgRg no REsp 2.227.087 (5ª T., DJe 18/12/2025); AgRg no HC 791.687 (6ª T., DJe 16/05/2023); AgRg no HC 716.488 (5ª T., DJe 21/09/2022); AgRg no AREsp 2.065.022 (6ª T., DJe 10/11/2022); AgRg no HC 1.003.255 (6ª T., DJe 09/09/2025); AgRg no REsp 2.214.606 (5ª T., DJe 25/08/2025); AgRg no AREsp 1.990.966 (6ª T., DJe 20/05/2022); AgRg no REsp 2.250.485 (5ª T., DJe 22/04/2026); EDcl no AREsp 1.855.734 (5ª T., DJe 14/12/2023); AgRg no REsp 2.261.362 (5ª T., j. 12/08/2026, DJe 19/08/2026); HC 1.064.696 (6ª T., j. 22/04/2026); AgRg no REsp 2.284.141 (6ª T., DJe 14/09/2026); AgRg no REsp 2.252.239 (6ª T., DJe 13/05/2026).
+
+BRASIL. Superior Tribunal de Justiça. Tema Repetitivo 1.214. REsp 2.058.971. Rel. Min. Sebastião Reis Júnior. Terceira Seção. Julgado em 28/08/2024. DJe 12/09/2024.
+
+BRASIL. Superior Tribunal de Justiça. AgInt no REsp 1.713.629. Rel. Min. Sebastião Reis Júnior. 6ª Turma. Julgado em 15/03/2018. DJe 27/03/2018.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 2.157.484. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 13/09/2022. DJe 19/09/2022.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 20.215. Rel. Min. Laurita Vaz. 5ª Turma. Julgado em 18/04/2013. DJe 25/04/2013.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no HC 532.680. Rel. Min. Antonio Saldanha Palheiro. 6ª Turma. Julgado em 30/06/2020. DJe 04/08/2020.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no HC 609.143. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 02/02/2021. DJe 04/02/2021.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.294.129. Rel. Min. Jorge Mussi. 5ª Turma. Julgado em 05/02/2013. DJe 15/02/2013.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.667.814. Rel. Min. Ribeiro Dantas. 5ª Turma. Julgado em 10/04/2018. DJe 18/04/2018.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.710.012. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 06/03/2018. DJe 14/03/2018.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.720.603. Rel. Min. Jorge Mussi. 5ª Turma. Julgado em 23/04/2019. DJe 07/05/2019.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.819.373. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 17/10/2019. DJe 25/10/2019.
+
+BRASIL. Superior Tribunal de Justiça. HC 148.275. Rel. Min. Sebastião Reis Júnior. 6ª Turma. Julgado em 21/08/2012. DJe 05/09/2012.
+
+BRASIL. Superior Tribunal de Justiça. HC 164.112. Rel. Min. Laurita Vaz. 5ª Turma. Julgado em 27/11/2012. DJe 05/12/2012.
+
+BRASIL. Superior Tribunal de Justiça. HC 191.734. Rel. Min. Laurita Vaz. 5ª Turma. Julgado em 18/09/2012. DJe 26/09/2012.
+
+BRASIL. Superior Tribunal de Justiça. HC 58.821. Rel. Min. Gilson Dipp. 5ª Turma. Julgado em 15/08/2006. DJ 11/09/2006.
+
+BRASIL. Superior Tribunal de Justiça. HC 83.066. Rel. Min. Maria Thereza de Assis Moura. 6ª Turma. Julgado em 25/08/2009. DJe 14/09/2009.
 
 BRASIL. Superior Tribunal de Justiça. REsp 2.195.921 (Tema Repetitivo 1.394). Rel. Min. Reynaldo Soares da Fonseca. Terceira Seção. Afetação em 28/10/2025. DJEN 13/11/2025.
 
