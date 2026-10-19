@@ -2,7 +2,7 @@
 title: "Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase"
 subtitle: "Estudo jurisprudencial unificado do Supremo Tribunal Federal e do Superior Tribunal de Justiça"
 author: "Domingos José de Souza Lima Júnior"
-date: "Atualizado em 17 de outubro de 2026"
+date: "Atualizado em 19 de outubro de 2026"
 lang: pt-BR
 ---
 
@@ -71,15 +71,15 @@ lang: pt-BR
 
 - **Tema:** Dosimetria da pena: hipóteses em que é admitida e em que não é admitida a valoração de cada circunstância judicial do art. 59 do Código Penal (CP) e o que é próprio da primeira e da segunda fase em oito crimes em espécie.
 - **Pesquisa realizada por:** Domingos José de Souza Lima Júnior
-- **Data da pesquisa:** 17/10/2026 (reúne os estudos feitos entre 12/10/2026 e 15/10/2026)
+- **Data da pesquisa:** 19/10/2026 (reúne os estudos feitos entre 12/10/2026 e 15/10/2026)
 - **Bases consultadas:** legislação e jurisprudência do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
-- **Uso de inteligência artificial (IA):** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 6).
-- **Estrutura:** Parte I (seção 4), circunstâncias judiciais examinadas uma a uma; Parte II (seção 5), crimes em espécie.
+- **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
+- **Estrutura:** Parte I (seção 4), circunstâncias judiciais examinadas uma a uma, cada uma iniciada pelo conceito na jurisprudência; critérios de quantificação nas duas primeiras fases (seção 5); Parte II (seção 6), crimes em espécie.
 
 
 # 2 Síntese geral
 
-Esta pesquisa reúne, em um só texto, o que os tribunais superiores decidem sobre a primeira e a segunda fase da dosimetria da pena. A **Parte I** examina, caso a caso, sete circunstâncias judiciais do art. 59 do CP (culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do crime; o comportamento da vítima não é objeto do estudo). A **Parte II** examina oito crimes em espécie e o que neles é próprio da primeira e da segunda fase.
+Esta pesquisa reúne, em um só texto, o que os tribunais superiores decidem sobre a primeira e a segunda fase da dosimetria da pena. A **Parte I** examina, caso a caso, sete circunstâncias judiciais do art. 59 do CP (culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do crime; o comportamento da vítima não é objeto do estudo). O **capítulo 5** reúne os critérios de quantificação da pena na primeira fase (frações de 1/6 e de 1/8 e critério diferente) e na segunda fase (agravantes, atenuantes, confissão qualificada e concurso de circunstâncias). A **Parte II** examina oito crimes em espécie e o que neles é próprio da primeira e da segunda fase.
 
 **Regras que atravessam todos os capítulos.**
 
@@ -102,7 +102,7 @@ Esta pesquisa reúne, em um só texto, o que os tribunais superiores decidem sob
 | Súmulas 444 e 241/STJ | Inquéritos e ações em curso; reincidência e circunstância judicial | Culpabilidade; antecedentes; conduta social; personalidade |
 | Arguição de descumprimento de preceito fundamental (ADPF) 1107 e ADPF 779/STF | Vida sexual da vítima na pena dos crimes sexuais; legítima defesa da honra | Culpabilidade; feminicídio e estupro (ADPF 1107); homicídio, feminicídio e motivos (ADPF 779) |
 
-**Pendências.** Os pontos que as fontes consultadas não permitiram resolver estão reunidos na seção 6, capítulo a capítulo, para serem sanados na próxima versão desta pesquisa conforme o guia de atualização.
+**Pendências.** Os pontos que as fontes consultadas não permitiram resolver estão reunidos na seção 7, capítulo a capítulo, para serem sanados na próxima versão desta pesquisa conforme o guia de atualização.
 
 # 3 Escopo das fontes e método
 
@@ -113,6 +113,7 @@ As fontes são exclusivamente a legislação e a jurisprudência, de curadoria i
 - **Natureza dos textos.** Os acórdãos do STJ foram lidos pela ementa do Diário da Justiça eletrônico (DJe), sem inteiro teor; as datas são as de publicação (DJe), salvo quando a fonte traz a de julgamento. Os julgados do STF de curadoria interna foram lidos pelo texto do Informativo, que não é a ementa oficial; os acórdãos marcados como **[Repositório externo]** foram lidos pela ementa.
 - **Repositório externo.** O repositório externo foi consultado em todos os capítulos, para ampliar a cobertura do STF. Acórdão cuja única fonte seja ele recebe a marca **[Repositório externo]**; se o mesmo acórdão consta da curadoria interna, usa-se esta, sem marca, e, havendo divergência, prevalece a curadoria interna.
 - **Parte I.** Cada circunstância judicial tem capítulo próprio, com a mesma ordem: síntese, quadro de entendimentos vinculantes, fundamentação normativa, jurisprudência do STF e do STJ (repetitivos, súmulas e teses, hipóteses admitidas e não admitidas), divergências e aplicação prática.
+- **Capítulo 5.** Reúne, em um só lugar, o que os tribunais admitem como critério de quantificação na primeira fase (1/6 sobre a pena mínima, 1/8 sobre o intervalo da pena e critério diferente) e na segunda fase (quantum das agravantes e atenuantes, confissão parcial e qualificada e concurso de circunstâncias, CP, art. 67).
 - **Parte II.** Cada crime tem capítulo próprio, limitado à primeira e à segunda fase e ao que é específico do crime. Ficam fora a terceira fase, o concurso de crimes, a tentativa e as majorantes, salvo quando indispensáveis para explicar a pena-base.
 
 # 4 Parte I: circunstâncias judiciais do art. 59 do CP, caso a caso
@@ -123,10 +124,32 @@ Os capítulos seguem a ordem do art. 59 do CP. Cada um pode ser lido isoladament
 
 ### 4.1.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração negativa da culpabilidade (art. 59, *caput*, do CP) na primeira fase da dosimetria, com os respectivos julgados.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração negativa da culpabilidade (art. 59, *caput*, do Código Penal (CP)) na primeira fase da dosimetria, com os respectivos julgados.
 - **Recorte e problema jurídico:** quais fundamentos concretos os tribunais superiores reconhecem como idôneos para tornar desfavorável a culpabilidade (juízo de maior reprovabilidade da conduta), e quais rejeitam por inidoneidade, inerência ao tipo ou *bis in idem*.
 
 ### 4.1.2 Síntese executiva
+
+**Conceito da culpabilidade na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> A culpabilidade como circunstância judicial é o grau de reprovabilidade da conduta perpetrada pelo agente, não se confundindo com a culpabilidade como elemento caracterizador do crime.
+>
+> (_habeas corpus_ (HC) 486.969, 6ª T., Rel. Min. Laurita Vaz, j. 21/02/2019, Diário da Justiça eletrônico (DJe) 24/04/2019)
+
+> Para fins de individualização da pena, a culpabilidade deve ser compreendida como juízo de reprovabilidade da conduta, ou seja, a maior ou menor censurabilidade do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito.
+>
+> (HC 377.677, 5ª T., Rel. Min. Ribeiro Dantas, j. 27/06/2017, DJe 01/08/2017)
+
+**Supremo Tribunal Federal.**
+
+> À luz do disposto no art. 59 do Código Penal, é válida a exasperação da pena-base quando, em razão da aferição negativa da culpabilidade, extrai-se maior juízo de reprovabilidade do agente diante da conduta praticada.
+>
+> (HC 132.990, STF, 1ª T., Rel. Min. Luiz Fux, j. 16/08/2016) **[Repositório externo]**
+
+
+
+
 
 A culpabilidade do art. 59 do CP não se confunde com a culpabilidade como elemento do crime (imputabilidade, consciência potencial da ilicitude, exigibilidade de conduta diversa). Na dosimetria, ela mede o **grau de censura** da conduta concreta, e só pode ser negativada com elementos que **extrapolem** os ínsitos ao tipo e que não tenham sido usados em outra etapa ou circunstância.
 
@@ -144,17 +167,17 @@ A culpabilidade do art. 59 do CP não se confunde com a culpabilidade como eleme
 
 > [!NOTE]
 >
-> **STF.** Não há Súmula Vinculante, tema de repercussão geral ou ação de controle concentrado sobre a culpabilidade. Localizaram-se o Plenário (_habeas corpus_ (HC) 105.674) reconhecendo que a culpabilidade do art. 59 atende à individualização da pena, e julgados de Turma que admitem a condição de policial como fator de maior reprovabilidade (HC 132.990). Quanto à premeditação, o repositório externo traz o HC 199.716 (Primeira Turma, 23/08/2021), que a aceita como fundamento da culpabilidade; o acórdão consta da curadoria interna apenas como citação do STJ, e por isso entra marcado como **[Repositório externo]**.
+> **STF.** Não há Súmula Vinculante, tema de repercussão geral ou ação de controle concentrado sobre a culpabilidade. Localizaram-se o Plenário (HC 105.674) reconhecendo que a culpabilidade do art. 59 atende à individualização da pena, e julgados de Turma que admitem a condição de policial como fator de maior reprovabilidade (HC 132.990). Quanto à premeditação, o repositório externo traz o HC 199.716 (Primeira Turma, 23/08/2021), que a aceita como fundamento da culpabilidade; o acórdão consta da curadoria interna apenas como citação do STJ, e por isso entra marcado como **[Repositório externo]**.
 
 ### 4.1.3 Quadro de entendimentos vinculantes e de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / enunciado | Situação |
 |---|---|---|---|---|
-| Recurso Repetitivo (Tema) | 1.318 | STJ, Terceira Seção | "1. A premeditação autoriza a valoração negativa da circunstância da culpabilidade prevista no art. 59 do Código Penal, desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora; 2. A exasperação da pena-base pela premeditação não é automática, reclamando fundamentação específica acerca da maior reprovabilidade da conduta no caso concreto." (REsp 2.174.028 e REsp 2.174.008, Rel. Min. Otávio de Almeida Toledo, Des. Convocado do Tribunal de Justiça de São Paulo (TJSP), j. 8/5/2025, Diário de Justiça Eletrônico Nacional (DJEN) 13/5/2025) | Trânsito em julgado (conforme a curadoria interna) |
+| Recurso Repetitivo (Tema) | 1.318 | STJ, Terceira Seção | "1. A premeditação autoriza a valoração negativa da circunstância da culpabilidade prevista no art. 59 do Código Penal, desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora; 2. A exasperação da pena-base pela premeditação não é automática, reclamando fundamentação específica acerca da maior reprovabilidade da conduta no caso concreto." (recurso especial (REsp) 2.174.028 e REsp 2.174.008, Rel. Min. Otávio de Almeida Toledo, Des. Convocado do Tribunal de Justiça de São Paulo (TJSP), j. 8/5/2025, Diário de Justiça Eletrônico Nacional (DJEN) 13/5/2025) | Trânsito em julgado (conforme a curadoria interna) |
 | Recurso Repetitivo (Tema) | 1.262 | STJ, Terceira Seção | "Na análise das vetoriais da natureza e da quantidade da substância entorpecente, previstas no art. 42 da Lei n. 11.343/2006, configura-se desproporcional a majoração da pena-base quando a droga apreendida for de ínfima quantidade, independentemente de sua natureza." (REsp 2.004.455, Rel. Min. Reynaldo Soares da Fonseca, j. 13/8/2025, DJEN 25/9/2025) | Acórdão publicado; recurso extraordinário (RE) pendente no STF |
 | Recurso Repetitivo (Tema) | 1.087 | STJ, Terceira Seção | Repouso noturno no furto qualificado: a tese afasta a majorante do § 1º do art. 155, mas o período noturno pode ser considerado circunstância judicial negativa, se fundamentada a maior censura (REsp 1.888.756/SP, Rel. Min. João Otávio de Noronha, j. 25/05/2022, DJe 27/06/2022; alcance conforme agravo regimental (AgRg) no HC 1.014.935). | Acórdão publicado; recurso extraordinário pendente no STF (Tema 1.281/STF) |
 | Súmula | 241 | STJ, Terceira Seção | "A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial." | Vigente (conforme a curadoria interna) |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
 | Súmula Vinculante / ação direta de inconstitucionalidade (ADI) / ação declaratória de constitucionalidade (ADC) / Repercussão Geral sobre culpabilidade | — | STF | Não localizado nas bases consultadas. | — |
 | Incidente de assunção de competência (IAC) | — | STJ | Não localizado nas bases consultadas. | — |
 
@@ -208,7 +231,7 @@ Não há tema de repercussão geral nem súmula vinculante sobre a culpabilidade
 - no REsp 2.174.028, a premeditação foi demonstrada pelo aproveitamento da relação de proximidade com o pai da vítima e do acesso anterior ao local; no REsp 2.174.008, a ausência de fundamentação concreta da premeditação foi suprida pela brutalidade das agressões e pela prática em via pública, à luz do dia;
 - o *locus* da premeditação é a culpabilidade, que "diz respeito à demonstração do grau de reprovabilidade ou censurabilidade da conduta praticada" (REsp 1.352.043/SP, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 17/10/2013, DJe 28/11/2013, ver 7.2).
 
-**Tema 1.262 (ínfima quantidade de droga).** REsp 2.004.455, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, j. 13/8/2025, DJEN 25/9/2025, com tese fixada por maioria (parcialmente vencido o Min. Messod Azulay Neto quanto à fixação da tese). Tese no quadro da seção 4.1.3. Situação na curadoria interna: "Acórdão Publicado - RE Pendente". Não é específico da culpabilidade (trata da natureza e da quantidade da droga, Lei 11.343/2006, art. 42), mas fixa que a quantidade ínfima não sustenta a exasperação da pena-base. A curadoria interna indica como paradigma o REsp 2.003.735 (afetação), enquanto o acórdão de mérito localizado é o REsp 2.004.455 (ver seção 6.1).
+**Tema 1.262 (ínfima quantidade de droga).** REsp 2.004.455, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, j. 13/8/2025, DJEN 25/9/2025, com tese fixada por maioria (parcialmente vencido o Min. Messod Azulay Neto quanto à fixação da tese). Tese no quadro da seção 4.1.3. Situação na curadoria interna: "Acórdão Publicado - RE Pendente". Não é específico da culpabilidade (trata da natureza e da quantidade da droga, Lei 11.343/2006, art. 42), mas fixa que a quantidade ínfima não sustenta a exasperação da pena-base. A curadoria interna indica como paradigma o REsp 2.003.735 (afetação), enquanto o acórdão de mérito localizado é o REsp 2.004.455 (ver seção 7.1).
 
 **Tema 1.087 (repouso noturno).** Paradigma REsp 1.888.756/SP (Rel. Min. João Otávio de Noronha, 3ª Seção, j. 25/05/2022, DJe 27/06/2022), conforme citado no AgRg no HC 762.963 (5ª T., Rel. Min. Joel Ilan Paciornik, DJe 09/06/2023). Aplicado pela Terceira Seção no AgRg no HC 1.036.741 (Rel. Min. Messod Azulay Neto, DJe 16/12/2025), que admite a migração do repouso noturno para a primeira fase. O AgRg no HC 1.014.935 (5ª T., Rel. Min. Maria Marluce Caldas, DJe 11/05/2026) esclarece o alcance: embora a tese afaste a majorante do repouso noturno no furto qualificado, o período noturno pode ser considerado circunstância judicial negativa, se fundamentada a maior censura.
 
@@ -306,16 +329,34 @@ A revisão da dosimetria em recurso especial esbarra na Súmula 7/STJ, salvo err
 
 ### 4.2.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração dos antecedentes (CP, art. 59) na primeira fase da dosimetria da pena.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração dos antecedentes (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena.
 - **Recorte e problema jurídico:** que registros penais podem e que registros não podem ser valorados como maus antecedentes ao fixar a pena-base, e qual o papel do tempo, da prova e da fronteira com a reincidência. Ficam fora a culpabilidade e a conduta social (capítulos próprios), citadas apenas como contraste.
 
 ### 4.2.2 Síntese executiva
+
+**Conceito dos antecedentes na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> Em conclusão, o vetor dos antecedentes é o que se refere única e exclusivamente ao histórico criminal do agente. "O conceito de maus antecedentes, por ser mais amplo do que o da reincidência, abrange as condenações definitivas, por fato anterior ao delito, transitadas em julgado no curso da ação penal e as atingidas pelo período depurador, ressalvada casuística constatação de grande período de tempo ou pequena gravidade do fato prévio" (STJ, agravo regimental (AgRg) no agravo em recurso especial (AREsp) 924.174/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/12/2016, Diário da Justiça eletrônico (DJe) 16/12/2016).
+>
+> (recurso especial (REsp) 1.794.854 (Tema 1.077), 3ª S., Rel. Min. Laurita Vaz, j. 23/06/2021, DJe 01/07/2021)
+
+**Supremo Tribunal Federal.**
+
+> Ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais.
+>
+> (recurso extraordinário (RE) 591.054, STF, Tribunal Pleno, Rel. Min. Marco Aurélio, j. 17/12/2014) **[Repositório externo]**
+
+
+
+
 
 Antecedentes são o histórico criminal do agente que não configura reincidência. Só condenação definitiva, por fato anterior ao crime em julgamento, serve como maus antecedentes. O Tema Repetitivo 1.077/STJ fixa o corolário: condenações transitadas em julgado que não caracterizem reincidência somente podem ser valoradas como antecedentes, e nunca como conduta social ou personalidade.
 
 > [!CAUTION]
 >
-> **Vedado.** Não se admite valorar como maus antecedentes: (a) inquéritos policiais e ações penais em curso (Súmula 444/STJ e Tema 129/STF); (b) condenação ainda sujeita a recurso (STJ, em aplicação da Súmula 444); (c) atos infracionais; (d) condenação por fato posterior ao crime em julgamento; (e) a mesma condenação já usada para a reincidência (Súmula 241/STJ); (f) acordo de não persecução penal (ANPP) cumprido (Código de Processo Penal (CPP), art. 28-A, § 12; AgRg no HC 1.089.789); (g) condenação pelo art. 28 da Lei de Drogas (RHC 223.801); (h) fundamentação sem prova do registro.
+> **Vedado.** Não se admite valorar como maus antecedentes: (a) inquéritos policiais e ações penais em curso (Súmula 444/STJ e Tema 129/STF); (b) condenação ainda sujeita a recurso (STJ, em aplicação da Súmula 444); (c) atos infracionais; (d) condenação por fato posterior ao crime em julgamento; (e) a mesma condenação já usada para a reincidência (Súmula 241/STJ); (f) acordo de não persecução penal (ANPP) cumprido (Código de Processo Penal (CPP), art. 28-A, § 12; AgRg no _habeas corpus_ (HC) 1.089.789); (g) condenação pelo art. 28 da Lei de Drogas (recurso em _habeas corpus_ (RHC) 223.801); (h) fundamentação sem prova do registro.
 
 > [!TIP]
 >
@@ -330,11 +371,11 @@ Antecedentes são o histórico criminal do agente que não configura reincidênc
 | Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre antecedentes nas bases consultadas. | — |
 | Repercussão Geral (Tema) | 129 (RE 591.054) | STF | "A existência de inquéritos policiais ou de ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes para fins de dosimetria da pena." Publicado no DJe de 25/02/2015, conforme o Informativo 791 (HC 94.620). Relator não consta do retorno da curadoria interna. | Transitado em julgado |
 | Repercussão Geral (Tema) | 182 (agravo de instrumento (AI) 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
 | Repercussão Geral (Tema) | 150 (RE 593.818) | STF (Plenário) | "Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal." | Transitado em julgado |
 | Recurso Repetitivo (Tema) | 1.077 | STJ (3ª Seção) | "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente." | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | "É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. [...]" | Trânsito em julgado |
-| IAC | não localizado | STJ | Nenhum IAC sobre antecedentes nas bases consultadas. | — |
+| Incidente de assunção de competência (IAC) | não localizado | STJ | Nenhum IAC sobre antecedentes nas bases consultadas. | — |
 | Súmula | 444 | STJ (3ª Seção) | "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base." | Vigente |
 | Súmula | 241 | STJ (3ª Seção) | "A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial." | Vigente |
 | Súmula | 636 | STJ (3ª Seção) | "A folha de antecedentes criminais é documento suficiente a comprovar os maus antecedentes e a reincidência." | Vigente |
@@ -375,7 +416,7 @@ A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024
 
 #### 4.2.5.2 Repercussão geral e súmulas vinculantes
 
-**Tema 150 (RE 593.818).** A curadoria interna traz a questão ("consideração de condenações transitadas em julgado há mais de cinco anos como maus antecedentes para efeito de fixação da pena-base") e a tese, transcrita no quadro da seção 4.2.3, com situação "transitado em julgado". Relator e data não constam do retorno da curadoria interna. Acórdãos do STJ que citam o RE indicam Rel. Min. Roberto Barroso, Tribunal Pleno, julgado em 18/08/2020 (AgRg no REsp 1.915.306), e o AgRg no HC 946.217 informa publicação no DJe de 23/11/2020 (os acórdãos consultados indicam também 20/11/2020). A tese foi atualizada nos embargos de declaração, e o AgRg no HC 901.838 (5ª Turma, Rel. Min. Ribeiro Dantas, DJe 20/06/2024) e o AgRg no HC 860.559 (5ª Turma, mesmo relator, DJe 30/11/2023) a transcrevem com a parte final sobre a faculdade de o juiz deixar de aumentar a pena-base por condenações desimportantes ou distantes no tempo. Ver seção 6.2.
+**Tema 150 (RE 593.818).** A curadoria interna traz a questão ("consideração de condenações transitadas em julgado há mais de cinco anos como maus antecedentes para efeito de fixação da pena-base") e a tese, transcrita no quadro da seção 4.2.3, com situação "transitado em julgado". Relator e data não constam do retorno da curadoria interna. Acórdãos do STJ que citam o RE indicam Rel. Min. Roberto Barroso, Tribunal Pleno, julgado em 18/08/2020 (AgRg no REsp 1.915.306), e o AgRg no HC 946.217 informa publicação no DJe de 23/11/2020 (os acórdãos consultados indicam também 20/11/2020). A tese foi atualizada nos embargos de declaração (EDcl), e o AgRg no HC 901.838 (5ª Turma, Rel. Min. Ribeiro Dantas, DJe 20/06/2024) e o AgRg no HC 860.559 (5ª Turma, mesmo relator, DJe 30/11/2023) a transcrevem com a parte final sobre a faculdade de o juiz deixar de aumentar a pena-base por condenações desimportantes ou distantes no tempo. Ver seção 7.2.
 
 **Tema 114.** A curadoria interna registra que o art. 61, I, do CP, que prevê a reincidência como agravante, é harmônico com a individualização da pena. Fica como referência de contraste: reincidência é agravante da segunda fase.
 
@@ -481,10 +522,10 @@ Quatro páginas de buscas (quarenta ementas) e duas buscas específicas não ret
 | Atos infracionais | HC 499.987, Rel. Min. Felix Fischer, 5ª Turma, 30/05/2019, DJe 04/06/2019; processo 1.916.596, 6ª Turma, DJe 04/05/2021 | Não são maus antecedentes, nem servem para personalidade ou conduta social. |
 | Condenação por fato posterior ao crime em julgamento | HC 168.621, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 18/06/2012, DJe 29/06/2012 | Só condenação por fato anterior vale como antecedente (a contrario, REsp 1.465.666). |
 | A mesma condenação para a reincidência e para os antecedentes | Súmula 241; REsp 1.015.784, Rel. Min. Jorge Mussi, 5ª Turma, 25/11/2010, DJe 13/12/2010 | "O que não se admite é a valoração, em momentos distintos da dosimetria da pena, de uma mesma condenação." |
-| Condenações usadas para personalidade ou conduta social | Tema 1.077; HC 457.039, Rel. Min. Laurita Vaz, 6ª Turma, 18/10/2018, DJe 07/11/2018; HC 881.110, Rel. Min. Daniela Teixeira, 5ª Turma, DJe 16/12/2024 | Só valem como antecedentes. O HC 205.388 (Rel. Min. Sebastião Reis Júnior, 6ª Turma, 04/09/2012, DJe 17/09/2012), que aceitava usar parte das condenações para personalidade, ficou superado nesse ponto. O AREsp 2.461.806 (5ª Turma, j. 26/11/2024, DJEN 04/12/2024) destoa: aplicou a Súmula 83 e admitiu condenações para antecedentes, conduta social e personalidade; destoa do Tema 1.077. |
+| Condenações usadas para personalidade ou conduta social | Tema 1.077; HC 457.039, Rel. Min. Laurita Vaz, 6ª Turma, 18/10/2018, DJe 07/11/2018; HC 881.110, Rel. Min. Daniela Teixeira, 5ª Turma, DJe 16/12/2024 | Só valem como antecedentes. O HC 205.388 (Rel. Min. Sebastião Reis Júnior, 6ª Turma, 04/09/2012, DJe 17/09/2012), que aceitava usar parte das condenações para personalidade, ficou superado nesse ponto. O AREsp 2.461.806 (5ª Turma, j. 26/11/2024, Diário de Justiça Eletrônico Nacional (DJEN) 04/12/2024) destoa: aplicou a Súmula 83 e admitiu condenações para antecedentes, conduta social e personalidade; destoa do Tema 1.077. |
 | Acordo de não persecução penal cumprido | AgRg no HC 1.089.789, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, j. 16/06/2026, DJe 23/06/2026; AgRg no RHC 220.130, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 29/10/2025; AgRg no HC 1.081.537, Rel. Min. Messod Azulay Neto, 5ª Turma, j. 12/08/2026, DJe 17/08/2026 | CPP, art. 28-A, § 12: o acordo cumprido não consta da certidão de antecedentes e não gera reincidência nem maus antecedentes. |
 | Condenação pelo art. 28 da Lei 11.343/2006 | RHC 223.801, Rel. Min. Sebastião Reis Júnior, 6ª Turma, DJe 22/12/2025 | Não pode gerar reincidência nem maus antecedentes; a mudança de orientação não retroage a condenação transitada em julgado quando a jurisprudência admitia o contrário. |
-| Absolvição e extinção da punibilidade pela prescrição da pretensão punitiva | REsp 136.113, Rel. Min. Vicente Leal, 6ª Turma, 27/04/2000, DJ 15/05/2000 | Julgado antigo; considerou razoável a tese. Ver seção 6.2. |
+| Absolvição e extinção da punibilidade pela prescrição da pretensão punitiva | REsp 136.113, Rel. Min. Vicente Leal, 6ª Turma, 27/04/2000, DJ 15/05/2000 | Julgado antigo; considerou razoável a tese. Ver seção 7.2. |
 | Condenação muito antiga (mais de dez anos da extinção da pena) | AgRg no HC 946.217; AgRg no REsp 2.044.827 | Afastada por proporcionalidade e razoabilidade (7.2). |
 
 ### 4.2.7 Divergências, superações e temas pendentes
@@ -517,16 +558,38 @@ Quatro páginas de buscas (quarenta ementas) e duas buscas específicas não ret
 
 ### 4.3.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração da conduta social (CP, art. 59) na primeira fase da dosimetria da pena.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração da conduta social (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena.
 - **Recorte e problema jurídico:** que fatos podem e que fatos não podem fundamentar a valoração negativa da conduta social ao fixar a pena-base, e que exigência de fundamentação se impõe. Ficam fora a culpabilidade e, salvo como contraste, as demais circunstâncias judiciais (capítulos próprios).
 
 ### 4.3.2 Síntese executiva
+
+**Conceito da conduta social na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> A conduta social diz respeito à avaliação do comportamento do agente no convívio social, familiar e laboral, perante a coletividade em que está inserido.
+>
+> (recurso especial (REsp) 1.794.854 (Tema 1.077), 3ª S., Rel. Min. Laurita Vaz, j. 23/06/2021, Diário da Justiça eletrônico (DJe) 01/07/2021)
+
+> Nos termos do que vem decidindo esta Corte Superior de Justiça, "a conduta social constitui o comportamento do réu na comunidade, ou seja, entre a família, parentes e vizinhos, não se vinculando ao próprio fato criminoso, mas à inserção do agente em seu meio social, não se confundindo com seu modo de vida no crime"
+>
+> (agravo regimental (AgRg) no _habeas corpus_ (HC) 335.617, 5ª T., Rel. Min. Jorge Mussi, j. 20/06/2017, DJe 28/06/2017)
+
+> A conduta social, por sua vez, compreende o comportamento do Agente no meio familiar, do trabalho e no relacionamento com outros indivíduos.
+>
+> (AgRg no REsp 1.806.589, 6ª T., Rel. Min. Laurita Vaz, j. 02/06/2020, DJe 15/06/2020)
+
+**Supremo Tribunal Federal.** Nas buscas feitas, nenhuma ementa traz definição expressa desta circunstância; os acórdãos localizados tratam dela apenas ao valorá-la no caso concreto.
+
+
+
+
 
 A conduta social é o comportamento do agente no convívio familiar, laboral e comunitário, apreciado à parte do fato criminoso e do histórico penal. Essa é a definição adotada pela Terceira Seção do STJ ao julgar o Tema Repetitivo 1.077.
 
 > [!CAUTION]
 >
-> **Vedado.** Não se admite valorar negativamente a conduta social com base em: (a) condenações criminais transitadas em julgado que não configurem reincidência, pois só servem como maus antecedentes (Tema 1.077/STJ, aplicado pela Terceira Seção no AREsp 2.558.574); (b) condenação definitiva por fato posterior ao crime em julgamento; (c) inquéritos e ações penais em curso (Súmula 444/STJ e julgados que a aplicam à conduta social); (d) atos infracionais; (e) processos extintos pela prescrição da pretensão punitiva (o STJ o afirmou para culpabilidade e personalidade; para a conduta social é inferência); (f) condição de usuário de drogas ou uso frequente de álcool, por si sós; (g) fundamentação genérica, abstrata ou sem prova do comportamento.
+> **Vedado.** Não se admite valorar negativamente a conduta social com base em: (a) condenações criminais transitadas em julgado que não configurem reincidência, pois só servem como maus antecedentes (Tema 1.077/STJ, aplicado pela Terceira Seção no agravo em recurso especial (AREsp) 2.558.574); (b) condenação definitiva por fato posterior ao crime em julgamento; (c) inquéritos e ações penais em curso (Súmula 444/STJ e julgados que a aplicam à conduta social); (d) atos infracionais; (e) processos extintos pela prescrição da pretensão punitiva (o STJ o afirmou para culpabilidade e personalidade; para a conduta social é inferência); (f) condição de usuário de drogas ou uso frequente de álcool, por si sós; (g) fundamentação genérica, abstrata ou sem prova do comportamento.
 
 > [!TIP]
 >
@@ -545,13 +608,13 @@ A conduta social é o comportamento do agente no convívio familiar, laboral e c
 | Instrumento | Nº | Órgão | Tese / enunciado | Situação |
 |---|---|---|---|---|
 | Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre conduta social nas bases consultadas. | — |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
-| Repercussão Geral (Tema) | 129 (RE 591.054) | STF | "A existência de inquéritos policiais ou de ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes para fins de dosimetria da pena." Publicado no DJe de 25/02/2015, conforme o Informativo 791 (HC 94.620). Relator não consta do retorno da curadoria interna. | Transitado em julgado |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Repercussão Geral (Tema) | 129 (recurso extraordinário (RE) 591.054) | STF | "A existência de inquéritos policiais ou de ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes para fins de dosimetria da pena." Publicado no DJe de 25/02/2015, conforme o Informativo 791 (HC 94.620). Relator não consta do retorno da curadoria interna. | Transitado em julgado |
 | Repercussão Geral (Tema) | 158 (RE 597.270) | STF | A atenuante genérica não pode conduzir a pena abaixo do mínimo legal (tese citada nos acórdãos do STJ sobre a Súmula 231). | Vinculante |
-| Repercussão Geral (Tema) | 182 (AI 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
+| Repercussão Geral (Tema) | 182 (agravo de instrumento (AI) 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
 | Recurso Repetitivo (Tema) | 1.077 | STJ (3ª Seção) | "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente." | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | "É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam 'reformatio in pejus' a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença." | Trânsito em julgado |
-| IAC | não localizado | STJ | Nenhum IAC sobre conduta social nas bases consultadas. | — |
+| Incidente de assunção de competência (IAC) | não localizado | STJ | Nenhum IAC sobre conduta social nas bases consultadas. | — |
 | Súmula | 444 | STJ (3ª Seção) | "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base." | Vigente (não cancelada) |
 | Súmula | 231 | STJ | "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal." Mantida pela Terceira Seção em 14/08/2024. | Vigente |
 
@@ -603,9 +666,9 @@ Não há tema de repercussão geral nem súmula vinculante específicos sobre a 
 - **HC 94.620 e HC 94.680** (Tribunal Pleno, Rel. Min. Ricardo Lewandowski, j. 24/06/2015, Info 791): por maioria, rejeitou-se a pena-base fundada em alegações genéricas de "conduta inadaptada ao convívio social" e de "personalidade voltada para o crime". É o julgado do STF mais próximo do vetor. Vencidos a Min. Cármen Lúcia e o Min. Luiz Fux.
 - **HC 97.665** (Rel. Min. Celso de Mello, 2ª Turma, 04/05/2010, Info 585): processos em curso, inquéritos em andamento e condenações sujeitas a recurso não evidenciam maus antecedentes; concedida a ordem para reduzir a pena em oito meses. O Informativo registra que a Turma destacou a edição da Súmula 444 pelo STJ.
 - **HC 81.759** (Rel. Min. Maurício Corrêa, 2ª Turma, 26/03/2002, Info 262): por maioria, admitiu inquéritos em curso como maus antecedentes. Vencido o Min. Celso de Mello.
-- **RHC 80.071** (Rel. Min. Marco Aurélio, 2ª Turma, 13/03/2001, Info 220): ações penais sem trânsito em julgado não caracterizam maus antecedentes, por empate na votação.
+- **Recurso em _habeas corpus_ (RHC) 80.071** (Rel. Min. Marco Aurélio, 2ª Turma, 13/03/2001, Info 220): ações penais sem trânsito em julgado não caracterizam maus antecedentes, por empate na votação.
 - **HC 95.585** (Rel. Min. Ellen Gracie, 2ª Turma, 11/11/2008, Info 528): por maioria, entendeu que maus antecedentes "representam os fatos anteriores ao crime, relacionados ao estilo de vida do acusado", sem exigir condenação definitiva. Vencidos os Ministros Joaquim Barbosa e Celso de Mello. É a formulação que mistura antecedentes e conduta social e que o Tema 1.077 do STJ repele.
-- **RHC 144.337 AgR** (Rel. Min. Celso de Mello, 2ª Turma, 05/11/2019, DJe 22/11/2019): citado no acórdão do Tema 1.077/STJ, que transcreve a orientação de que a jurisprudência do STF e do STJ repele valorar negativamente personalidade e conduta social com base em condenações anteriores, "ainda que transitadas em julgado", porque esse aspecto caracteriza unicamente maus antecedentes. Não foi confirmado na curadoria interna; ver seção 6.3.
+- **RHC 144.337 agravo regimental (AgR)** (Rel. Min. Celso de Mello, 2ª Turma, 05/11/2019, DJe 22/11/2019): citado no acórdão do Tema 1.077/STJ, que transcreve a orientação de que a jurisprudência do STF e do STJ repele valorar negativamente personalidade e conduta social com base em condenações anteriores, "ainda que transitadas em julgado", porque esse aspecto caracteriza unicamente maus antecedentes. Não foi confirmado na curadoria interna; ver seção 7.3.
 - **HC 120.137** **[Repositório externo]** (Primeira Turma, Rel. Min. Marco Aurélio, j. 12/09/2017): em condenação pelo Júri por homicídio, é viável considerar condenações criminais de forma diversificada, sem sobreposição, para os maus antecedentes e para a conduta social nefasta; a pena-base de 18 anos foi tida por razoável diante das circunstâncias judiciais negativas.
 - **HC 121.758** **[Repositório externo]** (Segunda Turma, Rel. Min. Gilmar Mendes, j. 09/12/2014): em homicídio qualificado, é vedado valorar negativamente motivos e personalidade sem fundamentação concreta, e há *bis in idem* quando a conduta social é valorada pelos antecedentes já utilizados para aumentar a pena sob outra rubrica (também quando as circunstâncias já configuram qualificadora, ou as consequências, o resultado morte). Ordem concedida.
 - **HC 123.967** **[Repositório externo]** (Primeira Turma, Rel. Min. Marco Aurélio, j. 18/10/2016): é fundamentada a pena-base fixada dois anos acima do mínimo, tendo em conta os maus antecedentes, a conduta social, a personalidade e as circunstâncias e consequências negativas do crime.
@@ -618,7 +681,7 @@ Não há tema de repercussão geral nem súmula vinculante específicos sobre a 
 
 **Tema 1.214.** REsp 2.058.971, 2.058.970 e 2.058.976, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgados em 28/08/2024, DJe 12/09/2024. Tese firmada por maioria; vencidos os Ministros Messod Azulay Neto e Joel Ilan Paciornik quanto à fixação da tese. A segunda parte da tese (não configuram *reformatio in pejus* a mera reclassificação do fato nem o reforço de fundamentação) decorreu de proposta do Min. Rogerio Schietti Cruz, aceita pelo relator. Nos três casos concretos, o Tribunal de origem havia afastado a conduta social negativa (no REsp 2.058.976, também a personalidade e as circunstâncias do crime) sem reduzir a pena-base. O STJ reduziu a pena. A conduta social indevidamente valorada tem de ser decotada com redução proporcional da pena-base.
 
-**Tema 1.262 (efeito indireto).** REsp 2.004.455, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 13/08/2025, DJEN 25/09/2025. Trata da natureza e da quantidade da droga (Lei 11.343/2006, art. 42), não da conduta social. Mostra que o STJ controla por proporcionalidade as circunstâncias do art. 42. A curadoria interna assinala "recurso extraordinário pendente no STF".
+**Tema 1.262 (efeito indireto).** REsp 2.004.455, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 13/08/2025, Diário de Justiça Eletrônico Nacional (DJEN) 25/09/2025. Trata da natureza e da quantidade da droga (Lei 11.343/2006, art. 42), não da conduta social. Mostra que o STJ controla por proporcionalidade as circunstâncias do art. 42. A curadoria interna assinala "recurso extraordinário pendente no STF".
 
 #### 4.3.6.2 Súmulas e teses
 
@@ -644,13 +707,13 @@ Em quarenta ementas sobre filhos e conduta social, a existência de filhos, por 
 
 ##### Institutos despenalizadores
 
-O AgRg no HC 1.043.373 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/11/2025) registra que a conduta social integra o juízo subjetivo de cabimento da transação penal (Lei 9.099/1995, art. 76, § 2º). O AgRg no AREsp 2.959.366 (6ª Turma, Rel. Min. Antonio Saldanha Palheiro, DJe 21/10/2025) confirma que o Ministério Público pode recusar a suspensão condicional do processo com base em requisitos subjetivos, como a conduta social e a culpabilidade, e que o controle de mérito cabe ao órgão superior do próprio Ministério Público (Súmula 696/STF). Continua sem julgado que trate a participação em ANPP, transação ou sursis como conduta social negativa.
+O AgRg no HC 1.043.373 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/11/2025) registra que a conduta social integra o juízo subjetivo de cabimento da transação penal (Lei 9.099/1995, art. 76, § 2º). O AgRg no AREsp 2.959.366 (6ª Turma, Rel. Min. Antonio Saldanha Palheiro, DJe 21/10/2025) confirma que o Ministério Público pode recusar a suspensão condicional do processo com base em requisitos subjetivos, como a conduta social e a culpabilidade, e que o controle de mérito cabe ao órgão superior do próprio Ministério Público (Súmula 696/STF). Continua sem julgado que trate a participação em acordo de não persecução penal (ANPP), transação ou sursis como conduta social negativa.
 
 ##### Conduta social favorável: efeitos
 
 Não há julgado que atribua redução de pena-base específica à conduta social favorável. Circunstância favorável deixa o vetor neutro, e a pena-base não desce abaixo do mínimo legal (Tema 158/STF, conforme citado no AgRg no REsp 2.169.002, 6ª Turma, DJe 20/05/2025; Súmula 231 e Temas 190 e 191/STJ). Essas decisões tratam de atenuantes; a extensão à circunstância favorável é inferência. O efeito prático está em outros pontos que remetem ao art. 59:
 
-- regime inicial (CP, art. 33, § 3º; AgRg no AREsp 2.929.984, 6ª Turma, Rel. Min. Rogerio Schietti Cruz, DJe 23/09/2025): pena-base no mínimo, primariedade e circunstâncias favoráveis impedem regime mais gravoso por gravidade abstrata (Súmula 440/STJ), como no AREsp 2.929.382 (6ª Turma, Rel. Min. Otávio de Almeida Toledo, Des. convocado do TJSP, DJe 18/08/2025, regime aberto em pena de quatro anos) e no AgRg no HC 1.000.433 (6ª Turma, mesmo relator, DJe 08/09/2025);
+- regime inicial (CP, art. 33, § 3º; AgRg no AREsp 2.929.984, 6ª Turma, Rel. Min. Rogerio Schietti Cruz, DJe 23/09/2025): pena-base no mínimo, primariedade e circunstâncias favoráveis impedem regime mais gravoso por gravidade abstrata (Súmula 440/STJ), como no AREsp 2.929.382 (6ª Turma, Rel. Min. Otávio de Almeida Toledo, Des. convocado do Tribunal de Justiça de São Paulo (TJSP), DJe 18/08/2025, regime aberto em pena de quatro anos) e no AgRg no HC 1.000.433 (6ª Turma, mesmo relator, DJe 08/09/2025);
 - circunstâncias não inteiramente favoráveis permitem o semiaberto e obstam a substituição (AgRg no HC 812.187, 5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 24/05/2023; AgRg no AREsp 2.415.778, 6ª Turma, Rel. Min. Sebastião Reis Júnior, DJe 23/09/2025; AgRg no HC 834.304, 5ª Turma, Rel. Min. Daniela Teixeira, DJe 15/08/2024; AgRg no HC 1.039.607, 6ª Turma, Rel. Min. Sebastião Reis Júnior, DJe 22/12/2025; CP, arts. 33, §§ 2º e 3º, e 44, III);
 - a reincidência, ainda que com circunstâncias favoráveis, impede o regime aberto e admite, no máximo, o semiaberto (Súmula 269/STJ): AgRg no HC 1.067.909 (5ª Turma, Rel. Min. Maria Marluce Caldas, DJe 26/05/2026);
 - a gravidade concreta, pelo modo de execução, pode justificar o semiaberto mesmo com circunstâncias favoráveis (AgRg no HC 856.898, 5ª Turma, DJe 04/12/2023).
@@ -666,8 +729,8 @@ Não há julgado que atribua redução de pena-base específica à conduta socia
 | Hábito de andar armado | AgRg no REsp 1.616.691, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 25/10/2016, DJe 18/11/2016 | Demonstra de forma concreta o comportamento no meio social. O julgado é anterior ao Tema 1.077. |
 | Terror ou perturbação da comunidade | AgRg no REsp 2.202.180, Rel. Min. Carlos Pires Brandão, 6ª Turma, DJe 22/12/2025; HC 1.038.221, Rel. Min. Sebastião Reis Júnior, 6ª Turma, j. 04/03/2026, DJe 10/03/2026 | Réus que "causavam terror na região", segundo testemunhas; tráfico que perturbava a tranquilidade do bairro e afetava o conceito do agente perante a comunidade. |
 | Envolvimento reiterado com o tráfico; vínculo com facção | AgRg no REsp 2.222.696, Rel. Min. Joel Ilan Paciornik, 5ª Turma, DJe 22/09/2025; AgRg no HC 1.062.047, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 23/04/2026; AgRg no AREsp 2.709.455, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, DJe 16/06/2025 | Tráfico e organização criminosa, "sem necessidade de provas robustas"; "informações reiteradas" de dedicação ao tráfico; integrante de facção em cidade de cerca de 15 mil habitantes não pode ter "conduta social ilibada". |
-| Uso do meio profissional, familiar ou prisional para delinquir | AREsp 2.389.625, Rel. Min. Daniela Teixeira, Terceira Seção, DJe 27/12/2024; AREsp 2.358.929, Rel. Min. Daniela Teixeira, 5ª Turma, DJe 24/12/2024; AgRg no REsp 2.214.606, Rel. Min. Carlos Cini Marchionatti (Des. convocado do TJRS), 5ª Turma, DJe 25/08/2025 | Estelionato com má conduta no meio laboral e familiar; associação para o tráfico com articulação de crimes de dentro do sistema penitenciário e prática de crimes mesmo recluso; comportamento desagregador no ambiente carcerário (Júri). |
-| Novo crime em liberdade provisória, em fuga ou durante o cumprimento de pena | AgRg no AREsp 2.415.778, Rel. Min. Sebastião Reis Júnior, 6ª Turma, DJe 23/09/2025; AgRg no HC 914.859, Rel. Min. Rogerio Schietti Cruz, 6ª Turma, DJe 23/10/2024; AgRg no AREsp 2.148.000, Rel. Min. Jesuíno Rissato (Des. convocado TJDFT), 6ª Turma, 27/02/2024, DJe 04/03/2024; AgRg no AREsp 2.632.510, Rel. Min. Messod Azulay Neto, 5ª Turma, DJe 18/06/2025 | Revela "insubordinação à lei penal" e não se confunde com o desvalor dos antecedentes; no AgRg no HC 914.859, aumento de 1/4 para três vetores; sem *bis in idem*, porque a regressão de regime ocorre em esfera distinta (AgRg no AREsp 2.148.000, ver seção 4.3.7). O AgRg no AREsp 2.632.510 cita o AgRg no REsp 2.133.007 (6ª Turma, Rel. Min. Sebastião Reis Júnior, DJe 06/11/2024). |
+| Uso do meio profissional, familiar ou prisional para delinquir | AREsp 2.389.625, Rel. Min. Daniela Teixeira, Terceira Seção, DJe 27/12/2024; AREsp 2.358.929, Rel. Min. Daniela Teixeira, 5ª Turma, DJe 24/12/2024; AgRg no REsp 2.214.606, Rel. Min. Carlos Cini Marchionatti (Des. convocado do Tribunal de Justiça do Rio Grande do Sul (TJRS)), 5ª Turma, DJe 25/08/2025 | Estelionato com má conduta no meio laboral e familiar; associação para o tráfico com articulação de crimes de dentro do sistema penitenciário e prática de crimes mesmo recluso; comportamento desagregador no ambiente carcerário (Júri). |
+| Novo crime em liberdade provisória, em fuga ou durante o cumprimento de pena | AgRg no AREsp 2.415.778, Rel. Min. Sebastião Reis Júnior, 6ª Turma, DJe 23/09/2025; AgRg no HC 914.859, Rel. Min. Rogerio Schietti Cruz, 6ª Turma, DJe 23/10/2024; AgRg no AREsp 2.148.000, Rel. Min. Jesuíno Rissato (Des. convocado Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)), 6ª Turma, 27/02/2024, DJe 04/03/2024; AgRg no AREsp 2.632.510, Rel. Min. Messod Azulay Neto, 5ª Turma, DJe 18/06/2025 | Revela "insubordinação à lei penal" e não se confunde com o desvalor dos antecedentes; no AgRg no HC 914.859, aumento de 1/4 para três vetores; sem *bis in idem*, porque a regressão de regime ocorre em esfera distinta (AgRg no AREsp 2.148.000, ver seção 4.3.7). O AgRg no AREsp 2.632.510 cita o AgRg no REsp 2.133.007 (6ª Turma, Rel. Min. Sebastião Reis Júnior, DJe 06/11/2024). |
 | Comportamento "inadequado", violento e agressivo, sem ocupação lícita | HC 103.805, Rel. Min. Laurita Vaz, 5ª Turma, j. 15/04/2010, DJe 10/05/2010 | Julgado anterior ao Tema 1.077; a ausência de ocupação lícita como fundamento merece cautela, porque a conduta social deve ser aferida por fatos concretos de convívio. |
 
 #### 4.3.6.4 Hipóteses em que a valoração não é admitida (causas que não autorizam negativar)
@@ -713,16 +776,30 @@ Não há julgado que atribua redução de pena-base específica à conduta socia
 
 ### 4.4.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração da personalidade do agente (CP, art. 59) na primeira fase da dosimetria da pena.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração da personalidade do agente (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena.
 - **Recorte e problema jurídico:** que elementos podem e que elementos não podem fundamentar a valoração negativa da personalidade ao fixar a pena-base, e se a avaliação exige laudo técnico. Ficam fora a culpabilidade, a conduta social e os antecedentes (capítulos próprios), citados apenas como contraste.
 
 ### 4.4.2 Síntese executiva
+
+**Conceito da personalidade do agente na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> A personalidade do agente resulta da análise do seu perfil subjetivo, no que se refere a aspectos morais e psicológicos, para que se afira a existência de caráter voltado à prática de infrações penais, com base nos elementos probatório dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado, independentemente de perícia.
+>
+> (_habeas corpus_ (HC) 410.047, 5ª T., Rel. Min. Ribeiro Dantas, j. 03/05/2018, Diário da Justiça eletrônico (DJe) 10/05/2018)
+
+**Supremo Tribunal Federal.** Nas buscas feitas, nenhuma ementa traz definição expressa desta circunstância; os acórdãos localizados tratam dela apenas ao valorá-la no caso concreto.
+
+
+
+
 
 A personalidade é o perfil subjetivo do agente, seus aspectos morais e psicológicos. O STJ a distingue dos antecedentes (histórico criminal) e da conduta social (comportamento comunitário) e exige que a valoração negativa se apoie em "análise pormenorizada, com base em elementos concretos extraídos dos autos".
 
 > [!CAUTION]
 >
-> **Vedado.** Não se admite valorar negativamente a personalidade com base em: (a) condenações criminais anteriores transitadas em julgado, que só valem como antecedentes (Tema Repetitivo 1.077/STJ, aplicado pela Terceira Seção no AREsp 2.558.574); (b) inquéritos e ações penais em curso (Súmula 444/STJ, aplicada pelas Turmas à personalidade); (c) atos infracionais; (d) afirmações genéricas, sem elemento concreto nos autos, que o STJ já qualificou de "resquício do Direito Penal de Autor" (HC 900.273, 2024); (e) a drogadição, por ser enfermidade reconhecida pela Organização Mundial da Saúde (OMS) (AgRg no HC 818.183).
+> **Vedado.** Não se admite valorar negativamente a personalidade com base em: (a) condenações criminais anteriores transitadas em julgado, que só valem como antecedentes (Tema Repetitivo 1.077/STJ, aplicado pela Terceira Seção no agravo em recurso especial (AREsp) 2.558.574); (b) inquéritos e ações penais em curso (Súmula 444/STJ, aplicada pelas Turmas à personalidade); (c) atos infracionais; (d) afirmações genéricas, sem elemento concreto nos autos, que o STJ já qualificou de "resquício do Direito Penal de Autor" (HC 900.273, 2024); (e) a drogadição, por ser enfermidade reconhecida pela Organização Mundial da Saúde (OMS) (agravo regimental (AgRg) no HC 818.183).
 
 > [!TIP]
 >
@@ -743,13 +820,13 @@ A personalidade é o perfil subjetivo do agente, seus aspectos morais e psicoló
 | Instrumento | Nº | Órgão | Tese / enunciado | Situação |
 |---|---|---|---|---|
 | Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre personalidade nas bases consultadas. | — |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
-| Repercussão Geral (Tema) | 129 (RE 591.054) | STF | "A existência de inquéritos policiais ou de ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes para fins de dosimetria da pena." Publicado no DJe de 25/02/2015, conforme o Informativo 791 (HC 94.620). Relator não consta do retorno da curadoria interna. | Transitado em julgado |
-| Repercussão Geral (Tema) | 182 (AI 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Repercussão Geral (Tema) | 129 (recurso extraordinário (RE) 591.054) | STF | "A existência de inquéritos policiais ou de ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes para fins de dosimetria da pena." Publicado no DJe de 25/02/2015, conforme o Informativo 791 (HC 94.620). Relator não consta do retorno da curadoria interna. | Transitado em julgado |
+| Repercussão Geral (Tema) | 182 (agravo de instrumento (AI) 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
 | Repercussão Geral (Tema) | 158 (RE 597.270) | STF | A atenuante genérica não pode conduzir a pena abaixo do mínimo legal (tese citada nos acórdãos do STJ sobre a Súmula 231). | Vinculante |
-| Recurso Repetitivo (Tema) | 1.077 | STJ (3ª Seção) | "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente." Paradigma: REsp 1.794.854. | Trânsito em julgado |
+| Recurso Repetitivo (Tema) | 1.077 | STJ (3ª Seção) | "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente." Paradigma: Recurso especial (REsp) 1.794.854. | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | Redução proporcional obrigatória da pena-base quando o tribunal, em recurso exclusivo da defesa, afasta circunstância judicial negativa da sentença. | Trânsito em julgado |
-| IAC | não localizado | STJ | Nenhum IAC sobre personalidade nas bases consultadas. | — |
+| Incidente de assunção de competência (IAC) | não localizado | STJ | Nenhum IAC sobre personalidade nas bases consultadas. | — |
 | Súmula | 444 | STJ (3ª Seção) | "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base." | Vigente |
 | Súmula | 231 | STJ | "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal." Mantida pela Terceira Seção em 14/08/2024 (REsps 1.869.764/MS, 2.052.085/TO e 2.057.181/SE). | Vigente |
 
@@ -757,7 +834,7 @@ A personalidade é o perfil subjetivo do agente, seus aspectos morais e psicoló
 
 #### 4.4.4.1 Constituição Federal
 
-O dever de motivar (CF, art. 93, IX) aparece no acórdão do Tema 1.077 como fundamento para exigir que as razões da valoração negativa "correspondam objetivamente às características próprias do vetor desabonado". A crítica do direito penal de autor, invocada pelo STJ no HC 900.273, tem base no princípio da culpabilidade pelo fato.
+O dever de motivar (Constituição Federal (CF), art. 93, IX) aparece no acórdão do Tema 1.077 como fundamento para exigir que as razões da valoração negativa "correspondam objetivamente às características próprias do vetor desabonado". A crítica do direito penal de autor, invocada pelo STJ no HC 900.273, tem base no princípio da culpabilidade pelo fato.
 
 #### 4.4.4.2 Legislação infraconstitucional
 
@@ -798,7 +875,7 @@ Não há tema de repercussão geral nem súmula vinculante específicos sobre a 
 - **HC 94.620 e HC 94.680** (Tribunal Pleno, Rel. Min. Ricardo Lewandowski, j. 24/06/2015, Info 791): por maioria, o Plenário afirmou que alegações genéricas de "personalidade voltada para o crime" e de "conduta inadaptada ao convívio social" não podem embasar a pena-base, e recalculou a pena considerando negativas só a culpabilidade e as consequências. Vencidos a Min. Cármen Lúcia e o Min. Luiz Fux. É o julgado do STF mais próximo do vetor, embora não seja específico dele.
 - **HC 88.422** (Rel. Min. Carlos Britto, 1ª Turma, 20/03/2007, Info 460): por maioria, anulou o capítulo do acórdão que aumentara a pena-base com base em circunstâncias judiciais desfavoráveis e em argumentos de necessidade e suficiência, sem fundamentação própria. Vencidos os Ministros Marco Aurélio e Sepúlveda Pertence. Serve de base para a exigência de fundamentação de cada circunstância.
 - **HC 112.776** (Rel. Min. Teori Zavascki, Tribunal Pleno, 19/12/2013, Info 733): sobre a Lei de Drogas. O Plenário entendeu que as circunstâncias do art. 42 da Lei 11.343/2006, entre elas a personalidade e a conduta social, podem ser consideradas ou na pena-base ou na terceira fase (minorante do art. 33, § 4º), mas não nas duas, sob pena de *bis in idem*. O Informativo trata expressamente da natureza e da quantidade da droga; a extensão à personalidade decorre da referência às "circunstâncias descritas no art. 42".
-- **RHC 144.337 AgR** (Rel. Min. Celso de Mello, 2ª Turma, 05/11/2019, DJe 22/11/2019): citado pelo acórdão do Tema 1.077/STJ, que transcreve a orientação de que a jurisprudência repele valorar negativamente a personalidade e a conduta social com base em condenações criminais anteriores, "ainda que transitadas em julgado". Não foi confirmado na curadoria interna (ver seção 6.4).
+- **Recurso em _habeas corpus_ (RHC) 144.337 agravo regimental (AgR)** (Rel. Min. Celso de Mello, 2ª Turma, 05/11/2019, DJe 22/11/2019): citado pelo acórdão do Tema 1.077/STJ, que transcreve a orientação de que a jurisprudência repele valorar negativamente a personalidade e a conduta social com base em condenações criminais anteriores, "ainda que transitadas em julgado". Não foi confirmado na curadoria interna (ver seção 7.4).
 - **HC 253.055** **[Repositório externo]** (agravo regimental; Segunda Turma, Rel. Min. Edson Fachin, j. 25/04/2025): em agravo regimental, manteve a decisão que afastara a personalidade negativa de condenado por estar foragido do sistema prisional, por falta de motivação idônea: a jurisprudência do STF exige motivação idônea para a valoração negativa da personalidade, que deve se ater ao meio social e às condições de vida do sentenciado e se apoiar em elementos probatórios concretos. A pena passou a um ano, sete meses e dez dias de reclusão, em regime semiaberto.
 - **HC 121.758** **[Repositório externo]** (Segunda Turma, Rel. Min. Gilmar Mendes, j. 09/12/2014): em homicídio qualificado, é vedado valorar negativamente os motivos do crime e a personalidade do agente sem qualquer fundamentação concreta.
 - **HC 94.577** **[Repositório externo]** (Segunda Turma, Rel. Min. Joaquim Barbosa, j. 14/10/2008): segundo precedentes do STF, a personalidade do agente pode ser avaliada negativamente para justificar a pena-base acima do mínimo; as circunstâncias da culpabilidade e da conduta social não foram examinadas por falta de manifestação do STJ (supressão de instância).
@@ -832,29 +909,29 @@ Não há julgado que fixe fração de redução para circunstância judicial fav
 
 O efeito prático da circunstância favorável está no regime e na substituição:
 
-- pena-base no mínimo, primariedade e circunstâncias favoráveis impedem regime mais gravoso por gravidade abstrata (Súmula 440/STJ): AREsp 2.929.382 (6ª Turma, Rel. Min. Otávio de Almeida Toledo, Des. convocado do TJSP, DJe 18/08/2025, regime aberto em pena de quatro anos) e AgRg no HC 1.000.433 (6ª Turma, mesmo relator, DJe 08/09/2025);
+- pena-base no mínimo, primariedade e circunstâncias favoráveis impedem regime mais gravoso por gravidade abstrata (Súmula 440/STJ): AREsp 2.929.382 (6ª Turma, Rel. Min. Otávio de Almeida Toledo, Des. convocado do Tribunal de Justiça de São Paulo (TJSP), DJe 18/08/2025, regime aberto em pena de quatro anos) e AgRg no HC 1.000.433 (6ª Turma, mesmo relator, DJe 08/09/2025);
 - circunstâncias não inteiramente favoráveis permitem o semiaberto e obstam a substituição (AgRg no HC 812.187, 5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 24/05/2023; AgRg no AREsp 2.415.778, 6ª Turma, Rel. Min. Sebastião Reis Júnior, DJe 23/09/2025; CP, arts. 33, §§ 2º e 3º, e 44, III);
 - a reincidência, ainda que com circunstâncias favoráveis, impede o regime aberto e admite, no máximo, o semiaberto (Súmula 269/STJ): AgRg no HC 1.067.909 (5ª Turma, Rel. Min. Maria Marluce Caldas, DJe 26/05/2026) e AgRg no HC 1.078.666 (6ª Turma, Rel. Min. Nilsoni de Freitas, j. 12/08/2026, DJe 17/08/2026, que admite o regime fechado pela reincidência, com pena-base no mínimo e circunstâncias favoráveis);
 - a gravidade concreta, pelo modo de execução, pode justificar o semiaberto mesmo com circunstâncias favoráveis (AgRg no HC 856.898, 5ª Turma, DJe 04/12/2023).
 
 ##### Institutos despenalizadores
 
-O AgRg no HC 1.043.373 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/11/2025) recorda que a personalidade integra o juízo subjetivo de cabimento da transação penal (Lei 9.099/1995, art. 76, § 2º). Não foi localizado julgado que trate a participação em ANPP, transação ou suspensão condicional como indício de personalidade.
+O AgRg no HC 1.043.373 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/11/2025) recorda que a personalidade integra o juízo subjetivo de cabimento da transação penal (Lei 9.099/1995, art. 76, § 2º). Não foi localizado julgado que trate a participação em acordo de não persecução penal (ANPP), transação ou suspensão condicional como indício de personalidade.
 
 #### 4.4.6.3 Hipóteses em que a valoração é admitida (causas que autorizam negativar)
 
 | Fundamento usado na sentença | Julgado | Ratio |
 |---|---|---|
 | Violência e agressividade concretamente demonstradas | HC 139.358, Rel. Min. Jorge Mussi, 5ª Turma, 15/04/2010, DJe 03/05/2010 | "Demonstrado que o paciente é pessoa violenta e agressiva", a personalidade foi concretamente valorada como negativa. |
-| Histórico de violência e controle | AgRg no AREsp 2.331.085, Rel. Min. Jesuíno Rissato (Des. convocado do TJDFT), 6ª Turma, DJe 06/12/2023; AgRg no HC 818.183, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 14/09/2023 | Ameaças frequentes e vontade extrema de controlar a vida da vítima; personalidade "agressiva, destrutiva e hostil", por violências contra a vítima, os filhos e os pais idosos. |
-| Comportamento refratário à reinserção social, evidenciado por mau comportamento carcerário | AgRg no REsp 2.135.234, Rel. Min. Otávio de Almeida Toledo (Des. convocado TJSP), 6ª Turma, 09/04/2025, DJEN 15/04/2025 | Elementos probatórios que indiquem caráter voltado à prática de infrações penais. |
+| Histórico de violência e controle | AgRg no AREsp 2.331.085, Rel. Min. Jesuíno Rissato (Des. convocado do Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)), 6ª Turma, DJe 06/12/2023; AgRg no HC 818.183, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 14/09/2023 | Ameaças frequentes e vontade extrema de controlar a vida da vítima; personalidade "agressiva, destrutiva e hostil", por violências contra a vítima, os filhos e os pais idosos. |
+| Comportamento refratário à reinserção social, evidenciado por mau comportamento carcerário | AgRg no REsp 2.135.234, Rel. Min. Otávio de Almeida Toledo (Des. convocado TJSP), 6ª Turma, 09/04/2025, Diário de Justiça Eletrônico Nacional (DJEN) 15/04/2025 | Elementos probatórios que indiquem caráter voltado à prática de infrações penais. |
 | Crime em saída temporária | AgRg no AREsp 3.009.634, Rel. Min. Rogerio Schietti Cruz, 6ª Turma, DJe 21/10/2025 | Revela descaso com o sistema de justiça e indiferença às decisões judiciais. |
 | Frieza para dissimular a participação | AgRg no HC 821.673, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 14/12/2023 | Comparecer ao velório da vítima e abraçar os familiares, para dissimular a participação, é circunstância idônea. |
 | Sadismo e caráter desvirtuado | AgRg no HC 1.017.019, Rel. Min. Joel Ilan Paciornik, 5ª Turma, DJe 29/10/2025 | Homicídio qualificado; guardar fotografias das vítimas no celular; fração de 1/2 por quatro circunstâncias, equivalente a 1/8 cada. |
 | Posição e modo de atuação no grupo criminoso | AgRg no HC 974.127, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, DJe 09/09/2025; AREsp 2.358.929, Rel. Min. Daniela Teixeira, 5ª Turma, DJe 24/12/2024 | Liderança em grupo criminoso e valorização pessoal nessa posição, além da prática de crimes mesmo recluso. O mesmo acórdão afastou, no mesmo julgamento, motivos e consequências genéricos. |
 | Planejamento, frieza, dissimulação e traços de psicopatia | AgRg no AREsp 1.843.720, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 24/05/2021 | Com elementos concretos; a personalidade exige análise pormenorizada. |
 | Insensibilidade e desprezo pelas vítimas | AREsp 2.389.625, Rel. Min. Daniela Teixeira, Terceira Seção, DJe 27/12/2024 | Estelionato contra vítimas humildes e em dificuldade; valoração sem laudo psicológico; fração de 1/8 por circunstância negativa. |
-| Comportamento perverso, com laudo psiquiátrico | AgRg no REsp 2.214.606, Rel. Min. Carlos Cini Marchionatti (Des. convocado do TJRS), 5ª Turma, DJe 25/08/2025 | Condenação pelo Júri; o laudo não é exigido, mas, quando existe, é elemento idôneo. |
+| Comportamento perverso, com laudo psiquiátrico | AgRg no REsp 2.214.606, Rel. Min. Carlos Cini Marchionatti (Des. convocado do Tribunal de Justiça do Rio Grande do Sul (TJRS)), 5ª Turma, DJe 25/08/2025 | Condenação pelo Júri; o laudo não é exigido, mas, quando existe, é elemento idôneo. |
 | Fatos concretos e comprovados, em critérios objetivos | AgRg no REsp 2.121.494, Rel. Min. Ribeiro Dantas, 5ª Turma, 18/02/2025, DJEN 27/02/2025 | A análise baseia-se em "critérios objetivos e elementos concretos", considerando características psicológicas, morais e comportamentais que influenciam a conduta delitiva. |
 
 **Fronteira com a conduta social.** No HC 900.273, os relatos de agressões físicas e de ostentação de armas, apurados por testemunhas, sustentaram a conduta social negativa, e a personalidade foi afastada por falta de elementos. O mesmo fato não vale duas vezes.
@@ -869,12 +946,12 @@ O AgRg no HC 1.043.373 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/
 | Atos infracionais | HC 499.987, Rel. Min. Felix Fischer, 5ª Turma, 30/05/2019, DJe 04/06/2019; REsp 1.702.051, Rel. Min. Maria Thereza de Assis Moura, 6ª Turma, 06/03/2018, DJe 14/03/2018 | Não caracterizam personalidade voltada para o crime. O REsp 1.702.051 decidiu a questão expressamente sobre a personalidade ("passagens pela Vara da Infância"). |
 | Ausência de elementos concretos; expressões vagas | HC 900.273, Rel. Min. Daniela Teixeira, 5ª Turma, 12/11/2024, DJe 19/11/2024; HC 372.688, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 20/06/2017, DJe 26/06/2017; HC 187.373, Rel. Min. Og Fernandes, 6ª Turma, 03/02/2011, DJe 21/02/2011; HC 48.858, Rel. Min. Hamilton Carvalhido, 6ª Turma, 30/10/2007, DJe 22/04/2008; HC 164.711, Rel. Min. Og Fernandes, 6ª Turma, 31/08/2010, DJe 27/09/2010 | A negativação sem elementos idôneos "constitui resquício do Direito Penal de Autor e carece de fundamentação científica adequada" (HC 900.273). Expressões como "péssima natureza" e "pessoalidade desprovida de qualidades morais" são vagas (HC 372.688). A mera alusão a "personalidade voltada para a prática criminosa" não autoriza a pena acima do mínimo (HC 164.711; HC 48.858). No HC 187.373 (roubo), culpabilidade, personalidade e motivo com "considerações de aspecto genérico ou mesmo inerentes ao próprio tipo" foram afastados. |
 | Referências genéricas a frieza e dissimulação | AgRg no HC 1.062.047, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 23/04/2026 | Sem elementos objetivos não bastam. |
-| "Fazer do crime seu modo de vida" | EAREsp 2.283.293, Rel. Min. Daniela Teixeira, DJe 11/11/2024 | Não é fundamento idôneo; também a quantidade de droga (4 g de cocaína e 270,92 g de maconha) não justificou a exasperação. |
+| "Fazer do crime seu modo de vida" | Embargos de divergência em agravo em recurso especial (EAREsp) 2.283.293, Rel. Min. Daniela Teixeira, DJe 11/11/2024 | Não é fundamento idôneo; também a quantidade de droga (4 g de cocaína e 270,92 g de maconha) não justificou a exasperação. |
 | Drogadição | AgRg no HC 818.183, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 14/09/2023 | Por ser enfermidade reconhecida pela OMS, não permite negativar a personalidade. |
 
 ### 4.4.7 Divergências, superações e temas pendentes
 
-**Superação do critério da reiteração delitiva.** Até 2019 conviviam na Sexta Turma duas posições: a que via nas condenações definitivas indício de personalidade voltada para o crime (AgRg no Ag 1.330.621, de 2013; AgRg no AREsp 682.666, de 2016) e a que a rejeitava (HC 472.654 e HC 473.874, de 2019, este por maioria, vencido o Min. Nefi Cordeiro). O Tema 1.077 (2021) encerrou a divergência e a tornou vinculante (CPC, art. 927, III). O AREsp 2.461.806 destoa do tema.
+**Superação do critério da reiteração delitiva.** Até 2019 conviviam na Sexta Turma duas posições: a que via nas condenações definitivas indício de personalidade voltada para o crime (AgRg no Ag 1.330.621, de 2013; AgRg no AREsp 682.666, de 2016) e a que a rejeitava (HC 472.654 e HC 473.874, de 2019, este por maioria, vencido o Min. Nefi Cordeiro). O Tema 1.077 (2021) encerrou a divergência e a tornou vinculante (Código de Processo Civil (CPC), art. 927, III). O AREsp 2.461.806 destoa do tema.
 
 **Necessidade de laudo.** O STJ dispensa laudo, inclusive na Terceira Seção (AREsp 2.389.625), embora não exista tese repetitiva sobre o ponto.
 
@@ -898,12 +975,30 @@ O AgRg no HC 1.043.373 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/
 
 ### 4.5.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração dos motivos do crime (CP, art. 59) na primeira fase da dosimetria da pena.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração dos motivos do crime (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena.
 - **Recorte e problema jurídico:** que razões que levaram o agente ao crime podem e que razões não podem ser valoradas negativamente na pena-base, em especial diante do motivo ínsito ao tipo e dos motivos que qualificam o crime ou agravam a pena. Ficam fora a culpabilidade, os antecedentes, a conduta social e a personalidade (capítulos próprios), citados apenas como contraste.
 
 ### 4.5.2 Síntese executiva
 
-Os motivos são as razões que levaram o agente a cometer a infração. A regra de fundo, formulada pelo STJ, é que o motivo "somente poderá ser reconhecido como desabonador caso não integre o tipo penal e não configure agravante ou atenuante ou, ainda, causa de aumento ou diminuição de pena" (AgRg no AREsp 867.170). Sempre que o motivo já foi considerado pelo legislador ou em outra fase, a valoração na pena-base é *bis in idem*.
+**Conceito dos motivos do crime na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.** Nas buscas feitas, nenhuma ementa traz definição expressa; o Tribunal fixa, porém, o critério para considerar o motivo na pena-base:
+
+> Quanto aos motivos do crime, tal circunstância judicial somente poderá ser reconhecida como desabonadora caso não integre o tipo penal e não configure agravante ou atenuante ou, ainda, causa de aumento ou diminuição de pena.
+>
+> (_habeas corpus_ (HC) 441.757, 5ª T., Rel. Min. Ribeiro Dantas, j. 05/06/2018, Diário da Justiça eletrônico (DJe) 12/06/2018)
+
+**Supremo Tribunal Federal.**
+
+> “Motivo é a razão de ser de alguma coisa, a causa ou o fundamento de sua existência, podendo ser utilizado ainda o termo com o sentido de finalidade e objetivo. No contexto do art. 59, segundo nos parece, vale-se a norma penal da palavra motivos (no plural) indicando, portanto um plexo de situações psíquicas, que faz alguém agir criminosamente. Esse contexto psíquico é rico de elementos harmônicos, podendo representar tanto a causa do delito como a finalidade a ser atingida pelo agente”
+>
+> (HC 108.146, STF, 1ª T., Rel. Min. Luiz Fux, j. 05/06/2012) **[Repositório externo]**
+
+
+
+
+
+Os motivos são as razões que levaram o agente a cometer a infração. A regra de fundo, formulada pelo STJ, é que o motivo "somente poderá ser reconhecido como desabonador caso não integre o tipo penal e não configure agravante ou atenuante ou, ainda, causa de aumento ou diminuição de pena" (agravo regimental (AgRg) no agravo em recurso especial (AREsp) 867.170). Sempre que o motivo já foi considerado pelo legislador ou em outra fase, a valoração na pena-base é *bis in idem*.
 
 > [!CAUTION]
 >
@@ -913,7 +1008,7 @@ Os motivos são as razões que levaram o agente a cometer a infração. A regra 
 >
 > **Admitido.** Admite-se quando o juiz aponta razão concreta, alheia ao tipo e às demais fases, que revele maior reprovabilidade: ciúme sem relação afetiva; ameaça para impedir a vítima de acionar a Justiça; ambição exacerbada e intenção de competição desleal; desentendimento e desafeto prévios comprovados; e, em decisão de 2026, a dívida de drogas como motivo do furto (em tensão com o julgado de 2024; ver seção 4.5.7).
 
-**Honra, ciúme e traição.** O STF declarou inconstitucional a "legítima defesa da honra" em crimes de feminicídio ou de agressão contra mulheres (ADPF 779). Por coerência, honra, ciúme e traição não podem ser tratados como motivo nobre ou de relevante valor moral em violência contra a mulher (inferência do estudo; ver subseção 4.5.6.2).
+**Honra, ciúme e traição.** O STF declarou inconstitucional a "legítima defesa da honra" em crimes de feminicídio ou de agressão contra mulheres (arguição de descumprimento de preceito fundamental (ADPF) 779). Por coerência, honra, ciúme e traição não podem ser tratados como motivo nobre ou de relevante valor moral em violência contra a mulher (inferência do estudo; ver subseção 4.5.6.2).
 
 **Relevante valor social ou moral.** Nos julgados localizados, aparece como privilegiadora do homicídio (CP, art. 121, § 1º), de terceira fase, e não como circunstância favorável da pena-base.
 
@@ -924,12 +1019,12 @@ Os motivos são as razões que levaram o agente a cometer a infração. A regra 
 | Instrumento | Nº | Órgão | Tese / enunciado | Situação |
 |---|---|---|---|---|
 | Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre motivos do crime nas bases consultadas. | — |
-| ADPF | 779 | STF (Plenário) | A tese da "legítima defesa da honra" é inconstitucional (CF, art. 1º, III, e art. 5º, *caput* e I); interpretação conforme aos arts. 23, II, e 25 do CP e ao art. 65 do CPP; vedado o uso direto ou indireto da tese, sob pena de nulidade. Rel. Min. Dias Toffoli, j. 01/08/2023, unânime (Informativo 1105). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| ADPF | 779 | STF (Plenário) | A tese da "legítima defesa da honra" é inconstitucional (Constituição Federal (CF), art. 1º, III, e art. 5º, *caput* e I); interpretação conforme aos arts. 23, II, e 25 do CP e ao art. 65 do Código de Processo Penal (CPP); vedado o uso direto ou indireto da tese, sob pena de nulidade. Rel. Min. Dias Toffoli, j. 01/08/2023, unânime (Informativo 1105). | Julgada procedente; eficácia contra todos e efeito vinculante |
 | ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
-| Repercussão Geral (Tema) | 182 (AI 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
+| Repercussão Geral (Tema) | 182 (agravo de instrumento (AI) 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do recurso extraordinário (RE) 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
 | Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | "É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. [...]" | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.318 | STJ (3ª Seção) | Sobre a culpabilidade: a premeditação autoriza a valoração negativa "desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora". A mesma lógica de vedação do *bis in idem* orienta os motivos. | Trânsito em julgado |
-| IAC / Súmula | não localizados | STJ | Nenhum IAC ou súmula específica sobre motivos nas bases consultadas. | — |
+| Incidente de assunção de competência (IAC) / Súmula | não localizados | STJ | Nenhum IAC ou súmula específica sobre motivos nas bases consultadas. | — |
 
 ### 4.5.4 Fundamentação normativa
 
@@ -973,7 +1068,7 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.5.5.3 Julgados de Turma e do Plenário
 
-- **RHC 122.469** (Rel. Min. Cármen Lúcia, red. p/ acórdão Min. Celso de Mello, 2ª Turma, 16/09/2014, Info 759): em tráfico de drogas, anulou a dosimetria por vários vícios. Entre eles, o Informativo registra que o uso contumaz de drogas não pode indicar a necessidade de agravar a pena, porque a conduta de quem vende drogas para sustentar o vício seria menos reprovável que a de quem atua só com intuito de lucro. Vencidos os Ministros Ricardo Lewandowski e Cármen Lúcia. O Informativo não trata a questão sob o rótulo "motivos"; a relação com o vetor é inferência.
+- **Recurso em _habeas corpus_ (RHC) 122.469** (Rel. Min. Cármen Lúcia, red. p/ acórdão Min. Celso de Mello, 2ª Turma, 16/09/2014, Info 759): em tráfico de drogas, anulou a dosimetria por vários vícios. Entre eles, o Informativo registra que o uso contumaz de drogas não pode indicar a necessidade de agravar a pena, porque a conduta de quem vende drogas para sustentar o vício seria menos reprovável que a de quem atua só com intuito de lucro. Vencidos os Ministros Ricardo Lewandowski e Cármen Lúcia. O Informativo não trata a questão sob o rótulo "motivos"; a relação com o vetor é inferência.
 - **HC 120.165** (Rel. Min. Dias Toffoli, 1ª Turma, 11/02/2014, Info 735): em crime culposo (lesão corporal e homicídio culposo na direção de veículo), retirou o agravamento de 1/4 por motivo torpe, porque nos crimes culposos se afere o grau de culpabilidade e, em segundo momento, não se pode valorar circunstância que revele maior culpabilidade, sob pena de *bis in idem*.
 - **HC 112.776** (Rel. Min. Teori Zavascki, Tribunal Pleno, 19/12/2013, Info 733): sobre a Lei de Drogas; fixa que a mesma circunstância não pode pesar na pena-base e na terceira fase. Fundamento da vedação do *bis in idem* na dosimetria.
 - **HC 107.090** (Rel. Min. Ricardo Lewandowski, 1ª Turma, 18/06/2013, Info 711): a competência é do Tribunal do Júri para dizer se o ciúme constitui motivo fútil; só a qualificadora manifestamente improcedente pode ser excluída da pronúncia. Vencidos os Ministros Luiz Fux e Marco Aurélio. Trata da qualificadora na pronúncia, não da pena-base; entra como contraste.
@@ -989,9 +1084,9 @@ Os acórdãos marcados com **[Repositório externo]** foram lidos pela ementa; T
 
 #### 4.5.6.1 Recursos repetitivos e IAC
 
-**Tema 1.214.** REsp 2.058.971, 2.058.970 e 2.058.976, Rel. Min. Sebastião Reis Júnior, Terceira Seção, 28/08/2024, DJe 12/09/2024. A redução proporcional da pena-base é obrigatória quando o tribunal afasta, em recurso exclusivo da defesa, circunstância negativa da sentença, o que alcança os motivos.
+**Tema 1.214.** recurso especial (REsp) 2.058.971, 2.058.970 e 2.058.976, Rel. Min. Sebastião Reis Júnior, Terceira Seção, 28/08/2024, DJe 12/09/2024. A redução proporcional da pena-base é obrigatória quando o tribunal afasta, em recurso exclusivo da defesa, circunstância negativa da sentença, o que alcança os motivos.
 
-**Tema 1.318.** REsp 2.174.008 e 2.174.028, Rel. Min. Otávio de Almeida Toledo (Des. convocado TJSP), Terceira Seção, 08/05/2025, DJEN 13/05/2025. A tese sobre premeditação como vetor da culpabilidade fixa limites que servem de analogia: o elemento não pode ser elementar ou ínsito ao tipo, nem pressuposto de agravante ou qualificadora, e a exasperação não é automática.
+**Tema 1.318.** REsp 2.174.008 e 2.174.028, Rel. Min. Otávio de Almeida Toledo (Des. convocado Tribunal de Justiça de São Paulo (TJSP)), Terceira Seção, 08/05/2025, Diário de Justiça Eletrônico Nacional (DJEN) 13/05/2025. A tese sobre premeditação como vetor da culpabilidade fixa limites que servem de analogia: o elemento não pode ser elementar ou ínsito ao tipo, nem pressuposto de agravante ou qualificadora, e a exasperação não é automática.
 
 #### 4.5.6.2 Súmulas e teses
 
@@ -1013,7 +1108,7 @@ O **AREsp 2.514.889** (Terceira Seção, Rel. Min. Daniela Teixeira, DJe 31/12/2
 
 ##### Motivo de relevante valor social ou moral
 
-Nos julgados localizados, esse motivo aparece como privilegiadora do homicídio (CP, art. 121, § 1º), causa de diminuição de terceira fase, e não como circunstância favorável da pena-base. No AgRg no AREsp 3.046.796 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17/12/2025), a redução de 1/6 a 1/3 depende de elementos concretos (relevância social ou moral da motivação, grau emotivo, intensidade da provocação), e rever a fração esbarra na Súmula 7/STJ. No AgRg no HC 758.946 (5ª Turma, Rel. Min. Jesuíno Rissato, Des. convocado do TJDFT, DJe 01/12/2022), o Júri reconheceu relevante valor moral e a fração de 1/6 foi mantida porque o desentendimento anterior não bastava para a fração máxima, sem contradição com o veredicto. Buscas específicas, em várias redações e em até trinta ementas, não retornaram julgado do STJ que valore o motivo nobre como circunstância favorável na pena-base. A razão é normativa: o motivo nobre aparece como causa de diminuição no homicídio e como atenuante (art. 65, III, "a"); como circunstância judicial, o resultado é neutro, sem redução abaixo do mínimo (Tema 158/STF e Súmula 231/STJ). Em relação à honra, ver a subseção 4.5.6.2.
+Nos julgados localizados, esse motivo aparece como privilegiadora do homicídio (CP, art. 121, § 1º), causa de diminuição de terceira fase, e não como circunstância favorável da pena-base. No AgRg no AREsp 3.046.796 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17/12/2025), a redução de 1/6 a 1/3 depende de elementos concretos (relevância social ou moral da motivação, grau emotivo, intensidade da provocação), e rever a fração esbarra na Súmula 7/STJ. No AgRg no HC 758.946 (5ª Turma, Rel. Min. Jesuíno Rissato, Des. convocado do Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), DJe 01/12/2022), o Júri reconheceu relevante valor moral e a fração de 1/6 foi mantida porque o desentendimento anterior não bastava para a fração máxima, sem contradição com o veredicto. Buscas específicas, em várias redações e em até trinta ementas, não retornaram julgado do STJ que valore o motivo nobre como circunstância favorável na pena-base. A razão é normativa: o motivo nobre aparece como causa de diminuição no homicídio e como atenuante (art. 65, III, "a"); como circunstância judicial, o resultado é neutro, sem redução abaixo do mínimo (Tema 158/STF e Súmula 231/STJ). Em relação à honra, ver a subseção 4.5.6.2.
 
 #### 4.5.6.3 Hipóteses em que a valoração é admitida (causas que autorizam negativar)
 
@@ -1069,16 +1164,34 @@ Nos julgados localizados, esse motivo aparece como privilegiadora do homicídio 
 
 ### 4.6.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração das circunstâncias do crime (CP, art. 59) na primeira fase da dosimetria da pena.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração das circunstâncias do crime (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena.
 - **Recorte e problema jurídico:** que aspectos do modo de execução (tempo, lugar, meio, maneira) podem e quais não podem ser valorados negativamente na pena-base, em especial diante da elementar do tipo e das qualificadoras e agravantes. Ficam fora a culpabilidade, os antecedentes, a conduta social, a personalidade e os motivos (capítulos próprios), citados apenas como contraste.
 
 ### 4.6.2 Síntese executiva
+
+**Conceito das circunstâncias do crime na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> As circunstâncias do crime são analisadas em conformidade com os elementos que cercam a prática da infração penal, como tempo, lugar e maneira de execução, sendo válidas para agravar a pena-base se justificadas por fatos concretos.
+>
+> (agravo em recurso especial (AREsp) 2.696.017, 5ª T., Rel. Min. Daniela Teixeira, j. 17/12/2024, Diário de Justiça Eletrônico Nacional (DJEN) 03/01/2025)
+
+**Supremo Tribunal Federal.**
+
+> “As circunstâncias do crime são os elementos acidentais não integrantes da estrutura do tipo penal, embora envolvam o crime” (_habeas corpus_ (HC) 88.968/SP, Rel. Min. Ellen Gracie, 2ª Turma, 25.9.2008)
+>
+> (HC 197.390 agravo regimental (AgR), STF, 1ª T., Rel. Min. Rosa Weber, j. 27/04/2021) **[Repositório externo]**
+
+
+
+
 
 As circunstâncias do crime são os elementos que cercam a prática da infração: "tempo, lugar e maneira de execução" (AREsp 2.696.017, 2024). Correspondem ao *modus operandi*. Valem na pena-base quando indicam fatos concretos que extrapolam o ordinário da espécie.
 
 > [!CAUTION]
 >
-> **Vedado.** Não se admite valorar negativamente as circunstâncias: (a) quando o fato é elementar do tipo (ser depositário, na apropriação indébita) (REsp 1.218.043) ou inerente a ele (estabelecimento comercial e forma de execução no roubo, quando o concurso de agentes já pesou como majorante: AgRg no HC 1.074.596); (b) quando o mesmo fato qualifica o crime, agrava a pena na segunda fase ou aumenta a pena na terceira, pois há *bis in idem* (REsp 2.256.857, de 2026; HC 337.787; HC 596.293 e HC 596.294); (c) quando o fato seria qualificadora ou agravante não apreciada pelo Tribunal do Júri, sob pena de usurpar sua competência (HC 60.012, de 2007); (d) com fórmulas genéricas, sem referência a pormenores do fato (HC 162.790).
+> **Vedado.** Não se admite valorar negativamente as circunstâncias: (a) quando o fato é elementar do tipo (ser depositário, na apropriação indébita) (recurso especial (REsp) 1.218.043) ou inerente a ele (estabelecimento comercial e forma de execução no roubo, quando o concurso de agentes já pesou como majorante: Agravo regimental (AgRg) no HC 1.074.596); (b) quando o mesmo fato qualifica o crime, agrava a pena na segunda fase ou aumenta a pena na terceira, pois há *bis in idem* (REsp 2.256.857, de 2026; HC 337.787; HC 596.293 e HC 596.294); (c) quando o fato seria qualificadora ou agravante não apreciada pelo Tribunal do Júri, sob pena de usurpar sua competência (HC 60.012, de 2007); (d) com fórmulas genéricas, sem referência a pormenores do fato (HC 162.790).
 
 > [!TIP]
 >
@@ -1091,20 +1204,20 @@ As circunstâncias do crime são os elementos que cercam a prática da infraçã
 | Instrumento | Nº | Órgão | Tese / enunciado | Situação |
 |---|---|---|---|---|
 | Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre circunstâncias do crime nas bases consultadas. | — |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
-| Repercussão Geral (Tema) | 182 (AI 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Repercussão Geral (Tema) | 182 (agravo de instrumento (AI) 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do recurso extraordinário (RE) 584.608 (Rel. Min. Ellen Gracie, Diário da Justiça eletrônico (DJe) 13/03/2009). | Transitado em julgado |
 | Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | Redução proporcional obrigatória da pena-base quando o tribunal, em recurso exclusivo da defesa, afasta circunstância judicial negativa da sentença. Dos três acórdãos, o REsp 2.058.976 tratava também das circunstâncias do crime. | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.318 | STJ (3ª Seção) | A premeditação autoriza a valoração negativa da culpabilidade, "desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora", e a exasperação "não é automática". | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.171 | STJ (3ª Seção) | "A utilização de simulacro de arma configura a elementar grave ameaça do tipo penal do roubo, subsumindo à hipótese legal que veda a substituição da pena." (REsp 1.994.182, Rel. Min. Sebastião Reis Júnior, j. 13/12/2023, DJe 18/12/2023, por maioria; vencida a Min. Daniela Teixeira.) O acórdão transcreve a orientação de que o simulacro "não é elemento capaz de caracterizar especial desvalor da conduta", por ser inerente à grave ameaça. | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.215 | STJ (3ª Seção) | "Nos crimes contra a dignidade sexual, não configura bis in idem a aplicação simultânea da agravante genérica do art. 61, II, 'f', e da majorante específica do art. 226, II, ambos do Código Penal, salvo quando presente apenas a relação de autoridade do agente sobre a vítima, hipótese na qual deve ser aplicada tão somente a causa de aumento." (REsp 2.049.969 e 2.038.833, Rel. Min. Joel Ilan Paciornik, j. 13/11/2024, DJe 18/11/2024, unanimidade.) | Trânsito em julgado |
 | Recurso Repetitivo (Tema) | 1.087 | STJ (3ª Seção) | Repouso noturno no furto qualificado: segundo as ementas do AgRg no HC 1.036.741 (3ª Seção, Rel. Min. Messod Azulay Neto, DJe 16/12/2025) e do AgRg no HC 1.014.935 (5ª Turma, DJe 11/05/2026), o tema afastou a majorante do repouso noturno no furto qualificado, mas o período noturno pode ser circunstância judicial negativa se fundamentada a maior censura. Paradigma, por citação: REsp 1.888.756/SP (Rel. Min. João Otávio de Noronha, j. 25/05/2022, DJe 27/06/2022). | Conforme as ementas citadas |
-| IAC / Súmula | não localizados | STJ | Nenhum IAC ou súmula específica sobre circunstâncias do crime nas bases consultadas. | — |
+| Incidente de assunção de competência (IAC) / Súmula | não localizados | STJ | Nenhum IAC ou súmula específica sobre circunstâncias do crime nas bases consultadas. | — |
 
 ### 4.6.4 Fundamentação normativa
 
 #### 4.6.4.1 Constituição Federal
 
-O dever de motivar (CF, art. 93, IX) fundamenta a exigência de referência concreta aos pormenores do fato. Para os crimes dolosos contra a vida, o STJ invocou a competência do Tribunal do Júri (HC 60.012).
+O dever de motivar (Constituição Federal (CF), art. 93, IX) fundamenta a exigência de referência concreta aos pormenores do fato. Para os crimes dolosos contra a vida, o STJ invocou a competência do Tribunal do Júri (HC 60.012).
 
 #### 4.6.4.2 Legislação infraconstitucional
 
@@ -1116,7 +1229,7 @@ O dever de motivar (CF, art. 93, IX) fundamenta a exigência de referência conc
 
 **CP, art. 121, § 2º, III e IV:** qualificam o homicídio o emprego de "veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum" (III) e o cometimento "à traição, de emboscada, ou mediante dissimulação ou outro recurso que dificulte ou torne impossível a defesa do ofendido" (IV).
 
-**CPP, art. 483:** quesitação do Júri, relevante para a distinção entre dado relacional valorado na pena-base e qualificadora reconhecida pelos jurados (AgRg no REsp 2.262.235).
+**Código de Processo Penal (CPP), art. 483:** quesitação do Júri, relevante para a distinção entre dado relacional valorado na pena-base e qualificadora reconhecida pelos jurados (AgRg no REsp 2.262.235).
 
 **CP, arts. 33, § 3º, 44, III, 71, parágrafo único, e 77, II:** também usam o art. 59, ou as circunstâncias do crime, como critério do regime, da substituição por restritivas, do crime continuado específico e do sursis.
 
@@ -1140,7 +1253,7 @@ A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024
 
 #### 4.6.5.3 Julgados de Turma e do Plenário
 
-- **RHC 122.469** (Rel. Min. Cármen Lúcia, red. p/ acórdão Min. Celso de Mello, 2ª Turma, 16/09/2014, Info 759): em tráfico de drogas, a Turma entendeu que a divisão da droga em 54 "trouxinhas" indicava potencial de alcançar muitos usuários, mas prevalecia a pequena quantidade (7,1 g), e que o uso da própria residência como ponto de venda, por si só, não gera maior reprovabilidade. Vencidos os Ministros Ricardo Lewandowski e Cármen Lúcia. O Informativo não identifica o vetor; a ligação com as circunstâncias do crime (local) é inferência.
+- **Recurso em _habeas corpus_ (RHC) 122.469** (Rel. Min. Cármen Lúcia, red. p/ acórdão Min. Celso de Mello, 2ª Turma, 16/09/2014, Info 759): em tráfico de drogas, a Turma entendeu que a divisão da droga em 54 "trouxinhas" indicava potencial de alcançar muitos usuários, mas prevalecia a pequena quantidade (7,1 g), e que o uso da própria residência como ponto de venda, por si só, não gera maior reprovabilidade. Vencidos os Ministros Ricardo Lewandowski e Cármen Lúcia. O Informativo não identifica o vetor; a ligação com as circunstâncias do crime (local) é inferência.
 - **HC 124.876** (Rel. Min. Gilmar Mendes, 2ª Turma, j. 24/02/2015, Info 775): circunstâncias e consequências do crime desfavoráveis impedem o regime inicial mais brando, ainda que a pena final seja inferior a quatro anos (CP, art. 33, § 3º; Súmula 719/STF).
 - **HC 94.620** (Plenário, Rel. Min. Ricardo Lewandowski, j. 24/06/2015, Info 791): rejeitou "circunstâncias e motivos deploráveis" como alegação genérica.
 - **HC 123.691** **[Repositório externo]** (Primeira Turma, Rel. Min. Dias Toffoli, j. 28/08/2018): em gestão fraudulenta de instituição financeira, a valoração negativa do *modus operandi* não é ínsito ao tipo e pode majorar a pena-base; só a ponderação de circunstância elementar do tipo configura *bis in idem* (HC 117.599, citado). Ordem denegada.
@@ -1158,7 +1271,7 @@ A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024
 
 **Tema 1.214.** REsp 2.058.971, 2.058.970 e 2.058.976, Rel. Min. Sebastião Reis Júnior, Terceira Seção, 28/08/2024, DJe 12/09/2024. No REsp 2.058.976 (tráfico), o tribunal local afastara a conduta social, a personalidade e as circunstâncias do crime sem reduzir a pena-base; o STJ reduziu a pena.
 
-**Tema 1.318.** REsp 2.174.008 e 2.174.028, Rel. Min. Otávio de Almeida Toledo (Des. convocado TJSP), Terceira Seção, 08/05/2025, DJEN 13/05/2025. Fixa que a premeditação é valorada no vetor da culpabilidade, e não nas circunstâncias, desde que não seja elementar, ínsita ao tipo nem pressuposto de agravante ou qualificadora. Nos casos concretos, o STJ também considerou a prática do crime em via pública, à luz do dia, apta à exacerbação da pena pelas circunstâncias.
+**Tema 1.318.** REsp 2.174.008 e 2.174.028, Rel. Min. Otávio de Almeida Toledo (Des. convocado Tribunal de Justiça de São Paulo (TJSP)), Terceira Seção, 08/05/2025, DJEN 13/05/2025. Fixa que a premeditação é valorada no vetor da culpabilidade, e não nas circunstâncias, desde que não seja elementar, ínsita ao tipo nem pressuposto de agravante ou qualificadora. Nos casos concretos, o STJ também considerou a prática do crime em via pública, à luz do dia, apta à exacerbação da pena pelas circunstâncias.
 
 #### 4.6.6.2 Súmulas e teses
 
@@ -1174,7 +1287,7 @@ Havendo várias qualificadoras, uma qualifica o crime e as demais podem servir d
 
 - **Terceira Seção:** HC 894.297 (Rel. Min. Daniela Teixeira, DJe 18/12/2024), que admitiu o deslocamento de qualificadoras sobejantes à primeira fase; AREsp 2.462.972 (Rel. Min. Daniela Teixeira, DJe 26/12/2024), que afirma o entendimento como consolidado nas duas Turmas da Seção, com a qualificadora remanescente como agravante do art. 61; AgRg no HC 1.080.721 (Rel. Min. Reynaldo Soares da Fonseca, DJe 14/04/2026), que admite a qualificadora excedente como agravante genérica do art. 61, II, "c"; e AgRg no HC 1.036.741 (Rel. Min. Messod Azulay Neto, DJe 16/12/2025; repouso noturno, Tema 1.087/STJ).
 - **6ª Turma:** HC 173.608 (Rel. Min. Sebastião Reis Júnior, 04/09/2012, DJe 17/09/2012), HC 358.096 (01/03/2018, DJe 12/03/2018), HC 118.890 (Rel. Min. Og Fernandes, 28/06/2011, DJe 03/08/2011: a qualificadora do recurso que impossibilitou a defesa serviu como circunstância judicial; a mera ausência de contribuição da vítima não exaspera), HC 1.063.826 (Rel. Min. Sebastião Reis Júnior, 18/03/2026, DJEN 24/03/2026: tentativa de homicídio triplamente qualificado), AgRg no HC 1.094.891 (Rel. Min. Nilsoni de Freitas, j. 12/08/2026, DJe 17/08/2026), REsp 2.235.210 (Rel. Min. Sebastião Reis Júnior, j. 18/03/2026).
-- **5ª Turma:** HC 76.535 (Rel. Min. Laurita Vaz, 27/04/2009, DJe 25/05/2009: a segunda qualificadora pode ser circunstância judicial; HC 100.479, 07/12/2010, DJe 17/12/2010: a terceira, agravante genérica), AgRg no HC 707.166 (Rel. Min. Joel Ilan Paciornik, DJe 16/12/2021: majorante sobejante), EDcl no HC 938.802 (Rel. Min. Daniela Teixeira, DJe 11/03/2025: concurso de agentes sobejante), AgRg no HC 821.673 (Rel. Min. Reynaldo Soares da Fonseca, DJe 14/12/2023), HC 640.525 (Rel. Min. Ribeiro Dantas, DJe 12/02/2021).
+- **5ª Turma:** HC 76.535 (Rel. Min. Laurita Vaz, 27/04/2009, DJe 25/05/2009: a segunda qualificadora pode ser circunstância judicial; HC 100.479, 07/12/2010, DJe 17/12/2010: a terceira, agravante genérica), AgRg no HC 707.166 (Rel. Min. Joel Ilan Paciornik, DJe 16/12/2021: majorante sobejante), embargos de declaração (EDcl) no HC 938.802 (Rel. Min. Daniela Teixeira, DJe 11/03/2025: concurso de agentes sobejante), AgRg no HC 821.673 (Rel. Min. Reynaldo Soares da Fonseca, DJe 14/12/2023), HC 640.525 (Rel. Min. Ribeiro Dantas, DJe 12/02/2021).
 - **Repouso noturno (Tema 1.087):** o AgRg no HC 1.014.935 (5ª Turma, Rel. Min. Maria Marluce Caldas, DJe 11/05/2026) esclarece que o período noturno pode ser considerado circunstância judicial negativa, se fundamentada a maior censura (furto por volta das 23 horas, em situação de menor vigilância).
 
 O quanto à regra de que o concurso de agentes, como majorante, só se examina na terceira fase, o HC 205.072 (Rel. Min. Sebastião Reis Júnior, 6ª Turma, 06/09/2012, DJe 26/09/2012) e o AgRg no HC 1.074.596 (5ª Turma, 2026) tratam do roubo.
@@ -1200,7 +1313,7 @@ Não há julgado do STJ que trate a presença de filhos do próprio réu, por si
 | Dano à floresta amazônica | AgRg no AgRg no AREsp 1.814.644, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, 18/05/2021, DJe 24/05/2021 | Desmatamento na Amazônia, cuja floresta é vital ao equilíbrio ecológico do país, denota reprovabilidade mais acentuada (crime ambiental). |
 | Violência além do tipo | HC 212.666, Rel. Min. Laurita Vaz, 5ª Turma, 17/09/2013, DJe 25/09/2013; AgRg no AREsp 2.058.546, Rel. Min. Olindo Menezes (Des. convocado TRF1), 6ª Turma, 04/10/2022, DJe 07/10/2022; AgRg no AREsp 1.990.966, Rel. Min. Olindo Menezes, 6ª Turma, DJe 20/05/2022; HC 175.102, Rel. Min. Og Fernandes, 6ª Turma, 15/02/2011, DJe 09/03/2011 | Agressões à vítima em crime patrimonial; agressão com pá na cabeça e o réu sentado nas costas da vítima (violência doméstica, além do art. 129, § 9º); vítima amarrada e amordaçada por mais de vinte minutos no roubo, por crueldade e violência excessivas; roubo no interior da residência, à noite, com família e empregados sob terror psicológico por ameaças de morte. |
 | Invasão da residência da vítima | AgRg no AREsp 2.918.901, Rel. Min. Rogerio Schietti Cruz, 6ª Turma, DJe 25/08/2025 | Gravidade concreta da conduta de quem invade a residência da vítima. |
-| Crime em via pública, com elevado grau de desinibição | AgRg no REsp 2.214.606, Rel. Min. Carlos Cini Marchionatti (Des. convocado do TJRS), 5ª Turma, DJe 25/08/2025 | Condenação pelo Júri; via pública, com elevado grau de desinibição. |
+| Crime em via pública, com elevado grau de desinibição | AgRg no REsp 2.214.606, Rel. Min. Carlos Cini Marchionatti (Des. convocado do Tribunal de Justiça do Rio Grande do Sul (TJRS)), 5ª Turma, DJe 25/08/2025 | Condenação pelo Júri; via pública, com elevado grau de desinibição. |
 | Período noturno e contratação por terceiros (descaminho) | AgRg no REsp 2.088.867, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 12/11/2023 | Dificuldade maior de fiscalização aduaneira; fração de pouco mais de 1/8 do intervalo. |
 | Tiroteio e risco a terceiros; disparo na fuga | AgRg no HC 694.797, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 20/06/2022; HC 185.020, Rel. Min. Jorge Mussi, 5ª Turma, 06/12/2011, DJe 01/02/2012 | Intenso tiroteio que expôs a vida de inúmeras pessoas a risco; disparo na fuga, em tentativa de roubo, que gera risco a terceiros. |
 | Modo agressivo, vítima vulnerável e execução no domicílio | AgRg no HC 1.078.427, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 14/04/2026 | *Modus operandi* agressivo, vítima absolutamente vulnerável e execução no domicílio. |
@@ -1214,7 +1327,7 @@ Não há julgado do STJ que trate a presença de filhos do próprio réu, por si
 | Fundamento usado na sentença | Julgado | Ratio |
 |---|---|---|
 | Fato elementar do tipo | REsp 1.218.043, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 07/05/2013, DJe 16/05/2013; HC 184.977, Rel. Min. Gilson Dipp, 5ª Turma, 02/12/2010, DJe 13/12/2010; AgRg no HC 1.074.596, Rel. Min. Messod Azulay Neto, 5ª Turma, j. 03/06/2026, DJe 10/06/2026 | Na apropriação indébita, ser depositário e violar a confiança é elementar do tipo. Nos crimes patrimoniais, as circunstâncias "em nada divergem dos inerentes" ao tipo. No roubo, o local (estabelecimento comercial) e a forma de execução não extrapolam o tipo, e o concurso de agentes, valorado como majorante na terceira fase, impõe a pena-base no mínimo. |
-| Mesmo fato usado como qualificadora ou agravante | REsp 2.256.857, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 27/05/2026, DJEN 01/06/2026; HC 337.787, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 22/08/2017, DJe 31/08/2017; HC 596.293 e HC 596.294, Rel. Min. Ribeiro Dantas, 5ª Turma, 18/08/2020, DJe 24/08/2020; HC 137.266, Rel. Min. Adilson Vieira Macabu (Des. convocado do TJRJ), 5ª Turma, 05/06/2012, DJe 02/08/2012 | *Bis in idem*. No REsp 2.256.857, a agravante do recurso que dificultou a defesa e as circunstâncias tinham a mesma base fática; as circunstâncias foram afastadas. No HC 337.787, a crueldade serviu à pena-base e à agravante do art. 61, II, "d". Nos HC 596.293 e 596.294, o meio usado como qualificadora na segunda fase não podia elevar a pena-base. No HC 137.266, é impossível usar o número de qualificadoras, ou as que ensejaram o tipo qualificado, para elevar a pena-base. |
+| Mesmo fato usado como qualificadora ou agravante | REsp 2.256.857, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 27/05/2026, DJEN 01/06/2026; HC 337.787, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 22/08/2017, DJe 31/08/2017; HC 596.293 e HC 596.294, Rel. Min. Ribeiro Dantas, 5ª Turma, 18/08/2020, DJe 24/08/2020; HC 137.266, Rel. Min. Adilson Vieira Macabu (Des. convocado do Tribunal de Justiça do Rio de Janeiro (TJRJ)), 5ª Turma, 05/06/2012, DJe 02/08/2012 | *Bis in idem*. No REsp 2.256.857, a agravante do recurso que dificultou a defesa e as circunstâncias tinham a mesma base fática; as circunstâncias foram afastadas. No HC 337.787, a crueldade serviu à pena-base e à agravante do art. 61, II, "d". Nos HC 596.293 e 596.294, o meio usado como qualificadora na segunda fase não podia elevar a pena-base. No HC 137.266, é impossível usar o número de qualificadoras, ou as que ensejaram o tipo qualificado, para elevar a pena-base. |
 | Circunstância que seria qualificadora ou agravante não apreciada pelo Júri | HC 60.012, Rel. Min. Arnaldo Esteves Lima, 5ª Turma, 04/10/2007, DJe 07/04/2008 | Em crimes dolosos contra a vida, é inadmissível na pena-base circunstância que constituiria qualificadora ou agravante, sob pena de usurpação da competência do Tribunal do Júri. |
 | Fórmulas genéricas | HC 162.790, Rel. Min. Og Fernandes, 6ª Turma, 09/08/2011, DJe 14/09/2011; AgRg no AREsp 2.407.934, Rel. Min. Sebastião Reis Júnior, 6ª Turma, DJe 09/09/2025 | Expressões como "reprovável sua conduta" e "consequências graves", ligadas ao próprio tipo, não bastam (HC 162.790, quanto à culpabilidade e às consequências). Em tráfico, a fundamentação da sentença inerente ao tipo foi mantida pela Súmula 7/STJ. |
 | Elementos vagos, aplicáveis a qualquer crime da espécie | HC 214.759, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 02/10/2012, DJe 16/10/2012 | O fato de o crime ter desestabilizado a pacificação social é "elemento vago, genérico" e não eleva a pena-base. O mesmo julgado manteve outros vetores com fundamento concreto. |
@@ -1229,7 +1342,7 @@ Não há julgado do STJ que trate a presença de filhos do próprio réu, por si
 
 **Premeditação: circunstâncias ou culpabilidade.** O HC 162.790 (6ª Turma, 2011) aceitou a premeditação como fundamento das circunstâncias do crime. O Tema 1.318 (3ª Seção, 2025) fixou que o vetor da premeditação é a culpabilidade. Passa a valer o Tema 1.318. Quando a sentença usar a premeditação como circunstância, o tribunal pode apenas reclassificá-la, sem *reformatio in pejus* (Tema 1.214, segunda parte).
 
-**Elemento do tipo.** A regra é clara na ementa do REsp 1.218.043, mas a aplicação oscila: o AgRg no AREsp 867.170 admitiu a noite, o local ermo e a dissimulação, enquanto o REsp 2.256.857 afastou a circunstância fundada no mesmo fato da agravante. Os julgados tratam de bases fáticas diferentes, e as ementas não permitem afirmar o critério exato de distinção (ver seção 6.6).
+**Elemento do tipo.** A regra é clara na ementa do REsp 1.218.043, mas a aplicação oscila: o AgRg no AREsp 867.170 admitiu a noite, o local ermo e a dissimulação, enquanto o REsp 2.256.857 afastou a circunstância fundada no mesmo fato da agravante. Os julgados tratam de bases fáticas diferentes, e as ementas não permitem afirmar o critério exato de distinção (ver seção 7.6).
 
 **Idade da vítima de estupro de vulnerável.** Circunstâncias (AgRg no HC 1.075.946, 5ª Turma, 2026) ou culpabilidade (REsp 2.176.423, 6ª Turma, 2025): a posição não está uniformizada.
 
@@ -1248,12 +1361,30 @@ Não há julgado do STJ que trate a presença de filhos do próprio réu, por si
 
 ### 4.7.1 Tema e recorte
 
-- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração das consequências do crime (CP, art. 59) na primeira fase da dosimetria da pena.
+- **Tema:** Hipóteses em que é admitida e em que não é admitida a valoração das consequências do crime (Código Penal (CP), art. 59) na primeira fase da dosimetria da pena.
 - **Recorte e problema jurídico:** que efeitos do crime sobre a vítima, a família e a coletividade podem e quais não podem ser valorados negativamente na pena-base, em especial diante do resultado inerente ao tipo. Ficam fora a culpabilidade, os antecedentes, a conduta social, a personalidade, os motivos e as circunstâncias (capítulos próprios), citados apenas como contraste.
 
 ### 4.7.2 Síntese executiva
 
-As consequências do crime são "o resultado da ação do agente". A valoração negativa é "escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal" (AgRg no AREsp 867.170; AgRg no REsp 2.004.417).
+**Conceito das consequências do crime na jurisprudência.** Trechos transcritos das ementas, com a fonte de cada um.
+
+**Superior Tribunal de Justiça.**
+
+> Quanto às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+>
+> (_habeas corpus_ (HC) 377.677, 5ª T., Rel. Min. Ribeiro Dantas, j. 27/06/2017, Diário da Justiça eletrônico (DJe) 01/08/2017)
+
+> Já com relação às consequências do delito, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+>
+> (agravo regimental (AgRg) no HC 629.109, 5ª T., Rel. Min. Ribeiro Dantas, j. 15/02/2022, DJe 21/02/2022)
+
+**Supremo Tribunal Federal.** Nas buscas feitas, nenhuma ementa traz definição expressa desta circunstância; os acórdãos localizados tratam dela apenas ao valorá-la no caso concreto.
+
+
+
+
+
+As consequências do crime são "o resultado da ação do agente". A valoração negativa é "escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal" (AgRg no agravo em recurso especial (AREsp) 867.170; AgRg no recurso especial (REsp) 2.004.417).
 
 > [!CAUTION]
 >
@@ -1261,7 +1392,7 @@ As consequências do crime são "o resultado da ação do agente". A valoração
 
 > [!TIP]
 >
-> **Admitido.** Admite-se: (a) em homicídio, o fato de a vítima ter deixado filho(s) menor(es) de idade, tese vinculante do Tema Repetitivo 1.394/STJ, já aplicada em 2025 e 2026; (b) a tenra idade da vítima de homicídio (menor de 18 anos), com a ressalva da majorante (AgRg no REsp 1.851.435, 3ª Seção); (c) o abalo psicológico concreto da vítima e da família, inclusive em crimes sexuais, sem exigência de perícia (AgRg no REsp 1.979.499; AgRg no HC 1.090.235); (d) o prejuízo patrimonial que extrapola a normalidade (AgRg no AREsp 2.262.813; AgRg no REsp 1.961.443; AgRg no AREsp 1.990.966); (e) o mal que transcende o resultado típico (HC 621.348); (f) no homicídio culposo de trânsito, o dano material vultoso e o número de mortes (EDcl no AREsp 1.855.734; AgRg no REsp 2.261.362).
+> **Admitido.** Admite-se: (a) em homicídio, o fato de a vítima ter deixado filho(s) menor(es) de idade, tese vinculante do Tema Repetitivo 1.394/STJ, já aplicada em 2025 e 2026; (b) a tenra idade da vítima de homicídio (menor de 18 anos), com a ressalva da majorante (AgRg no REsp 1.851.435, 3ª Seção); (c) o abalo psicológico concreto da vítima e da família, inclusive em crimes sexuais, sem exigência de perícia (AgRg no REsp 1.979.499; AgRg no HC 1.090.235); (d) o prejuízo patrimonial que extrapola a normalidade (AgRg no AREsp 2.262.813; AgRg no REsp 1.961.443; AgRg no AREsp 1.990.966); (e) o mal que transcende o resultado típico (HC 621.348); (f) no homicídio culposo de trânsito, o dano material vultoso e o número de mortes (embargos de declaração (EDcl) no AREsp 1.855.734; AgRg no REsp 2.261.362).
 
 > [!WARNING]
 >
@@ -1274,17 +1405,17 @@ As consequências do crime são "o resultado da ação do agente". A valoração
 | Instrumento | Nº | Órgão | Tese / enunciado | Situação |
 |---|---|---|---|---|
 | Súmula Vinculante | não localizada | STF | Nenhuma súmula vinculante sobre consequências do crime nas bases consultadas. | — |
-| ADPF | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
-| Repercussão Geral (Tema) | 182 (AI 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do RE 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (ementa e certidão de julgamento na curadoria interna; Informativo 1138). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| Repercussão Geral (Tema) | 182 (agravo de instrumento (AI) 742.460) | STF | Ausência de repercussão geral: "A questão da adequada valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, tem natureza infraconstitucional", conforme o precedente do recurso extraordinário (RE) 584.608 (Rel. Min. Ellen Gracie, DJe 13/03/2009). | Transitado em julgado |
 | Recurso Repetitivo (Tema) | 1.394 | STJ (3ª Seção) | "É válida a exasperação da pena-base, em razão das consequências do delito, na hipótese de a vítima de homicídio haver deixado filho(s) menor(es) de idade." | Trânsito em julgado (conforme consulta ao tema na curadoria interna) |
 | Recurso Repetitivo (Tema) | 1.214 | STJ (3ª Seção) | Redução proporcional obrigatória da pena-base quando o tribunal, em recurso exclusivo da defesa, afasta circunstância judicial negativa da sentença. | Trânsito em julgado |
-| IAC / Súmula | não localizados | STJ | Nenhum IAC ou súmula específica sobre consequências do crime nas bases consultadas. | — |
+| Incidente de assunção de competência (IAC) / Súmula | não localizados | STJ | Nenhum IAC ou súmula específica sobre consequências do crime nas bases consultadas. | — |
 
 ### 4.7.4 Fundamentação normativa
 
 #### 4.7.4.1 Constituição Federal
 
-O dever de motivar (CF, art. 93, IX) exige que as consequências negativadas sejam descritas em fatos concretos. No HC 134.193, o STF apreciou alegação de violação dos princípios da individualização da pena (CF, art. 5º, XLVI) e da motivação (art. 93, IX).
+O dever de motivar (Constituição Federal (CF), art. 93, IX) exige que as consequências negativadas sejam descritas em fatos concretos. No HC 134.193, o STF apreciou alegação de violação dos princípios da individualização da pena (CF, art. 5º, XLVI) e da motivação (art. 93, IX).
 
 #### 4.7.4.2 Legislação infraconstitucional
 
@@ -1294,7 +1425,7 @@ O dever de motivar (CF, art. 93, IX) exige que as consequências negativadas sej
 
 **CP, arts. 33, § 3º, 44, III, 71, parágrafo único, e 77, II:** também usam o art. 59 como critério do regime, da substituição por restritivas, do crime continuado específico e do sursis.
 
-**Código de Trânsito Brasileiro, arts. 293 e 302:** o homicídio culposo na direção de veículo automotor e a suspensão ou proibição de habilitação, que depende de gravidade e culpabilidade, e não das circunstâncias do art. 59 (AgRg no REsp 2.284.141).
+**Código de Trânsito Brasileiro (CTB), arts. 293 e 302:** o homicídio culposo na direção de veículo automotor e a suspensão ou proibição de habilitação, que depende de gravidade e culpabilidade, e não das circunstâncias do art. 59 (AgRg no REsp 2.284.141).
 
 #### 4.7.4.3 Atos infralegais e resoluções
 
@@ -1329,7 +1460,7 @@ A **ADPF 1107** (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgada em 23/05/2024
 
 #### 4.7.6.1 Recursos repetitivos e IAC
 
-**Tema 1.394.** REsp 2.195.921, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 07/05/2026, DJEN 03/06/2026, unanimidade. Afetação em 28/10/2025 (ProAfR no REsp 2.195.921, DJEN 13/11/2025). Tese: "é válida a exasperação da pena-base, em razão das consequências do delito, na hipótese de a vítima de homicídio haver deixado filho(s) menor(es) de idade". O acórdão reafirma a jurisprudência. No caso concreto, as consequências foram valoradas por a vítima ter deixado duas filhas órfãs, de 10 e 15 anos, e por os pais da vítima terem adoecido e falecido. Cada vetor foi aumentado em 2 anos e 3 meses, equivalente a 1/8 do intervalo entre as penas máxima e mínima, o que o STJ considerou conforme a jurisprudência da Terceira Seção (AgRg nos EAREsp 2.458.272, 3ª Seção, j. 14/05/2025, DJEN 20/05/2025, caso de peculato). A consulta direta ao tema na curadoria interna registra "Trânsito em Julgado"; algumas buscas por texto ainda o listam como "Afetado", porque retornam apenas o acórdão de afetação.
+**Tema 1.394.** REsp 2.195.921, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 07/05/2026, Diário de Justiça Eletrônico Nacional (DJEN) 03/06/2026, unanimidade. Afetação em 28/10/2025 (ProAfR no REsp 2.195.921, DJEN 13/11/2025). Tese: "é válida a exasperação da pena-base, em razão das consequências do delito, na hipótese de a vítima de homicídio haver deixado filho(s) menor(es) de idade". O acórdão reafirma a jurisprudência. No caso concreto, as consequências foram valoradas por a vítima ter deixado duas filhas órfãs, de 10 e 15 anos, e por os pais da vítima terem adoecido e falecido. Cada vetor foi aumentado em 2 anos e 3 meses, equivalente a 1/8 do intervalo entre as penas máxima e mínima, o que o STJ considerou conforme a jurisprudência da Terceira Seção (AgRg nos embargos de divergência em agravo em recurso especial (EAREsp) 2.458.272, 3ª Seção, j. 14/05/2025, DJEN 20/05/2025, caso de peculato). A consulta direta ao tema na curadoria interna registra "Trânsito em Julgado"; algumas buscas por texto ainda o listam como "Afetado", porque retornam apenas o acórdão de afetação.
 
 **Tema 1.214.** REsp 2.058.971, 2.058.970 e 2.058.976, Rel. Min. Sebastião Reis Júnior, Terceira Seção, 28/08/2024, DJe 12/09/2024. A redução proporcional é obrigatória quando o tribunal afasta circunstância negativada na sentença, o que alcança as consequências.
 
@@ -1375,13 +1506,13 @@ AgRg no AREsp 2.373.250 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 14
 
 | Fundamento usado na sentença | Julgado | Ratio |
 |---|---|---|
-| Vítima de homicídio que deixou filho(s) menor(es) | REsp 2.195.921 (Tema 1.394); AgRg no AREsp 1.867.073, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, 05/10/2021, DJe 13/10/2021; AgRg no AREsp 3.257.429, Rel. Min. Ribeiro Dantas, 5ª Turma, j. 04/08/2026, DJe 13/08/2026; AgRg no AREsp 3.146.104, Rel. Min. Nilsoni de Freitas (Des. convocada do TJDFT), 6ª Turma, j. 16/06/2026, DJe 23/06/2026; AgRg no AREsp 2.997.271, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 12/11/2025; AgRg no REsp 2.227.087, Rel. Min. Joel Ilan Paciornik, 5ª Turma, DJe 18/12/2025; AgRg no HC 791.687, Rel. Min. Laurita Vaz, 6ª Turma, DJe 16/05/2023; AgRg no AREsp 1.843.720, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 24/05/2021 | Tese vinculante. No AgRg no AREsp 1.867.073, os filhos menores ficaram desamparados materialmente, um deles com necessidades especiais. Um único filho de cinco anos basta (AgRg no AREsp 2.997.271). A orfandade não é inerente ao tipo, porque nem toda vítima de crime contra a vida tem filhos menores, e há efeitos emocionais e impacto no sustento (AgRg no REsp 2.227.087). Quatro filhos, crianças e adolescentes (AgRg no HC 791.687). No AgRg no AREsp 3.146.104, aplicada a homicídio qualificado com ocultação de cadáver. |
+| Vítima de homicídio que deixou filho(s) menor(es) | REsp 2.195.921 (Tema 1.394); AgRg no AREsp 1.867.073, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, 05/10/2021, DJe 13/10/2021; AgRg no AREsp 3.257.429, Rel. Min. Ribeiro Dantas, 5ª Turma, j. 04/08/2026, DJe 13/08/2026; AgRg no AREsp 3.146.104, Rel. Min. Nilsoni de Freitas (Des. convocada do Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)), 6ª Turma, j. 16/06/2026, DJe 23/06/2026; AgRg no AREsp 2.997.271, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 12/11/2025; AgRg no REsp 2.227.087, Rel. Min. Joel Ilan Paciornik, 5ª Turma, DJe 18/12/2025; AgRg no HC 791.687, Rel. Min. Laurita Vaz, 6ª Turma, DJe 16/05/2023; AgRg no AREsp 1.843.720, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 24/05/2021 | Tese vinculante. No AgRg no AREsp 1.867.073, os filhos menores ficaram desamparados materialmente, um deles com necessidades especiais. Um único filho de cinco anos basta (AgRg no AREsp 2.997.271). A orfandade não é inerente ao tipo, porque nem toda vítima de crime contra a vida tem filhos menores, e há efeitos emocionais e impacto no sustento (AgRg no REsp 2.227.087). Quatro filhos, crianças e adolescentes (AgRg no HC 791.687). No AgRg no AREsp 3.146.104, aplicada a homicídio qualificado com ocultação de cadáver. |
 | Tenra idade da vítima de homicídio (menor de 18 anos) | AgRg no REsp 1.851.435; AgRg no HC 716.488, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 21/09/2022 | A Terceira Seção resolveu a divergência entre as Turmas pela orientação da Quinta: elemento concreto que transborda o ínsito ao homicídio. Vencido o Min. Rogerio Schietti Cruz. No AgRg no HC 716.488, vítima de 16 anos. |
-| Vítima como arrimo de família | AgRg no AREsp 2.065.022, Rel. Min. Olindo Menezes (Des. convocado do TRF 1ª Região), 6ª Turma, DJe 10/11/2022; AgRg no AREsp 2.932.575, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 17/09/2025 | A morte é consequência ínsita ao homicídio, mas a condição de arrimo de família, bem delimitada na origem, autoriza elevar a pena; no AgRg no AREsp 2.932.575, depoimentos sobre problemas de saúde e prejuízos financeiros da família. |
-| Abalo psicológico concreto | AgRg no REsp 1.979.499, Rel. Min. Jesuíno Rissato (Des. convocado TJDFT), 5ª Turma, 19/04/2022, DJe 03/05/2022; AgRg no AREsp 1.038.460, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, 02/05/2017, DJe 11/05/2017; AgRg no AgRg no AREsp 1.407.255, Rel. Min. Joel Ilan Paciornik, 5ª Turma, 21/11/2019, DJe 02/12/2019; AgRg no AREsp 2.373.250, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 14/08/2023; AgRg no HC 1.003.255, Rel. Min. Carlos Cini Marchionatti (Des. convocado do TJRS), 6ª Turma, DJe 09/09/2025; AgRg no REsp 2.214.606, mesmo relator, 5ª Turma, DJe 25/08/2025 | Roubo: vítimas com insônia e outros problemas; família que se mudou por medo e criança que deixou a escola; trauma psicológico da vítima; vítima idosa que reside sozinha; significativo abalo físico e emocional das vítimas (a agravante da gravidez é objetiva e distinta); graves transtornos psicológicos ao filho menor da vítima de homicídio. |
+| Vítima como arrimo de família | AgRg no AREsp 2.065.022, Rel. Min. Olindo Menezes (Des. convocado do Tribunal Regional Federal (TRF) 1ª Região), 6ª Turma, DJe 10/11/2022; AgRg no AREsp 2.932.575, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 17/09/2025 | A morte é consequência ínsita ao homicídio, mas a condição de arrimo de família, bem delimitada na origem, autoriza elevar a pena; no AgRg no AREsp 2.932.575, depoimentos sobre problemas de saúde e prejuízos financeiros da família. |
+| Abalo psicológico concreto | AgRg no REsp 1.979.499, Rel. Min. Jesuíno Rissato (Des. convocado TJDFT), 5ª Turma, 19/04/2022, DJe 03/05/2022; AgRg no AREsp 1.038.460, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, 02/05/2017, DJe 11/05/2017; AgRg no AgRg no AREsp 1.407.255, Rel. Min. Joel Ilan Paciornik, 5ª Turma, 21/11/2019, DJe 02/12/2019; AgRg no AREsp 2.373.250, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, DJe 14/08/2023; AgRg no HC 1.003.255, Rel. Min. Carlos Cini Marchionatti (Des. convocado do Tribunal de Justiça do Rio Grande do Sul (TJRS)), 6ª Turma, DJe 09/09/2025; AgRg no REsp 2.214.606, mesmo relator, 5ª Turma, DJe 25/08/2025 | Roubo: vítimas com insônia e outros problemas; família que se mudou por medo e criança que deixou a escola; trauma psicológico da vítima; vítima idosa que reside sozinha; significativo abalo físico e emocional das vítimas (a agravante da gravidez é objetiva e distinta); graves transtornos psicológicos ao filho menor da vítima de homicídio. |
 | Mal que transcende o resultado típico | HC 621.348, Rel. Min. Laurita Vaz, 6ª Turma, 13/04/2021, DJe 29/04/2021; HC 205.072, Rel. Min. Sebastião Reis Júnior, 6ª Turma, 06/09/2012, DJe 26/09/2012; AgRg no HC 694.797, Rel. Min. Ribeiro Dantas, 5ª Turma, DJe 20/06/2022 | Perda de vários integrantes de um mesmo grupo familiar e impedimento de a vítima exercer o cargo de deputada federal; roubo com gravidade exacerbada da lesão; fuga de pessoa presa com tiroteio que expôs a risco a vida de várias pessoas. |
 | Prejuízo patrimonial expressivo | AgRg no AREsp 2.262.813, Rel. Min. Jesuíno Rissato (Des. convocado TJDFT), 6ª Turma, 20/02/2024, DJe 23/02/2024; AgRg no REsp 1.961.443, Rel. Min. Olindo Menezes (Des. convocado TRF1), 6ª Turma, 22/02/2022, DJe 02/03/2022; AgRg no REsp 1.364.766, Rel. Min. Moura Ribeiro, 5ª Turma, 05/12/2013, DJe 11/12/2013; HC 124.201, Rel. Min. Napoleão Nunes Maia Filho, 5ª Turma, 16/04/2009, DJe 25/05/2009; AREsp 2.401.338, Rel. Min. Daniela Teixeira, 5ª Turma, DJe 26/12/2024; REsp 2.063.025, mesma relatora, 5ª Turma, DJe 10/02/2025; AgRg no REsp 2.250.485, Rel. Min. Joel Ilan Paciornik, 5ª Turma, DJe 22/04/2026; AgRg no AREsp 1.990.966 | "Embora o prejuízo financeiro seja decorrência comum dos crimes contra o patrimônio, sua análise pode ser considerada quando extrapolar a normalidade." Estelionato previdenciário de cerca de R$ 446.857,46 (aumento de 1/3); sonegação de R$ 521.722,12; evasão de US$ 45 milhões; estelionato em que a vítima perdeu o veículo e continuou pagando o financiamento; furto simples com elevado prejuízo; vítima aposentada que perdeu valores acumulados na vida laboral (sem *bis in idem* com a agravante da idade, art. 61, II, "h"); roubo com prejuízo de R$ 30.000,00. |
-| Valores não recuperados e dano ao erário | AgRg no AgRg na RvCr 5.719, Rel. Min. Joel Ilan Paciornik, red. p/ acórdão Min. Sebastião Reis Júnior, 3ª Seção, 26/10/2022, DJe 03/11/2022 | Peculato de prefeito: o fato de os valores não terem sido recuperados justificou as consequências. |
+| Valores não recuperados e dano ao erário | AgRg no AgRg na revisão criminal (RvCr) 5.719, Rel. Min. Joel Ilan Paciornik, red. p/ acórdão Min. Sebastião Reis Júnior, 3ª Seção, 26/10/2022, DJe 03/11/2022 | Peculato de prefeito: o fato de os valores não terem sido recuperados justificou as consequências. |
 | Reflexo na imagem do Poder Judiciário | AgRg no REsp 2.004.417 | Estelionato que induziu o juízo a homologar acordo falso; o prejuízo ultrapassou a vítima. |
 | Dano ambiental extenso | AgRg no AgRg no AREsp 1.814.644, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, 18/05/2021, DJe 24/05/2021 | Área desmatada superior a 100 ha. |
 
@@ -1424,24 +1555,301 @@ AgRg no AREsp 2.373.250 (5ª Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 14
 - **Crimes contra o erário:** o valor expressivo do prejuízo e a ausência de recuperação sustentam as consequências (AgRg no AREsp 2.262.813; AgRg na RvCr 5.719).
 - **Concursos:** os pontos mais cobrados são o dano inerente ao tipo, o Tema 1.394 (filhos menores) e a vedação do *bis in idem* com a majorante do art. 121, § 4º.
 
-# 5 Parte II: crimes em espécie
+# 5 Critérios de quantificação da pena na primeira e na segunda fase
+
+Este capítulo é geral: vale para todos os vetores da Parte I e para os crimes da Parte II. Os parâmetros de fração não são regras de direito; o que vincula é o dever de motivar e o limite do intervalo de pena do tipo.
+
+## 5.1 Tema e recorte
+
+- **Tema:** Critérios de quantificação da pena na primeira fase (frações de 1/8 sobre o intervalo da pena e de 1/6 sobre a pena mínima, e critério diferente) e na segunda fase (quantum das agravantes e atenuantes, confissão qualificada e concurso de agravantes e atenuantes) da dosimetria, segundo o Supremo Tribunal Federal (STF) e o Superior Tribunal de Justiça (STJ).
+- **Recorte e problema jurídico:** que fração os tribunais aceitam para aumentar a pena-base por circunstância judicial negativa e se é possível adotar critério diferente; como se quantificam agravantes e atenuantes, em especial a confissão parcial e qualificada; e que circunstâncias preponderam no concurso de agravantes e atenuantes (Código Penal (CP), art. 67). Ficam fora a terceira fase, o regime e a substituição da pena.
+
+## 5.2 Síntese executiva
+
+> [!IMPORTANT]
+>
+> **Primeira fase.** Não há fórmula legal para o aumento da pena-base. O STF afirma que o Código Penal "não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena" (_habeas corpus_ (HC) 104.282). O STJ usa dois parâmetros, nenhum deles obrigatório: **1/6 sobre a pena mínima** por circunstância negativa (agravo regimental (AgRg) no agravo em recurso especial (AREsp) 1.744.002; recurso especial (REsp) 2.089.041) e **1/8 sobre o intervalo entre as penas mínima e máxima** (AREsp 2.467.463). É possível adotar critério diferente, inclusive fração superior a 1/6, desde que haja fundamentação concreta e coerência com o número de circunstâncias negativas e com o intervalo da pena (REsp 1.945.656; AgRg no REsp 1.817.386).
+
+> [!IMPORTANT]
+>
+> **Segunda fase.** Também não há fração legal. A prática do STJ é 1/6 por agravante ou atenuante, com ônus de motivar o que dela se afastar: a reincidência específica, como único fundamento, só justifica fração maior que 1/6 em casos excepcionais e com fundamentação detalhada (Tema 1.172/STJ). A atenuante não leva a pena abaixo do mínimo (Súmula 231/STJ; Tema 158/STF).
+
+> [!TIP]
+>
+> **Confissão.** Desde a revisão da Súmula 545/STJ, a confissão atenua a pena "independentemente de ser utilizada na formação do convencimento do julgador". Se o réu confessa e invoca excludente de tipicidade, de ilicitude ou de culpabilidade (confissão qualificada), a atenuante é reconhecida, mas "em menor proporção" e sem preponderar sobre agravantes (Tema 1.194/STJ). A Quinta e a Sexta Turmas têm aplicado, nesse caso, fração menor que 1/6 (em geral 1/12); a Sexta Turma manteve 1/6 em condenações do Tribunal do Júri (AgRg no REsp 2.195.701).
+
+> [!CAUTION]
+>
+> **Concurso de agravantes e atenuantes.** O art. 67 do CP declara preponderantes os motivos determinantes do crime, a personalidade do agente e a reincidência. O STJ, na Terceira Seção, entende que a confissão, por compreender a personalidade do agente, é igualmente preponderante e se compensa integralmente com a reincidência, ainda que específica, salvo multirreincidência, caso em que prepondera a reincidência e a compensação é proporcional (Tema 585/STJ). Julgados das duas Turmas do STF aplicam a preponderância da reincidência sobre a confissão (recurso em _habeas corpus_ (RHC) 111.454; HC 96.061; RHC 135.819), e o STF não reconheceu repercussão geral sobre a compensação (Tema 929/STF).
+
+**Quando o critério vincula.** Nenhum dos parâmetros é regra de direito: são orientações de proporcionalidade. O que vincula é o dever de motivar (Constituição Federal (CF), art. 93, IX; CP, arts. 59 e 68) e o limite do intervalo de pena do tipo.
+
+## 5.3 Quadro de entendimentos vinculantes e de observância obrigatória
+
+| Instrumento | Nº | Órgão | Tese / texto | Situação |
+|---|---|---|---|---|
+| CP, art. 59 | caput | — | O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime e ao comportamento da vítima, estabelece a quantidade de pena aplicável, conforme seja necessário e suficiente para reprovação e prevenção do crime (Lei 7.209/1984). | Texto vigente |
+| Arguição de descumprimento de preceito fundamental (ADPF) | 1107 | STF (Plenário) | Interpretação conforme ao art. 59 do CP: "ser vedado ao magistrado, na fixação da pena em crimes sexuais, valorar a vida sexual pregressa da vítima ou seu modo de vida". Rel. Min. Cármen Lúcia, julgada em 23/05/2024, por unanimidade (a remissão "Vide ADPF 1107" consta do texto do art. 59 na curadoria interna). | Julgada procedente; eficácia contra todos e efeito vinculante |
+| CP, art. 65, I e III, "d" | I; III, d | — | Atenuam a pena ser o agente menor de 21 anos na data do fato ou maior de 70 na data da sentença, salvo se o crime envolver violência sexual contra a mulher (inciso I, redação da Lei 15.160/2025), e ter confessado espontaneamente, perante a autoridade, a autoria do crime (inciso III, "d"). | Texto vigente |
+| CP, art. 67 | caput | — | No concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência (Lei 7.209/1984). | Texto vigente |
+| CP, art. 68 | caput | — | A pena-base é fixada atendendo-se ao art. 59; em seguida, consideram-se as atenuantes e agravantes; por último, as causas de diminuição e de aumento (Lei 7.209/1984). | Texto vigente |
+| Recurso Repetitivo | 585 | STJ (3ª Seção) | "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade." REsp 1.947.845, Rel. Min. Sebastião Reis Júnior, j. 22/06/2022, Diário da Justiça eletrônico (DJe) 24/06/2022 (revisão afetada em 05/10/2021). | Trânsito em julgado |
+| Recurso Repetitivo | 1.194 | STJ (3ª Seção) | "1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos. 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade." REsp 2.001.973, Rel. Min. Og Fernandes, j. 10/09/2025, Diário de Justiça Eletrônico Nacional (DJEN) 16/09/2025 (afetação em 25/04/2023). | Trânsito em julgado |
+| Recurso Repetitivo | 1.172 | STJ (3ª Seção) | "A reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso." REsp 2.003.716, Rel. Min. Joel Ilan Paciornik, j. 25/10/2023, DJe 31/10/2023 (afetação em 20/09/2022). | Trânsito em julgado |
+| Súmula | 545 | STJ | "A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do Código Penal, independentemente de ser utilizada na formação do convencimento do julgador." Redação revista pela Terceira Seção em 10/09/2025 (REsp 2.001.973, Tema 1.194), DJEN 02/12/2025. Redação anterior: a atenuante cabia quando a confissão fosse utilizada para a formação do convencimento do julgador. | Vigente (redação revista) |
+| Súmula | 231 | STJ | "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal." Mantida pela Terceira Seção em 14/08/2024. | Vigente |
+| Repercussão Geral (Tema) | 158 | STF | "Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal." Recurso extraordinário (RE) 597.270; relator e data não constam do retorno da curadoria interna. | Repercussão geral com reafirmação de jurisprudência; transitado em julgado |
+| Repercussão Geral (Tema) | 929 | STF | "Não tem repercussão geral a controvérsia relativa à possibilidade ou não de compensação da agravante da reincidência com a atenuante da confissão espontânea." A curadoria interna registra o paradigma como transitado em julgado; relator e data não constam do retorno. | Sem repercussão geral (questão infraconstitucional); transitado em julgado |
+
+## 5.4 Primeira fase: quantum de aumento da pena-base
+
+### 5.4.1 Natureza do critério: não há fórmula legal
+
+O art. 59 do CP manda o juiz fixar a pena "conforme seja necessário e suficiente", mas não diz quanto vale cada circunstância. Os dois tribunais recusam a fórmula matemática: o STJ chama a escolha de discricionariedade vinculada, e o STF de campo do justo ou injusto.
+
+**Supremo Tribunal Federal.**
+
+> O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena.
+>
+> (HC 104.282, STF, 1ª T., Rel. Min. Rosa Weber, j. 19/06/2012) **[Repositório externo]**
+
+> Na fixação da pena-base, atua-se no campo do justo ou injusto, não cabendo exigir exatidão matemática, considerado o número de circunstâncias judiciais negativas.
+>
+> (RHC 128.355, STF, 1ª T., Rel. Min. Marco Aurélio, j. 12/09/2017) **[Repositório externo]**
+
+**Superior Tribunal de Justiça.**
+
+> A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada que impõe ao magistrado apontar os fundamentos da consideração negativa, positiva ou neutra das oito circunstâncias judiciais mencionadas no art. 59 do CP e, dentro disso, eleger a reprimenda que melhor servirá para a prevenção e repressão do fato-crime.
+>
+> (AgRg no AREsp 1.744.002, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 15/12/2020, DJe 17/12/2020)
+
+### 5.4.2 Fração de 1/6 sobre a pena mínima
+
+Cada circunstância judicial negativa eleva a pena-base em 1/6 da pena mínima cominada. O STJ trata a fração como parâmetro de razoabilidade e proporcionalidade, e o aumento maior exige fundamentação específica.
+
+> Nessa linha, a jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade.
+>
+> (AgRg no AREsp 1.744.002, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 15/12/2020, DJe 17/12/2020)
+
+> A jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 (um sexto) para cada fator desfavorável, exceto quando houver fundamentação concreta que justifique o aumento em patamar superior, o que não ocorre no caso destes autos.
+>
+> (AgRg no AREsp 484.057, 5ª T., Rel. Min. Jorge Mussi, j. 27/02/2018, DJe 09/03/2018)
+
+> A majoração da pena-base em 3 anos e 6 meses acima do mínimo legal destoa do entendimento deste Tribunal, que adota a fração de 1/6 para cada circunstância judicial negativada, salvo situações excepcionais e mediante fundamentação específica e concreta, o que não ocorreu no presente caso.
+>
+> (REsp 2.089.041, 5ª T., Rel. Min. Daniela Teixeira, j. 18/02/2025, DJEN 25/02/2025)
+
+### 5.4.3 Fração de 1/8 sobre o intervalo entre as penas mínima e máxima
+
+O parâmetro de 1/8 toma como base a diferença entre o máximo e o mínimo da pena em abstrato. O STJ o aceita e o considera adequado, sem o impor.
+
+> A jurisprudência do Superior Tribunal de Justiça admite o critério de aumento de 1/8 sobre o intervalo entre as penas mínima e máxima, desde que justificado, o que foi observado no caso em questão.
+>
+> (AREsp 2.467.463, 5ª T., Rel. Min. Daniela Teixeira, j. 18/02/2025, DJEN 25/02/2025)
+
+> A fixação da pena-base não precisa seguir um critério matemático rígido, e não há direito subjetivo do réu à adoção de uma fração específica para cada circunstância judicial, desde que o critério utilizado seja proporcional e devidamente justificado [...]
+>
+> (AREsp 2.467.463, 5ª T., Rel. Min. Daniela Teixeira, j. 18/02/2025, DJEN 25/02/2025)
+
+> "Não há falar em desproporcionalidade no percentual de aumento da pena por cada circunstância judicial considerada desfavorável, quando a instância ordinária opta por elevar as penas-bases na fração de 1/8 (um oitavo) sobre a diferença entre as penas mínima e máxima cominadas ao crime, critério aceito pela jurisprudência do Superior Tribunal de Justiça"
+>
+> (AgRg no REsp 1.919.781, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 05/10/2021, DJe 13/10/2021)
+
+### 5.4.4 Critério diferente e seus limites
+
+O STJ admite aumento superior a 1/6 ou critério diverso de 1/8 e 1/6, mas fixa três limites: o intervalo da pena do tipo, a fundamentação concreta e a coerência entre o número de circunstâncias negativas e o aumento aplicado. Não há direito subjetivo do réu a uma fração específica.
+
+> O quantum de acréscimo da pena-base não depende exclusivamente da quantidade de circunstâncias judiciais negativas, admitindo-se acréscimo superior a 1/6 da pena mínima, desde que observado o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador e presente fundamentação concreta.
+>
+> (REsp 1.945.656, 5ª T., Rel. Min. João Otávio de Noronha, j. 14/09/2021, DJe 20/09/2021)
+
+> Para possibilitar uma distinção entre os diferentes graus de gravidade concreta que um mesmo crime abstratamente previsto pode implicar, a análise da proporcionalidade, na primeira etapa da dosimetria da pena, deve guardar correlação com o número total de circunstâncias judiciais do art. 59 do Código Penal reconhecidas como desfavoráveis ao réu, sem prejuízo de que, em hipóteses excepcionais, a especial gravidade de alguma destas circunstâncias justifique uma exasperação mais incisiva .
+>
+> (AgRg no REsp 1.817.386, 6ª T., Rel. Min. Laurita Vaz, j. 27/10/2020, DJe 12/11/2020)
+
+> Não há nenhuma vinculação a critérios puramente matemáticos - como, por exemplo, os de 1/8 (um oitavo) ou 1/6 (um sexto) [...] -, mas os princípios da individualização da pena, da proporcionalidade, do dever de motivação das decisões judiciais e da isonomia exigem que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre: (a) o número de circunstâncias judiciais concretamente avaliadas como negativas; (b) o intervalo de pena abstratamente previsto para o crime; e (c) o quantum de pena que costuma ser aplicado pela jurisprudência em casos parecidos.
+>
+> (AgRg no REsp 1.817.386, 6ª T., Rel. Min. Laurita Vaz, j. 27/10/2020, DJe 12/11/2020)
+
+> A fixação da pena-base seguiu os princípios da proporcionalidade e razoabilidade, não sendo vinculada a um critério matemático rígido, mas sim à discricionariedade fundamentada do julgador, conforme reiterada jurisprudência do STJ.
+>
+> (AREsp 2.296.413, 5ª T., Rel. Min. Daniela Teixeira, j. 26/11/2024, DJEN 04/12/2024)
+
+### 5.4.5 Quadro comparativo
+
+| Critério | Base de cálculo | Posição do STJ | Julgados |
+|---|---|---|---|
+| 1/6 por circunstância negativa | Pena mínima cominada | Parâmetro usual; fração maior exige fundamentação concreta e específica | AgRg no AREsp 1.744.002, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 15/12/2020, DJe 17/12/2020; AgRg no AREsp 484.057, 5ª T., Rel. Min. Jorge Mussi, j. 27/02/2018, DJe 09/03/2018; REsp 2.089.041, 5ª T., Rel. Min. Daniela Teixeira, j. 18/02/2025, DJEN 25/02/2025 |
+| 1/8 por circunstância negativa | Diferença entre as penas máxima e mínima cominadas | Critério aceito, desde que justificado; sem direito subjetivo do réu a fração específica | AREsp 2.467.463, 5ª T., Rel. Min. Daniela Teixeira, j. 18/02/2025, DJEN 25/02/2025; AREsp 2.467.463, 5ª T., Rel. Min. Daniela Teixeira, j. 18/02/2025, DJEN 25/02/2025 |
+| Critério diferente | Número de circunstâncias negativas, intervalo da pena e quantum que a jurisprudência aplica em casos parecidos | Admitido, com fundamentação concreta e sem ultrapassar os limites do tipo | REsp 1.945.656, 5ª T., Rel. Min. João Otávio de Noronha, j. 14/09/2021, DJe 20/09/2021; AgRg no REsp 1.817.386, 6ª T., Rel. Min. Laurita Vaz, j. 27/10/2020, DJe 12/11/2020; AREsp 2.296.413, 5ª T., Rel. Min. Daniela Teixeira, j. 26/11/2024, DJEN 04/12/2024 |
+| Qualquer fração | Discricionariedade vinculada à motivação | STF: sem esquemas matemáticos rígidos; controle apenas de flagrante desproporção | HC 104.282, STF, 1ª T., Rel. Min. Rosa Weber, j. 19/06/2012 **[Repositório externo]**; RHC 128.355, STF, 1ª T., Rel. Min. Marco Aurélio, j. 12/09/2017 **[Repositório externo]** |
+
+## 5.5 Segunda fase: quantum e concurso de agravantes e atenuantes
+
+### 5.5.1 Quantum das agravantes e atenuantes e o piso da pena
+
+Também na segunda fase o Código Penal não fixa valores. O STJ, em recurso repetitivo, assentou que cabe ao juiz sentenciante exercer o seu arbítrio dentro dos limites do tipo, com motivação, e que a atenuante não leva a pena abaixo do mínimo.
+
+> Cabe ao Juiz sentenciante oferecer seu arbitrium iudices dentro dos limites estabelecidos, observado o preceito contido no art. 93, inciso IX, da Constituição Federal, sob pena do seu poder discricionário se tornar arbitrário, tendo em vista que o Código Penal não estabelece valores determinados para a aplicação de atenuantes e agravantes, o que permitiria a fixação da reprimenda corporal em qualquer patamar.
+>
+> (REsp 1.117.068, 3ª S., Rel. Min. Laurita Vaz, j. 26/10/2011, DJe 08/06/2012)
+
+> É firme o entendimento que a incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo estabelecido em lei, conforme disposto na Súmula n.º 231 desta Corte Superior.
+>
+> (REsp 1.117.068, 3ª S., Rel. Min. Laurita Vaz, j. 26/10/2011, DJe 08/06/2012)
+
+O STF, no mesmo sentido, reafirmou a jurisprudência com repercussão geral (Tema 158):
+
+> Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.
+>
+> (RE 597.270, STF, Tribunal Pleno, Rel. Min. Cezar Peluso, j. 26/03/2009) **[Repositório externo]**
+
+Quanto à fração, a referência é 1/6 por agravante ou atenuante. O STJ reduz a 1/6 o aumento desmotivado de 1/5 e exige fundamentação detalhada para fração maior em razão da reincidência específica (Tema 1.172). Há aceitação de fração maior na multirreincidência. O STF, em acórdão de Turma, considerou proporcional o aumento de 1/6 pela reincidência.
+
+**Superior Tribunal de Justiça.**
+
+> Na espécie, o magistrado exasperou a pena em 1/5 (um quinto), no tocante à agravante da reincidência, sem apresentar qualquer peculiaridade, o que torna imprescindível a redução para fração de 1/6 (um sexto).
+>
+> (HC 402.812, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 05/09/2017, DJe 18/09/2017)
+
+> Na espécie, as instâncias de origem destacaram que o paciente é multirreincidente, sendo que uma das condenações definitivas, inclusive, configura reincidência específica, o que justifica a exasperação da pena em 1/4 na segunda fase da dosimetria.
+>
+> (HC 382.395, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 14/02/2017, DJe 22/02/2017)
+
+**Supremo Tribunal Federal.**
+
+> A consideração da percentagem de 1/6 em virtude da reincidência atende ao critério da proporcionalidade.
+>
+> (HC 120.137, STF, 1ª T., Rel. Min. Marco Aurélio, j. 12/09/2017) **[Repositório externo]**
+
+### 5.5.2 Confissão espontânea: parcial e qualificada
+
+**Regra geral.** A Súmula 545/STJ, revista no Tema 1.194, dá a atenuante do art. 65, III, "d", ao réu que confessa, ainda que a confissão não tenha formado o convencimento do julgador, salvo retratação (exceto se a confissão serviu à apuração dos fatos). A confissão parcial e a qualificada também atenuam a pena, mas em proporção menor.
+
+**Confissão qualificada** é aquela em que o réu admite o fato e agrega tese defensiva que o exclui ou justifica (legítima defesa, por exemplo). O STJ reconhece a atenuante:
+
+> É firme o entendimento desta Corte Superior de Justiça no sentido de que a confissão qualificada, isto é, aquela na qual o agente agrega teses defensivas discriminantes ou exculpantes, enseja a aplicação da atenuante prevista na alínea "d" do inciso III do artigo 65 do Código Penal.
+>
+> (AgRg no REsp 1.416.247, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 06/05/2014, DJe 15/05/2014)
+
+> A confissão, ainda que parcial, retratada ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para atenuar a pena.
+>
+> (AgRg no REsp 1.745.005, 6ª T., Rel. Min. Nefi Cordeiro, j. 05/09/2019, DJe 12/09/2019)
+
+**Quantum.** O item 5.2 do Tema 1.194 manda aplicar a atenuação "em menor proporção" quando o fato confessado caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade, e impede que ela seja considerada preponderante no concurso com agravantes. Na prática, as Turmas fixam fração menor que 1/6 na confissão parcial ou qualificada:
+
+> A jurisprudência consolidada desta Corte admite a aplicação da atenuante da confissão espontânea em patamar inferior a 1/6, quando se trata de confissão parcial ou qualificada, observando os princípios da individualização da pena e da proporcionalidade.
+>
+> (REsp 2.085.113, 5ª T., Rel. Min. Daniela Teixeira, j. 17/12/2024, DJEN 23/12/2024)
+
+> A confissão qualificada não deve ter o mesmo valor que a confissão espontânea plena, em respeito aos princípios da proporcionalidade e da individualização da pena, motivo pelo qual devida é a compensação parcial da confissão qualificada com a agravante da reincidência, aplicando-se a fração de 1/12 para agravar a pena.
+>
+> (AgRg no REsp 2.095.569, 5ª T., Rel. Min. Joel Ilan Paciornik, j. 30/10/2024, DJe 05/11/2024)
+
+> A confissão qualificada pode ser compensada parcialmente com a agravante da reincidência, aplicando-se fração inferior a 1/6.
+>
+> (AgRg no AREsp 2.695.312, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 18/06/2025, DJEN 25/06/2025)
+
+> No caso concreto, a confissão foi qualificada, justificando a fixação da fração redutora em 1/12, em respeito aos princípios da individualização da pena e da proporcionalidade.
+>
+> (AgRg no REsp 2.128.777, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 01/04/2025, DJEN 01/07/2025)
+
+**Divergência de fração.** Na Sexta Turma, em condenações pelo Tribunal do Júri, a fração de 1/6 foi mantida para a confissão qualificada ou parcial, pela dificuldade de precisar o peso da confissão na decisão dos jurados:
+
+> Assim, tendo em vista a dificuldade em se precisar o quão relevante foi a confissão dos réus, ainda que qualificada ou parcial, para a decisão condenatória proferida pelos jurados, a aplicação da fração de 1/6 para a redução da reprimenda, ante o reconhecimento da atenuante, atende aos princípios da proporcionalidade e da individualização da pena.
+>
+> (AgRg no REsp 2.195.701, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 24/06/2025, DJEN 27/06/2025)
+
+**Supremo Tribunal Federal.** Julgados da Primeira Turma negam a atenuante quando a defesa busca excluir a ilicitude e quando há retratação, em juízo, da confissão pré-processual:
+
+> Estratégia de defesa visando excluir a ilicitude não se confunde com a confissão espontânea.
+>
+> (HC 116.722, STF, 1ª T., Rel. Min. Marco Aurélio, j. 24/04/2018) **[Repositório externo]**
+
+> A retratação, em Juízo, de confissão na fase pré-processual inviabiliza a observância da atenuante do artigo 65, inciso III, alínea “d”, do Código Penal.
+>
+> (RHC 170.544, STF, 1ª T., Rel. Min. Marco Aurélio, j. 04/11/2020) **[Repositório externo]**
+
+### 5.5.3 Concurso de agravantes e atenuantes: circunstâncias preponderantes (CP, art. 67)
+
+O art. 67 indica as circunstâncias preponderantes: os motivos determinantes do crime, a personalidade do agente e a reincidência. As demais agravantes e atenuantes (por exemplo, a menoridade relativa e as do art. 65, III, "a" a "c" e "e") não constam do rol. A solução do concurso depende de quais delas são preponderantes.
+
+**Supremo Tribunal Federal.**
+
+> A teor do disposto no artigo 67 do Código Penal, no concurso de atenuantes e agravantes, preponderam os motivos determinantes do crime, a personalidade do agente e a reincidência.
+>
+> (HC 125.550, STF, 1ª T., Rel. Min. Marco Aurélio, j. 22/08/2017) **[Repositório externo]**
+
+**Superior Tribunal de Justiça.** A Terceira Seção firmou a compensação ao julgar o embargos de divergência em recurso especial (EREsp) 1.154.752, por serem a reincidência e a confissão igualmente preponderantes. O fundamento, segundo a Sexta Turma, é que a confissão compreende a personalidade do agente, circunstância preponderante pelo art. 67:
+
+> É possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+>
+> (EREsp 1.154.752, 3ª S., Rel. Min. Sebastião Reis Júnior, j. 23/05/2012, DJe 04/09/2012)
+
+> A Terceira Seção desta Corte, em 23/05/2012, por ocasião do julgamento do EREsp 1.154.752/RS, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante.
+>
+> (AgRg no HC 448.110, 6ª T., Rel. Min. Nefi Cordeiro, j. 26/06/2018, DJe 02/08/2018)
+
+### 5.5.4 Confissão e reincidência: compensação, multirreincidência e posição do STF
+
+**Superior Tribunal de Justiça.** A compensação é a regra (Tema 585):
+
+> Prevalece na Terceira Seção desta Corte Superior o entendimento de que é possível a compensação da atenuante da confissão com a agravante da reincidência, por constituírem circunstâncias igualmente preponderantes, devendo o julgador atentar para as singularidades do caso concreto.
+>
+> (AgRg no HC 537.732, 5ª T., Rel. Min. Jorge Mussi, j. 21/11/2019, DJe 28/11/2019)
+
+Na multirreincidência, a compensação integral deixa de ser a regra. Somente nesse caso prepondera a agravante, e a compensação é proporcional:
+
+> Somente na hipótese de multirreincidência, há que se falar em preponderância da agravante sobre a atenuante.
+>
+> (AgRg no REsp 2.094.483, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 19/10/2023, DJe 27/10/2023)
+
+> Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipóteses nas quais, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+>
+> (AgRg no HC 464.632, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 27/11/2018, DJe 12/12/2018)
+
+Se o juiz usa só uma das condenações para a reincidência e as demais para os maus antecedentes na primeira fase, não há multirreincidência na segunda fase, e a compensação integral é devida, sob pena de *bis in idem*:
+
+> Conforme entendimento desta Corte, embora configurada a multirreincidência, apenas uma das condenações com trânsito em julgado foi valorada na segunda fase da dosimetria (reincidência), circunstância que possibilita a compensação integral com a atenuante da confissão espontânea.
+>
+> (AgRg no AREsp 1.727.581, 5ª T., Rel. Min. Joel Ilan Paciornik, j. 17/11/2020, DJe 20/11/2020)
+
+> A despeito da multirreincidência do réu, optando o magistrado por utilizar quatro condenações transitadas em julgado na primeira fase da dosimetria da pena, reservando apenas uma para a agravante da reincidência, admite-se a sua compensação com a atenuante da confissão espontânea, sob pena de bis in idem.
+>
+> (AgRg no REsp 1.478.043, 6ª T., Rel. Min. Nefi Cordeiro, j. 18/11/2014, DJe 05/12/2014)
+
+**Supremo Tribunal Federal.** As Turmas não admitem a compensação: a reincidência prepondera sobre a confissão. O STF não reconheceu repercussão geral sobre o tema (Tema 929), por ser questão infraconstitucional, o que mantém a divergência com o STJ sem solução vinculante.
+
+> Deveras, a reincidência revela que a condenação transitada em julgado restou ineficaz como efeito preventivo no agente, por isso merece maior carga de reprovação e, por conseguinte, deve preponderar sobre a circunstância atenuante da confissão espontânea.
+>
+> (RHC 111.454, STF, 1ª T., Rel. Min. Luiz Fux, j. 03/04/2012) **[Repositório externo]**
+
+> A teor do disposto no art. 67 do Código Penal, a circunstância agravante da reincidência, como preponderante, prevalece sobre a confissão.
+>
+> (HC 96.061, STF, 2ª T., Rel. Min. Teori Zavascki, j. 19/03/2013) **[Repositório externo]**
+
+> Prepondera sobre a confissão a reincidência, no que esta última revela a necessidade de observar-se apenação substancial, não se colocando no mesmo nível o reincidente e o primário.
+>
+> (RHC 135.819, STF, 1ª T., Rel. Min. Marco Aurélio, j. 29/05/2018) **[Repositório externo]**
+
+# 6 Parte II: crimes em espécie
 
 Os capítulos tratam do que é próprio de cada crime na primeira e na segunda fase. As regras gerais de cada circunstância judicial estão nos capítulos da Parte I.
 
-## 5.1 Homicídio
+## 6.1 Homicídio
 
-### 5.1.1 Tema e recorte
+### 6.1.1 Tema e recorte
 
 - **Tema:** Particularidades do homicídio (CP, art. 121) na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio do homicídio na primeira e na segunda fase. As regras gerais de cada vetor (antecedentes, conduta social, personalidade etc.) estão nos capítulos da Parte I (seção 4). A terceira fase (privilegiadora do § 1º, tentativa, majorantes do § 4º e do § 6º, concurso de crimes) fica fora.
 
-### 5.1.2 Síntese executiva
+### 6.1.2 Síntese executiva
 
 **Primeira fase.** A pena-base parte do preceito secundário do tipo aplicável (simples: 6 a 20 anos; qualificado: 12 a 30 anos). Três pontos são próprios do homicídio. (a) **Qualificadora sobejante:** havendo duas ou mais qualificadoras, uma qualifica o crime e as demais podem ser usadas como agravante (segunda fase) ou, residualmente, como circunstância judicial (primeira fase), sem *bis in idem*. (b) **Consequências:** a morte e o sofrimento dos familiares são inerentes ao tipo e não bastam; admitem-se fatos que vão além do resultado natural, como a morte de quem deixa filhos menores de idade, tese vinculante do Tema 1.394/STJ. (c) **Culpabilidade e circunstâncias:** premeditação (Tema 1.318/STJ), execução na presença de familiar, em local de grande circulação de pessoas, vítima de tenra idade, intensidade do dolo (golpes e disparos reiterados) são fundamentos aceitos quando concretos.
 
 **Segunda fase.** Qualificadora remanescente pode funcionar como agravante do art. 61, II, desde que corresponda a uma hipótese ali prevista; a fração usual é 1/6 por agravante, e a fração diversa exige fundamento concreto. A confissão é atenuante independentemente de ter sido usada na formação do convencimento do julgador (Súmula 545/STJ, redação revisada em 10/09/2025, Tema 1.194/STJ), mas não reduz a pena abaixo do mínimo (Súmula 231/STJ).
 
-### 5.1.3 Normas e entendimentos de observância obrigatória
+### 6.1.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1453,9 +1861,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Súmula | 545 | STJ | Redação revisada pela 3ª Seção em 10/09/2025 (REsp 2.001.973/RS, Tema 1.194/STJ, DJEN 02/12/2025): "A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do CP, independentemente de ser utilizada na formação do convencimento do julgador." | Vigente (nova redação) |
 | ADPF | 779 | STF (Plenário) | Inconstitucional a tese da "legítima defesa da honra" em crimes de feminicídio ou de agressão contra mulheres. Rel. Min. Dias Toffoli, j. 01/08/2023 (Informativo 1105). | Julgada |
 
-### 5.1.4 Primeira fase: o que é próprio do homicídio
+### 6.1.4 Primeira fase: o que é próprio do homicídio
 
-#### 5.1.4.1 Hipóteses em que a valoração é admitida
+#### 6.1.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1472,7 +1880,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Quantum | EDcl no AREsp 2.831.057; AgRg no HC 1.077.923, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 14/04/2026 | Fração de 1/8 sobre o intervalo da pena é parâmetro aceito. Acima de 1/6 por vetor exige fundamentação concreta e específica. |
 | Pena-base por um só motivo do crime, distinto do privilégio (Júri) | HC 108.146, STF, 1ª T., Rel. Min. Luiz Fux, j. 05/06/2012 **[Repositório externo]** | A pena-base acima do mínimo pode se apoiar em apenas um dos motivos do crime (disputa patrimonial), diverso da violenta emoção reconhecida pelos jurados no homicídio privilegiado; o juiz deve evitar o *bis in idem* e a ofensa à soberania dos veredictos pela revalorização de circunstância já prevista como qualificadora, privilégio, agravante, atenuante ou causa de aumento ou diminuição. |
 
-#### 5.1.4.2 Hipóteses em que a valoração não é admitida
+#### 6.1.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1480,16 +1888,16 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Consequências apoiadas só no sofrimento dos familiares | AgRg no HC 1.078.427, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 14/04/2026 | Homicídio com tortura; o sofrimento dos familiares, sozinho, é inerente ao tipo, e as consequências foram decotadas. |
 | Sofrimento da família como consequência | HC 391.990, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 18/10/2018, DJe 07/11/2018 | O sofrimento é inerente aos crimes contra a vida; as consequências foram afastadas. Distingue-se do órfão de menor (Tema 1.394), que é fato específico. |
 | Culpabilidade sem medir a intensidade da censura | HC 391.990; AgRg no HC 858.336, 5ª T., Rel. Min. Ribeiro Dantas, DJe 17/12/2023 | A culpabilidade foi afastada quando o juiz não mensurou o grau de censurabilidade; circunstâncias e culpabilidade sem motivação concreta foram decotadas. |
-| Premeditação que é pressuposto de qualificadora ou agravante | Tema 1.318/STJ, item 5.1.1 | Veda o *bis in idem*. |
+| Premeditação que é pressuposto de qualificadora ou agravante | Tema 1.318/STJ, item 6.1.1 | Veda o *bis in idem*. |
 | Desproporção no quantum | AgRg no HC 886.768 | Valoração aceita, mas o aumento da pena-base foi reduzido de ofício por falta de proporcionalidade. |
 | Motivação inidônea que impede o refazimento pelo STJ | AgRg no HC 858.336 | Se a sentença não declinou os parâmetros, a nova dosagem é devolvida ao juízo da execução. |
 | Qualificadora (motivo fútil; modo que dificulta a defesa) usada como circunstância judicial | HC 107.501, STF, 1ª T., Rel. Min. Cármen Lúcia, j. 02/08/2011 **[Repositório externo]** | Consubstanciando qualificadoras, esses fatos não podem ser considerados na pena-base como circunstâncias judiciais. |
 | Circunstâncias, consequências, conduta social, motivos e personalidade sem fundamento concreto | HC 121.758, STF, 2ª T., Rel. Min. Gilmar Mendes, j. 09/12/2014 **[Repositório externo]** | Em homicídio qualificado, é vedado valorar motivos e personalidade sem fundamentação concreta; há *bis in idem* ao valorar as circunstâncias que já configuram qualificadora, as consequências que são elemento do tipo (a morte) e a conduta social pelos antecedentes já usados em outra rubrica. |
 | Homicídio culposo do Código Penal Militar: extensão do dano pela ausência da vítima no trabalho | HC 135.360, STF, 2ª T., Rel. Min. Teori Zavascki, j. 04/10/2016 **[Repositório externo]** | Art. 206 do CPM. É inidônea a negativação pela "maior extensão do dano" fundada na ausência da vítima no desempenho de suas funções profissionais, por ser mera decorrência natural do evento morte; não se pode negativar circunstância judicial só com os elementos constitutivos e descritivos do crime. Não trata do art. 121, § 3º, do CP. |
 
-### 5.1.5 Segunda fase: o que é próprio do homicídio
+### 6.1.5 Segunda fase: o que é próprio do homicídio
 
-#### 5.1.5.1 Hipóteses em que a valoração é admitida
+#### 6.1.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1500,27 +1908,27 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Agravante do art. 62, I, sem *bis in idem* | Ação originária (AO) 1046, STF, Plenário, Rel. Min. Joaquim Barbosa, j. 23/04/2007 (Informativo 464) | O Plenário admitiu a agravante do art. 62, I, sem dupla valoração. |
 | Confissão qualificada como atenuante | AgRg no REsp 2.218.580, 5ª T., Rel. Min. Maria Marluce Caldas, DJe 17/11/2025 | Basta ter sido alegada no interrogatório, ainda que não debatida em plenário (Súmula 545/STJ, na redação revisada em 2025: a atenuação independe de a confissão servir ao convencimento do julgador). |
 
-#### 5.1.5.2 Hipóteses em que a valoração não é admitida
+#### 6.1.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Atenuante reduzindo a pena abaixo do mínimo | AgRg no AREsp 2.667.303, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 14/04/2026, DJe 23/04/2026 | A confissão foi reconhecida sem reflexo no cálculo, por força da Súmula 231/STJ. |
 | Qualificadora que não corresponde a hipótese do art. 61 | AREsp 2.462.972 | A transposição só vale para qualificadoras que correspondam a alguma alínea do art. 61, II. |
 
-## 5.2 Feminicídio
+## 6.2 Feminicídio
 
-### 5.2.1 Tema e recorte
+### 6.2.1 Tema e recorte
 
 - **Tema:** Particularidades do feminicídio (CP, art. 121-A e, para fatos anteriores, art. 121, § 2º, VI) na primeira e na segunda fase da dosimetria da pena.
-- **Recorte:** só o que é próprio do feminicídio na primeira e na segunda fase. As regras gerais de cada vetor do art. 59 e a terceira fase (majorantes do § 2º do art. 121-A, tentativa, concurso) ficam fora. Para o homicídio em geral, ver a seção 5.1.
+- **Recorte:** só o que é próprio do feminicídio na primeira e na segunda fase. As regras gerais de cada vetor do art. 59 e a terceira fase (majorantes do § 2º do art. 121-A, tentativa, concurso) ficam fora. Para o homicídio em geral, ver a seção 6.1.
 
-### 5.2.2 Síntese executiva
+### 6.2.2 Síntese executiva
 
 **Primeira fase.** O art. 121-A prevê pena de reclusão de 20 a 40 anos. O contexto de violência doméstica ou o menosprezo à condição de mulher já integram o tipo e não podem ser repetidos como circunstância judicial. O que o STJ aceita são fatos concretos que vão além do núcleo da qualificadora: padrão sistemático de controle e intimidação, premeditação vingativa, monitoramento da rotina da vítima, escolha do momento de maior vulnerabilidade (culpabilidade, motivos e circunstâncias); histórico de agressividade e de conflitos com companheiras (personalidade e conduta social); crime praticado durante o cumprimento de pena, em presença de filho de tenra idade (culpabilidade).
 
-**Segunda fase.** (a) A agravante do art. 61, II, "f", pode ser aplicada em conjunto com a Lei Maria da Penha, sem *bis in idem*, em crimes cujo tipo não tem a condição de mulher como elementar (Tema 1.197/STJ). (b) Na lesão corporal do art. 129, § 13, a condição de mulher é elementar, e a agravante é *bis in idem* (REsp 2.247.908). No crime do art. 24-A da Lei 11.340/2006, em que a violência doméstica integra o tipo, a agravante da alínea "f" também configura *bis in idem* (REsp 2.182.733). **Não localizei julgado do STJ que aplique ou vede a alínea "f" ao art. 121-A** (ver seção 6.9, item 5.2.1). (c) Qualificadora do motivo fútil ou torpe convive com a do feminicídio, por serem de natureza distinta, e a remanescente pode agravar a pena.
+**Segunda fase.** (a) A agravante do art. 61, II, "f", pode ser aplicada em conjunto com a Lei Maria da Penha, sem *bis in idem*, em crimes cujo tipo não tem a condição de mulher como elementar (Tema 1.197/STJ). (b) Na lesão corporal do art. 129, § 13, a condição de mulher é elementar, e a agravante é *bis in idem* (REsp 2.247.908). No crime do art. 24-A da Lei 11.340/2006, em que a violência doméstica integra o tipo, a agravante da alínea "f" também configura *bis in idem* (REsp 2.182.733). **Não localizei julgado do STJ que aplique ou vede a alínea "f" ao art. 121-A** (ver seção 7.10, item 6.2.1). (c) Qualificadora do motivo fútil ou torpe convive com a do feminicídio, por serem de natureza distinta, e a remanescente pode agravar a pena.
 
-### 5.2.3 Normas e entendimentos de observância obrigatória
+### 6.2.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1528,13 +1936,13 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | CP, art. 121, § 2º, VI | — | — | Feminicídio como qualificadora (Lei 13.104/2015), revogado pela Lei 14.994/2024, assim como o § 2º-A e o § 7º. Aplica-se aos fatos anteriores. | Revogado (curadoria interna) |
 | Recurso Repetitivo | 1.197 | STJ (3ª Seção) | "A aplicação da agravante do art. 61, inc. II, alínea f, do CP, em conjunto com as disposições da Lei Maria da Penha (Lei n. 11.340/2006), não configura bis in idem." Paradigma REsp 2.027.794, Rel. Min. Jesuíno Rissato (Des. convocado do TJDFT); afetação em 25/04/2023; acórdãos de 12/06/2024 (REsps 2.026.129, 2.027.794 e 2.029.515, conforme o REsp 2.247.908). | Trânsito em julgado |
 | Recurso Repetitivo | 1.318 | STJ (3ª Seção) | A premeditação autoriza negativar a culpabilidade, desde que não seja elementar nem pressuposto de qualificadora ou agravante. REsp 2.174.028 e 2.174.008, Rel. Min. Otávio de Almeida Toledo, j. 08/05/2025, DJEN 13/05/2025. | Trânsito em julgado |
-| Recurso Repetitivo | 1.394 | STJ (3ª Seção) | É válida a exasperação da pena-base pelas consequências quando a vítima de homicídio deixou filho(s) menor(es) de idade. REsp 2.195.921, Rel. Min. Reynaldo Soares da Fonseca. Voltado ao homicídio; aplicação ao feminicídio é inferência (ver seção 6.9). | Trânsito em julgado |
+| Recurso Repetitivo | 1.394 | STJ (3ª Seção) | É válida a exasperação da pena-base pelas consequências quando a vítima de homicídio deixou filho(s) menor(es) de idade. REsp 2.195.921, Rel. Min. Reynaldo Soares da Fonseca. Voltado ao homicídio; aplicação ao feminicídio é inferência (ver seção 7.10). | Trânsito em julgado |
 | ADPF | 779 | STF (Plenário) | Inconstitucional a "legítima defesa da honra" em crimes de feminicídio ou de agressão contra mulheres. Rel. Min. Dias Toffoli, j. 01/08/2023 (Informativo 1105). | Julgada |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
-### 5.2.4 Primeira fase: o que é próprio do feminicídio
+### 6.2.4 Primeira fase: o que é próprio do feminicídio
 
-#### 5.2.4.1 Hipóteses em que a valoração é admitida
+#### 6.2.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1546,18 +1954,18 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Circunstâncias e culpabilidade: arrastar a vítima pelos cabelos | AgRg no AREsp 2.547.967, 5ª T., Rel. Min. Ribeiro Dantas, DJe 21/06/2024; AgRg no HC 647.478, 5ª T., Rel. Min. Joel Ilan Paciornik, DJe 07/06/2021 | Violência adicional ao núcleo do tipo eleva a pena-base. |
 | Pena-base mantida em feminicídio doloso consumado | HC 894.656, 3ª Seção, Rel. Min. Daniela Teixeira, DJe 04/12/2024 | Pena total de 23 anos, 8 meses e 20 dias, resultado do aumento em apelação do Ministério Público; fundamentação das vetoriais considerada idônea. |
 
-#### 5.2.4.2 Hipóteses em que a valoração não é admitida
+#### 6.2.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Violência doméstica ou menosprezo à condição de mulher, usados como circunstância judicial | art. 121-A, § 1º (curadoria interna); AgRg no AREsp 3.128.353 | Integram o tipo (ou a qualificadora, na redação anterior). O STJ só aceita elementos "que não se confundem com o núcleo" da qualificadora. |
-| Vida sexual pregressa ou modo de vida da vítima | ADPF 1107, STF, Rel. Min. Cármen Lúcia, j. 23/05/2024 | Vedado valorar na pena dos crimes sexuais; a seção 5.8, sobre estupro, trata do ponto. Não há julgado específico para o feminicídio. |
+| Vida sexual pregressa ou modo de vida da vítima | ADPF 1107, STF, Rel. Min. Cármen Lúcia, j. 23/05/2024 | Vedado valorar na pena dos crimes sexuais; a seção 6.8, sobre estupro, trata do ponto. Não há julgado específico para o feminicídio. |
 | Honra, ciúme ou traição como motivo nobre | ADPF 779 | Por coerência com a vedação à tese da "legítima defesa da honra" (inferência a conferir). |
-| Premeditação que é pressuposto de qualificadora ou agravante | Tema 1.318/STJ, item 5.2.1 | Veda o *bis in idem*. |
+| Premeditação que é pressuposto de qualificadora ou agravante | Tema 1.318/STJ, item 6.2.1 | Veda o *bis in idem*. |
 
-### 5.2.5 Segunda fase: o que é próprio do feminicídio
+### 6.2.5 Segunda fase: o que é próprio do feminicídio
 
-#### 5.2.5.1 Hipóteses em que a valoração é admitida
+#### 6.2.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1567,27 +1975,27 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Paga ou promessa de recompensa não se comunica automaticamente ao mandante | Embargos de divergência (EDv) nos EREsp 1.973.397, 3ª S., Rel. Min. Antonio Saldanha Palheiro, DJe 25/09/2025 | Julgado em homicídio mercenário; relevante ao motivo torpe como agravante. |
 | Feminicídio como qualificadora objetiva | AgRg no AREsp 3.207.327, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 04/08/2026, DJe 18/08/2026 | Incide quando o homicídio ocorre em violência doméstica e familiar, sem exigir prova de motivação por menosprezo; o reatar da relação pela vítima não afasta o dolo (pronúncia). |
 
-#### 5.2.5.2 Hipóteses em que a valoração não é admitida
+#### 6.2.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Agravante do art. 61, II, "f", sobre fato já elementar do tipo qualificado pela condição de mulher | REsp 2.247.908, 5ª T., Rel. Min. Ribeiro Dantas, j. 07/04/2026, DJe 13/04/2026 | Lesão corporal do art. 129, § 13: a agravante e a qualificadora incidem sobre a mesma circunstância. A *ratio decidendi* do Tema 1.197 não se estende. O julgado menciona igual solução no art. 24-A da Lei Maria da Penha. **Aplicação ao art. 121-A não localizada.** |
 | Atenuante reduzindo a pena abaixo do mínimo | Súmula 231/STJ | Não reduz a pena abaixo do mínimo legal. |
 
-## 5.3 Roubo
+## 6.3 Roubo
 
-### 5.3.1 Tema e recorte
+### 6.3.1 Tema e recorte
 
 - **Tema:** Particularidades do roubo (CP, art. 157) na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio do roubo na primeira e na segunda fase. A terceira fase (majorantes dos §§ 2º, 2º-A e 2º-B, Súmulas 442 e 443/STJ, tentativa, concurso de crimes) e a substituição de pena (Tema 1.171/STJ) ficam fora.
 
-### 5.3.2 Síntese executiva
+### 6.3.2 Síntese executiva
 
-**Primeira fase.** O tipo do caput comina, no texto vigente na curadoria interna, reclusão de 6 a 10 anos (redação da Lei 15.397/2026). Três pontos são próprios do roubo. (a) **Arma branca:** desde a Lei 13.654/2018 deixou de ser majorante; o Tema 1.110/STJ permite usá-la para aumentar a pena-base, com fundamentação, e veda ao STJ fazer a "transposição valorativa" entre as fases. O texto vigente do art. 157, § 2º, VII (Lei 13.964/2019) prevê de novo a arma branca como majorante; o STJ aplica o inciso VII a condenações por roubo com arma branca, sem delimitar o alcance temporal em relação ao Tema 1.110 (ver seção 6.10, item 5.3.1). (b) **Modo de execução:** premeditação, organização, ousadia, arma de fogo apontada a adolescente e prejuízo expressivo sustentam culpabilidade, circunstâncias e consequências, desde que distintos dos fatos que sustentam as majorantes. (c) **Fração:** acima de 1/6 (ou 1/8) por vetor exige fundamentação específica.
+**Primeira fase.** O tipo do caput comina, no texto vigente na curadoria interna, reclusão de 6 a 10 anos (redação da Lei 15.397/2026). Três pontos são próprios do roubo. (a) **Arma branca:** desde a Lei 13.654/2018 deixou de ser majorante; o Tema 1.110/STJ permite usá-la para aumentar a pena-base, com fundamentação, e veda ao STJ fazer a "transposição valorativa" entre as fases. O texto vigente do art. 157, § 2º, VII (Lei 13.964/2019) prevê de novo a arma branca como majorante; o STJ aplica o inciso VII a condenações por roubo com arma branca, sem delimitar o alcance temporal em relação ao Tema 1.110 (ver seção 7.11, item 6.3.1). (b) **Modo de execução:** premeditação, organização, ousadia, arma de fogo apontada a adolescente e prejuízo expressivo sustentam culpabilidade, circunstâncias e consequências, desde que distintos dos fatos que sustentam as majorantes. (c) **Fração:** acima de 1/6 (ou 1/8) por vetor exige fundamentação específica.
 
 **Segunda fase.** A confissão não reduz a pena abaixo do mínimo (Súmula 231/STJ). A confissão compensa-se integralmente com a reincidência, salvo multirreincidência (Tema 585/STJ). Agravantes como o recurso que dificultou a defesa (art. 61, II, "c") exigem posicionamento estratégico ou meio concreto.
 
-### 5.3.3 Normas e entendimentos de observância obrigatória
+### 6.3.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1597,9 +2005,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 | Recurso Repetitivo | 1.318 | STJ (3ª Seção) | A premeditação autoriza negativar a culpabilidade, desde que não seja elementar nem pressuposto de qualificadora ou agravante. REsp 2.174.028 e 2.174.008, j. 08/05/2025, DJEN 13/05/2025. | Trânsito em julgado |
 
-### 5.3.4 Primeira fase: o que é próprio do roubo
+### 6.3.4 Primeira fase: o que é próprio do roubo
 
-#### 5.3.4.1 Hipóteses em que a valoração é admitida
+#### 6.3.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1615,38 +2023,38 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Consequências além do tipo | HC 225.709 (AgR), STF, 2ª T., Rel. Min. André Mendonça, j. 21/11/2023 **[Repositório externo]** | No crime do art. 157, as consequências que extrapolam o tipo penal podem ser consideradas na dosimetria, sem *bis in idem*. |
 | Arma branca após a Lei 13.654/2018, na primeira fase | HC 208.584 (AgR), STF, 1ª T., Rel. Min. Alexandre de Moraes, j. 18/12/2021 **[Repositório externo]** | Em nova dosimetria pelo juízo da execução (Lei de Execução Penal (LEP), art. 66, I), é possível deslocar a causa de aumento da arma branca para a primeira fase, sem *reformatio in pejus*. Aproxima-se do Tema 1.110/STJ. |
 
-#### 5.3.4.2 Hipóteses em que a valoração não é admitida
+#### 6.3.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Fração superior a 1/6 ou 1/8 por vetor sem fundamentação | AREsp 2.316.962 | "Evidente desproporcionalidade": a origem usou fração maior sem fundamentação idônea; redimensionamento. |
-| Arma branca: obrigar o tribunal a refazer o cálculo | Tema 1.110/STJ, item 5.3.3 | A discricionariedade do julgador impede a transposição valorativa pelo STJ. |
+| Arma branca: obrigar o tribunal a refazer o cálculo | Tema 1.110/STJ, item 6.3.3 | A discricionariedade do julgador impede a transposição valorativa pelo STJ. |
 | Duas vetoriais com fração de 5/8 | AgRg no HC 1.076.414, 6ª T., Rel. Min. Sebastião Reis Júnior, DJe 27/04/2026 | O aumento de 5/8 para duas vetoriais foi tido por desproporcional e reduzido a 1/6. |
 | Concurso de agentes na pena-base e como majorante pelo mesmo fato | HC 107.556, STF, 1ª T., Rel. Min. Ricardo Lewandowski, j. 31/05/2011 **[Repositório externo]** | Considerar na pena-base que o crime foi cometido por três agentes e, na terceira fase, aplicar a causa de aumento do concurso pelo mesmo fato viola o *ne bis in idem*; excluído o acréscimo da circunstância do crime. |
 
-### 5.3.5 Segunda fase: o que é próprio do roubo
+### 6.3.5 Segunda fase: o que é próprio do roubo
 
-#### 5.3.5.1 Hipóteses em que a valoração é admitida
+#### 6.3.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Compensação integral entre confissão e reincidência | HC 807.642, 3ª Seção, Rel. Min. Daniela Teixeira, DJe 10/12/2024 | Roubo simples; as duas circunstâncias são igualmente preponderantes (Tema 585/STJ). |
 | Agravante do art. 61, II, "c" (recurso que dificultou a defesa) | AgRg no REsp 2.105.298 | Posicionamento estratégico dos agentes e veículo com películas escuras para dificultar a reação dos vigilantes. Reexame da prova é vedado (Súmula 7/STJ). |
 
-#### 5.3.5.2 Hipóteses em que a valoração não é admitida
+#### 6.3.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Confissão reduzindo a pena abaixo do mínimo | AgRg no REsp 2.121.803, 5ª T., Rel. Min. Daniela Teixeira, DJe 15/10/2024; AgRg no AREsp 2.792.297, 6ª T., Rel. Min. Sebastião Reis Júnior, DJe 14/02/2025 | Súmula 231/STJ, mantida pela Terceira Seção. O AgRg no AREsp 2.792.297 trata de roubo majorado tentado. |
 
-## 5.4 Latrocínio
+## 6.4 Latrocínio
 
-### 5.4.1 Tema e recorte
+### 6.4.1 Tema e recorte
 
 - **Tema:** Particularidades do latrocínio (CP, art. 157, § 3º, II) na primeira e na segunda fase da dosimetria da pena.
-- **Recorte:** só o que é próprio do latrocínio na primeira e na segunda fase. A terceira fase (tentativa, concurso formal impróprio entre pluralidade de mortes, majorantes) fica fora. As regras do roubo, que o latrocínio qualifica, estão na seção 5.3.
+- **Recorte:** só o que é próprio do latrocínio na primeira e na segunda fase. A terceira fase (tentativa, concurso formal impróprio entre pluralidade de mortes, majorantes) fica fora. As regras do roubo, que o latrocínio qualifica, estão na seção 6.3.
 
-### 5.4.2 Síntese executiva
+### 6.4.2 Síntese executiva
 
 **Primeira fase.** O latrocínio é o roubo qualificado pelo resultado morte (CP, art. 157, § 3º, II): no texto vigente na curadoria interna, reclusão de 24 a 30 anos (Lei 15.397/2026). Como a morte é elementar, não pode ser repetida nas consequências. O que o STJ aceitou nas poucas decisões localizadas foram fatos adicionais: a arma apontada à cabeça das vítimas (culpabilidade); o emprego de arma de fogo e o concurso de três agentes (circunstâncias); e os traumas das testemunhas em cenário de pânico, somados ao modo da morte, com dois tiros na cabeça (consequências).
 
@@ -1656,7 +2064,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 >
 > **Cautela.** Há pouca jurisprudência específica sobre a dosimetria do latrocínio nas fases iniciais, mas a 3ª Seção do STJ já fixou parâmetros de culpabilidade, circunstâncias e consequências (HC 806.258 e HC 785.303). As conclusões abaixo são limitadas ao que as fontes de curadoria interna devolveram.
 
-### 5.4.3 Normas e entendimentos de observância obrigatória
+### 6.4.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1667,9 +2075,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Recurso Repetitivo | 585 | STJ (3ª Seção) | Tese original (REsp 1.341.370/MT): a reincidência não é compensável integralmente com a confissão; revisão no REsp 1.947.845, Rel. Min. Sebastião Reis Júnior, j. 22/06/2022, DJe 24/06/2022 (afetação em 05/10/2021): compensação integral entre confissão e reincidência, salvo multirreincidência. | Acórdão de revisão publicado |
 | Recurso Repetitivo / Súmula | 1.194 / 545 | STJ (3ª Seção) | REsp 2.001.973/RS, j. 10/09/2025, DJEN 02/12/2025: Súmula 545 passa a dizer que "a confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do CP, independentemente de ser utilizada na formação do convencimento do julgador". A tese do Tema 1.194 mantém a aplicação em menor proporção, sem preponderância, se o fato confessado for tipificado com pena menor. | Vigente (nova redação) |
 
-### 5.4.4 Primeira fase: o que é próprio do latrocínio
+### 6.4.4 Primeira fase: o que é próprio do latrocínio
 
-#### 5.4.4.1 Hipóteses em que a valoração é admitida
+#### 6.4.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1682,16 +2090,16 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Consequências: traumas de testemunhas em cenário de pânico e morte com dois tiros na cabeça | AgRg no HC 784.336 | Fundamentação idônea; a morte, por si, é elementar. |
 | Premeditação | Tema 1.318/STJ; AREsp 2.416.835, 5ª T., Rel. Min. Daniela Teixeira, DJe 17/12/2024 | Fundamento da culpabilidade; no AREsp 2.416.835 (tráfico), as consequências genéricas ("disseminação dos efeitos devastadores") foram afastadas. |
 
-#### 5.4.4.2 Hipóteses em que a valoração não é admitida
+#### 6.4.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Consequências genéricas | AREsp 2.416.835 | Fundamento genérico e inerente ao tipo não basta (crime de tráfico; critério aplicável a qualquer vetor). |
 | Morte da vítima como consequência | Art. 157, § 3º, II; HC 806.258 | A morte da vítima do crime é elementar do latrocínio e não pode ser reutilizada nas consequências; o HC 806.258 aceitou como consequência a morte de outra vítima. Há paralelo em AREsp 2.223.458 (lesão corporal grave) e AgRg no HC 818.917 (art. 308, § 1º, do CTB). |
 
-### 5.4.5 Segunda fase: o que é próprio do latrocínio
+### 6.4.5 Segunda fase: o que é próprio do latrocínio
 
-#### 5.4.5.1 Hipóteses em que a valoração é admitida
+#### 6.4.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1699,27 +2107,27 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Condenação por posse para uso (art. 28 da Lei 11.343/2006) | AgRg no HC 862.170, 3ª Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe 26/11/2023 | A condenação pelo art. 28 não gera reincidência. |
 | Compensação integral entre confissão e reincidência | HC 807.642, 3ª Seção, Rel. Min. Daniela Teixeira, DJe 10/12/2024 | Roubo simples; é a orientação que o AgRg no AREsp 3.193.981 aplicou ao latrocínio tentado. |
 
-#### 5.4.5.2 Hipóteses em que a valoração não é admitida
+#### 6.4.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Redução abaixo do mínimo por atenuante | Súmula 231/STJ | Mantida pela 3ª Seção. |
 | Multirreincidência: compensação integral | Tema 585/STJ; HC 867.346, 3ª Seção, Rel. Min. Daniela Teixeira, DJe 16/12/2024 | Prevalece a agravante; a multirreincidência não se compensa integralmente com a confissão. |
 
-## 5.5 Furto
+## 6.5 Furto
 
-### 5.5.1 Tema e recorte
+### 6.5.1 Tema e recorte
 
 - **Tema:** Particularidades do furto simples, qualificado e dos tipos especiais do art. 155 do CP na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio do furto na primeira e na segunda fase. Ficam fora a terceira fase (repouso noturno do § 1º, privilégio do § 2º, Súmula 442/STJ, tentativa), o princípio da insignificância e a distinção entre furto mediante fraude e estelionato.
 
-### 5.5.2 Síntese executiva
+### 6.5.2 Síntese executiva
 
-**Primeira fase.** Os tipos especiais definem a faixa de partida da pena-base (quadro da seção 5.5.3). Três pontos são próprios do furto. (a) **Qualificadora sobejante:** havendo duas ou mais qualificadoras do § 4º, uma qualifica o crime e a remanescente pode exasperar a pena-base, sem *bis in idem* (REsp 2.235.210; AgRg no REsp 2.174.591). (b) **Período noturno:** o Tema 1.087/STJ afasta a majorante do repouso noturno no furto qualificado, mas o período noturno pode ser circunstância judicial negativa, se fundamentada a menor vigilância (AgRg no HC 1.014.935). (c) **Prejuízo:** o prejuízo expressivo é aceito nas consequências por julgados da 5ª e da 6ª Turma, mas outros julgados das mesmas Turmas o rejeitam por ser inerente ao tipo; não há tese da Terceira Seção (ver seção 6.12).
+**Primeira fase.** Os tipos especiais definem a faixa de partida da pena-base (quadro da seção 6.5.3). Três pontos são próprios do furto. (a) **Qualificadora sobejante:** havendo duas ou mais qualificadoras do § 4º, uma qualifica o crime e a remanescente pode exasperar a pena-base, sem *bis in idem* (REsp 2.235.210; AgRg no REsp 2.174.591). (b) **Período noturno:** o Tema 1.087/STJ afasta a majorante do repouso noturno no furto qualificado, mas o período noturno pode ser circunstância judicial negativa, se fundamentada a menor vigilância (AgRg no HC 1.014.935). (c) **Prejuízo:** o prejuízo expressivo é aceito nas consequências por julgados da 5ª e da 6ª Turma, mas outros julgados das mesmas Turmas o rejeitam por ser inerente ao tipo; não há tese da Terceira Seção (ver seção 7.13).
 
 **Segunda fase.** Não localizei particularidade do furto além das regras gerais: a atenuante não reduz abaixo do mínimo (Súmula 231/STJ) e a reincidência pesa também no regime e na substituição.
 
-### 5.5.3 Normas e entendimentos de observância obrigatória
+### 6.5.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1729,9 +2137,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Recurso Repetitivo | 1.087 | STJ (3ª Seção) | "A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)." REsps 1.890.981, 1.888.756 e 1.891.007, Rel. Min. João Otávio de Noronha, j. 25/05/2022, DJe 27/06/2022. | Acórdão publicado; recurso extraordinário pendente no STF |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
-### 5.5.4 Primeira fase: o que é próprio do furto
+### 6.5.4 Primeira fase: o que é próprio do furto
 
-#### 5.5.4.1 Hipóteses em que a valoração é admitida
+#### 6.5.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1742,7 +2150,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Migração do repouso noturno para a primeira fase (Tema 1.087) | AgRg no REsp 2.082.231, 3ª S., Rel. Min. Reynaldo Soares da Fonseca, DJe 30/10/2023; REsp 2.084.233, 5ª T., Rel. Min. Daniela Teixeira, DJe 25/02/2025; AgRg no HC 1.002.960, 5ª T., Rel. Min. Joel Ilan Paciornik, DJe 15/12/2025 | A migração é válida se reconhecida na sentença, sem *reformatio in pejus*; no AgRg no HC 1.002.960 o fundamento foi o vetor culpabilidade. Paradigmas: REsp 1.979.989/RS (Rel. Min. Joel Ilan Paciornik, j. 22/06/2022) e REsp 1.888.756. |
 | Rompimento de obstáculo provado por imagens | AgRg no REsp 2.174.591 | Sem laudo direto, a qualificadora do inciso I pode ser demonstrada por outros meios idôneos, como imagens do local. |
 
-#### 5.5.4.2 Hipóteses em que a valoração não é admitida
+#### 6.5.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1753,34 +2161,34 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Migração do repouso noturno sem fundamentação ou em habeas corpus | AgRg no HC 767.973, 6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 22/09/2025; AgRg no HC 767.314, 6ª T., Rel. Min. Laurita Vaz, DJe 01/02/2023 | A transposição exige fundamentação, e o STJ não a faz em habeas corpus. |
 | Rompimento de obstáculo reutilizado na pena-base sem especial gravidade; consciência da ilicitude | HC 122.940, STF, 2ª T., Rel. Min. Gilmar Mendes, j. 13/12/2016 (Informativo 851) | Furto qualificado: a qualificadora não pode ser reutilizada na pena-base sem gravidade especial, e a consciência da ilicitude é fundamento inidôneo. |
 
-### 5.5.5 Segunda fase: o que é próprio do furto
+### 6.5.5 Segunda fase: o que é próprio do furto
 
-#### 5.5.5.1 Hipóteses em que a valoração é admitida
+#### 6.5.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Reincidência somada a circunstância judicial desfavorável | REsp 2.235.210 | Autoriza regime inicial fechado mesmo com pena inferior a 4 anos e afasta a substituição por restritivas, diante de condenação anterior por crime mais grave. |
 
-#### 5.5.5.2 Hipóteses em que a valoração não é admitida
+#### 6.5.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Atenuante da menoridade relativa reduzindo a pena abaixo do mínimo | AgRg no HC 915.366, 5ª T., Rel. Min. Ribeiro Dantas, DJe 23/08/2024 | Pena-base fixada no piso: Súmula 231/STJ. A Sexta Turma aprovara, em 21/03/2023, proposta de revisão da súmula, sem sobrestamento dos feitos; a Terceira Seção manteve o enunciado em 14/08/2024. |
 
-## 5.6 Porte ilegal de arma de fogo
+## 6.6 Porte ilegal de arma de fogo
 
-### 5.6.1 Tema e recorte
+### 6.6.1 Tema e recorte
 
 - **Tema:** Particularidades do porte ilegal de arma de fogo, acessório ou munição, de uso permitido (art. 14) ou restrito (art. 16), na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio dos tipos das armas na primeira e na segunda fase. Ficam fora a terceira fase, o concurso de crimes (por exemplo, entre os arts. 12 e 16), a tipicidade (arma desmuniciada ou inapta) e a majorante do art. 40, IV, da Lei 11.343/2006.
 
-### 5.6.2 Síntese executiva
+### 6.6.2 Síntese executiva
 
 **Primeira fase.** A pena-base parte da faixa do tipo: uso permitido (art. 14), reclusão de 2 a 4 anos; uso restrito (art. 16, caput) ou arma com numeração raspada (art. 16, § 1º, IV), reclusão de 3 a 6 anos; uso proibido (art. 16, § 2º), de 4 a 12 anos. A posse de uso permitido em residência ou trabalho (art. 12) é detenção de 1 a 3 anos. A **quantidade de armas e de munições**, em calibres diferentes, extrapola o tipo e sustenta o desvalor das circunstâncias do crime (REsp 2.145.319; AgRg no REsp 2.258.011). Essa é a particularidade central: como a apreensão de várias armas e munições no mesmo contexto costuma configurar crime único, e não concurso, a quantidade é o meio de graduar a pena.
 
 **Segunda fase.** A reincidência, somada a circunstância judicial negativa, mantém o regime semiaberto mesmo com pena inferior a 4 anos e afasta a substituição (AgRg no REsp 2.258.011). A confissão compensa-se com a reincidência (HC 887.484). A agravante da calamidade pública exige nexo causal (REsp 2.145.319).
 
-### 5.6.3 Normas e entendimentos de observância obrigatória
+### 6.6.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1792,9 +2200,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Recurso Repetitivo | 585 | STJ (3ª Seção) | Compensação integral entre confissão e reincidência; na multirreincidência prevalece a agravante, com compensação proporcional. Tese original no REsp 1.341.370/MT; acórdão de revisão no REsp 1.947.845, Rel. Min. Sebastião Reis Júnior, j. 22/06/2022, DJe 24/06/2022 (afetação em 05/10/2021). | Acórdão de revisão publicado |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
-### 5.6.4 Primeira fase: o que é próprio do porte de arma
+### 6.6.4 Primeira fase: o que é próprio do porte de arma
 
-#### 5.6.4.1 Hipóteses em que a valoração é admitida
+#### 6.6.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1806,7 +2214,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Regime mais gravoso por circunstâncias desfavoráveis | AgRg no HC 1.032.112, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 14/10/2025 | Arma com numeração raspada, municiada com 10 cartuchos e carregador sobressalente com mais 10: justificou aumento superior a 1/6 da majorante do art. 40, IV, e o regime mais gravoso (julgado de tráfico; critério aproveitável ao porte). |
 | Circunstâncias do crime no art. 16, *caput*: arma de grande poder ofensivo, municiada, em local movimentado | HC 162.345 (AgR), STF, 1ª T., Rel. Min. Alexandre de Moraes, j. 22/10/2018 **[Repositório externo]** | Submetralhadora sem código de rastreamento, com dez cartuchos íntegros, apreendida em local movimentado e com vestígios de disparo recente: circunstâncias do crime desfavoráveis justificam a pena-base acima do mínimo; regime semiaberto fundamentado nas particularidades do caso (Súmula 719/STF). |
 
-#### 5.6.4.2 Hipóteses em que a valoração não é admitida
+#### 6.6.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1814,36 +2222,36 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Posse e disparo no mesmo contexto como crimes distintos | AgRg no AREsp 1.739.449, 6ª T., Rel. Min. Sebastião Reis Júnior, DJe 28/04/2021 | Posse de arma de uso permitido (art. 12) e disparo (art. 15) no mesmo contexto: crime único, quando reconhecido pela origem (Súmula 7/STJ). |
 | Elementos do tipo | Inferência: art. 14 e art. 16 | O simples porte, a falta de registro e a numeração raspada (no art. 16, § 1º, IV) são elementares; só o que excede (quantidade, calibre, modo) pode agravar. |
 
-### 5.6.5 Segunda fase: o que é próprio do porte de arma
+### 6.6.5 Segunda fase: o que é próprio do porte de arma
 
-#### 5.6.5.1 Hipóteses em que a valoração é admitida
+#### 6.6.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Reincidência com circunstância negativa mantém o semiaberto e afasta a substituição | AgRg no REsp 2.258.011 | Regime semiaberto mesmo com pena inferior a 4 anos; a reincidência e a ausência de recomendação social impedem a substituição (CP, art. 44). |
 | Compensação da confissão com a reincidência | HC 887.484, 6ª T., Rel. Min. Sebastião Reis Júnior, DJe 27/03/2025 | Art. 16, § 1º, IV, e art. 12, em concurso formal: a confissão, determinante para a autoria, compensa-se com a reincidência (Terceira Seção). Regime fechado mantido por reincidência e maus antecedentes. |
 
-#### 5.6.5.2 Hipóteses em que a valoração não é admitida
+#### 6.6.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Agravante de calamidade pública sem nexo causal | REsp 2.145.319 | Decote da agravante (art. 61, II, "j") por falta de demonstração do nexo entre a calamidade e o crime. |
 | Atenuante reduzindo a pena abaixo do mínimo | AgRg no REsp 2.089.318, 5ª T., Rel. Min. Daniela Teixeira, DJe 15/10/2024 | Tráfico internacional de arma de fogo: Súmula 231/STJ. |
 
-## 5.7 Lesão corporal
+## 6.7 Lesão corporal
 
-### 5.7.1 Tema e recorte
+### 6.7.1 Tema e recorte
 
 - **Tema:** Particularidades da lesão corporal (CP, art. 129), com ênfase na violência doméstica (§§ 9º e 13), na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio da lesão corporal na primeira e na segunda fase. Ficam fora a terceira fase (privilegiadora do § 4º, aumentos dos §§ 7º, 10, 11 e 12, concurso), a substituição de pena (Súmula 588/STJ), o rito (Súmulas 536 e 542/STJ) e a insignificância (Súmula 589/STJ).
 
-### 5.7.2 Síntese executiva
+### 6.7.2 Síntese executiva
 
 **Primeira fase.** As faixas de partida variam com a forma: lesão leve (detenção de 3 meses a 1 ano), grave (reclusão de 1 a 5 anos), gravíssima (2 a 8 anos), seguida de morte (4 a 12 anos), violência doméstica (§ 9º, reclusão de 2 a 5 anos) e lesão contra a mulher por razões da condição do sexo feminino (§ 13, reclusão de 2 a 5 anos). O ponto próprio do crime é o *bis in idem* com o **resultado**: se a gravidade da lesão qualifica o crime, não pode ser repetida nas consequências (AREsp 2.223.458; AgRg no HC 818.917, que trata do art. 308 do CTB). O que o STJ aceita são fatos adicionais, como o uso de instrumento perfurante, as consequências físicas relevantes para além da qualificadora e a tenra idade da vítima (AgRg no HC 988.623). A fração de 1/8 por vetor é parâmetro aceito (HC 864.233).
 
 **Segunda fase.** O Tema 1.197/STJ autoriza a agravante do art. 61, II, "f", no art. 129, § 9º, porque o tipo não exige a condição de mulher. No § 13, porém, a condição de mulher é elementar e a agravante é *bis in idem* (REsp 2.247.908). Há julgado da mesma Turma, posterior, que manteve agravantes do art. 61, II, "f" e "h", no § 13 (REsp 2.257.101). A fração usual é 1/6 por agravante.
 
-### 5.7.3 Normas e entendimentos de observância obrigatória
+### 6.7.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1852,9 +2260,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Recurso Repetitivo | 1.197 | STJ (3ª Seção) | "A aplicação da agravante do art. 61, inc. II, alínea f, do Código Penal (CP), em conjunto com as disposições da Lei Maria da Penha (Lei n. 11.340/2006), não configura bis in idem." Paradigma REsp 2.027.794, Rel. Min. Jesuíno Rissato (Des. convocado do TJDFT); afetação em 25/04/2023; acórdãos de 12/06/2024. | Trânsito em julgado |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
-### 5.7.4 Primeira fase: o que é próprio da lesão corporal
+### 6.7.4 Primeira fase: o que é próprio da lesão corporal
 
-#### 5.7.4.1 Hipóteses em que a valoração é admitida
+#### 6.7.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1866,7 +2274,7 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Lesão gravíssima: dolo intenso, violência e brutalidade | HC 107.409, STF, 1ª T., Rel. Min. Rosa Weber, j. 10/04/2012 **[Repositório externo]** | Art. 129, § 2º, IV. A pena de quatro anos (balizamento de dois a oito) não é arbitrária quando há circunstâncias desfavoráveis, como dolo intenso, violência da conduta e brutalidade da lesão; o regime inicial considera as circunstâncias (CP, art. 33, § 3º). |
 | Lesão gravíssima: maior reprovabilidade pela especial gravidade da conduta | HC 226.544 (AgR), STF, 2ª T., Rel. Min. André Mendonça, j. 18/03/2024 **[Repositório externo]** | O aumento da pena-base está lastreado em dados concretos que revelam maior reprovabilidade; não houve *bis in idem*; regime semiaberto adequado pelas especificidades do crime e pelas circunstâncias judiciais negativas. |
 
-#### 5.7.4.2 Hipóteses em que a valoração não é admitida
+#### 6.7.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1874,9 +2282,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Gravidade da lesão como elementar de forma qualificada (analogia) | AgRg no HC 818.917, 6ª T., Rel. Min. Jesuíno Rissato (Des. convocado do TJDFT), DJe 14/12/2023 | Art. 308, § 1º, do CTB: a lesão grave é elementar da forma qualificada, e valorá-la nas consequências é *bis in idem*. Julgado de outro tipo, citado como paralelo. |
 | Contexto de violência doméstica ou de gênero, no § 9º e no § 13 | Art. 129, §§ 9º e 13 | São elementares; só o excedente (instrumento, modo, idade) pode agravar a pena-base. Inferência a partir do próprio tipo e do REsp 2.247.908. |
 
-### 5.7.5 Segunda fase: o que é próprio da lesão corporal
+### 6.7.5 Segunda fase: o que é próprio da lesão corporal
 
-#### 5.7.5.1 Hipóteses em que a valoração é admitida
+#### 6.7.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1885,27 +2293,27 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Fração de 1/6 por agravante | REsp 2.257.101, 5ª T., Rel. Min. Maria Marluce Caldas, j. 17/06/2026, DJe 22/06/2026 | Art. 129, § 13: três agravantes (reincidência, art. 61, II, "f", e II, "h", vítima idosa) com aumento global de 1/4 sem fundamentação concreta; restabelecida a fração de 1/6 para cada. A agravante da vítima idosa tem "especial densidade normativa". |
 | Agravante do art. 61, II, "f", e a Lei Maria da Penha | RHC 172.842, STF, 1ª T., Rel. Min. Marco Aurélio, j. 17/02/2021 **[Repositório externo]** | Cabe considerar a violência doméstica contra a mulher como agravante (CP, art. 61, II, "f") e para impedir a multa isolada (Lei 11.340/2006, art. 17), sem sobreposição; a reincidência prevalece sobre a confissão (CP, art. 67). Converge com o Tema 1.197/STJ. |
 
-#### 5.7.5.2 Hipóteses em que a valoração não é admitida
+#### 6.7.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Agravante do art. 61, II, "f", no § 13 | REsp 2.247.908, 5ª T., Rel. Min. Ribeiro Dantas, j. 07/04/2026, DJe 13/04/2026 | A condição de mulher e a violência de gênero são elementares do § 13; a agravante recai sobre a mesma circunstância (*bis in idem*, proporcionalidade e especialidade). O Tema 1.197 não se estende. O julgado cita igual solução no art. 24-A da Lei Maria da Penha. |
 | Atenuante reduzindo a pena abaixo do mínimo | Súmula 231/STJ | Mantida pela 3ª Seção. |
 
-## 5.8 Estupro
+## 6.8 Estupro
 
-### 5.8.1 Tema e recorte
+### 6.8.1 Tema e recorte
 
 - **Tema:** Particularidades do estupro (CP, art. 213) e do estupro de vulnerável (CP, art. 217-A) na primeira e na segunda fase da dosimetria da pena.
 - **Recorte:** só o que é próprio dos crimes sexuais na primeira e na segunda fase. Ficam fora a terceira fase (majorantes dos arts. 226 e 234-A), a continuidade delitiva (Súmula 659 e Tema 1.202/STJ) e a tipicidade (Súmula 593 e Tema 1.121/STJ).
 
-### 5.8.2 Síntese executiva
+### 6.8.2 Síntese executiva
 
 **Primeira fase.** O art. 213 comina reclusão de 6 a 10 anos; o art. 217-A, de 10 a 18 anos (redação da Lei 15.280/2025 na curadoria interna). Quatro pontos são próprios do estupro. (a) **ADPF 1107:** é vedado valorar a vida sexual pregressa da vítima ou seu modo de vida. (b) **Idade da vítima:** a idade é elementar do estupro de vulnerável, mas a "tenra idade" pode ser graduada, ora na culpabilidade (6ª Turma), ora nas circunstâncias do crime (5ª Turma). (c) **Consequências:** o abalo psicológico severo, comprovado e que exige tratamento, não é inerente ao tipo e dispensa laudo pericial. (d) **Meio de execução:** conjunção carnal e coito anal revelam maior reprovabilidade que o mero ato libidinoso.
 
 **Segunda fase.** O Tema 1.215/STJ admite a agravante do art. 61, II, "f", junto com a majorante do art. 226, II, salvo quando só há relação de autoridade, caso em que incide apenas a majorante. A confissão é atenuante independentemente de ter formado o convencimento do julgador (Súmula 545/STJ, redação revisada em 10/09/2025), mas é aplicada em menor proporção (1/12) e sem preponderância sobre agravantes quando o fato confessado for tipificado com pena menor (Tema 1.194/STJ).
 
-### 5.8.3 Normas e entendimentos de observância obrigatória
+### 6.8.3 Normas e entendimentos de observância obrigatória
 
 | Instrumento | Nº | Órgão | Tese / texto | Situação |
 |---|---|---|---|---|
@@ -1917,9 +2325,9 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Súmula | 545 | STJ | Redação revisada pela 3ª Seção em 10/09/2025 (REsp 2.001.973/RS, Tema 1.194/STJ, DJEN 02/12/2025): "A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do CP, independentemente de ser utilizada na formação do convencimento do julgador." | Vigente (nova redação) |
 | Súmula | 231 | STJ | A atenuante não pode reduzir a pena abaixo do mínimo legal. Mantida pela 3ª Seção em 14/08/2024. | Vigente |
 
-### 5.8.4 Primeira fase: o que é próprio do estupro
+### 6.8.4 Primeira fase: o que é próprio do estupro
 
-#### 5.8.4.1 Hipóteses em que a valoração é admitida
+#### 6.8.4.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1931,27 +2339,27 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Abuso de confiança da família | REsp 2.176.423 | Abuso de confiança nas circunstâncias do crime; trauma documentado nas consequências. |
 | Circunstâncias do crime: embriagar a vítima adolescente para a conjunção carnal | HC 256.079 (AgR), STF, 2ª T., Rel. Min. Gilmar Mendes, j. 06/08/2025 **[Repositório externo]** | Estupro de vulnerável. A conduta de embriagar adolescente com o propósito de manter conjunção carnal extrapola os limites do tipo do art. 217-A e permite aumentar a pena-base; não há *bis in idem* quando a conduta é punida uma só vez (CP, art. 108), ainda que alcançada pela prescrição a condenação pela contravenção do art. 63, I, da Lei das Contravenções Penais. |
 
-#### 5.8.4.2 Hipóteses em que a valoração não é admitida
+#### 6.8.4.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Vida sexual pregressa e modo de vida da vítima | ADPF 1107, STF | Vedado na fixação da pena dos crimes sexuais. |
 | Consentimento, experiência sexual ou namoro como fundamento de menor reprovabilidade | Art. 217-A, §§ 4º-A e 5º (curadoria interna) | A vulnerabilidade é absoluta e as penas independem do consentimento e da experiência anterior da vítima. |
 | Relação de autoridade usada na pena-base e também na majorante | AgRg no HC 1.050.088, 5ª T., Rel. Min. Messod Azulay Neto, j. 12/08/2026, DJe 17/08/2026 | A origem decotou o aumento da pena-base por *bis in idem*, preservando a agravante e a majorante. |
-| Idade da vítima como único fundamento, quando elementar do tipo | Inferência: art. 217-A (menor de 14 anos) | A idade é elementar do tipo; só a tenra idade, graduada pela vulnerabilidade em graus, ou fato adicional pode agravar. Ver divergência na seção 6.15. |
+| Idade da vítima como único fundamento, quando elementar do tipo | Inferência: art. 217-A (menor de 14 anos) | A idade é elementar do tipo; só a tenra idade, graduada pela vulnerabilidade em graus, ou fato adicional pode agravar. Ver divergência na seção 7.16. |
 
-### 5.8.5 Segunda fase: o que é próprio do estupro
+### 6.8.5 Segunda fase: o que é próprio do estupro
 
-#### 5.8.5.1 Hipóteses em que a valoração é admitida
+#### 6.8.5.1 Hipóteses em que a valoração é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Agravante do art. 61, II, "f" (relações domésticas, coabitação ou hospitalidade) junto à majorante do art. 226, II | Tema 1.215/STJ; AgRg no HC 1.050.088; AgRg no AREsp 3.194.800 | Padrasto, com coabitação e autoridade (AgRg no HC 1.050.088); neta (AgRg no AREsp 3.194.800): diversidade de fundamentos fáticos e normativos. |
 | Agravante restabelecida pelo convívio na residência da vítima | REsp 2.183.634, 6ª T., Rel. Min. Sebastião Reis Júnior, j. 15/04/2026, DJe 22/04/2026 | Prevalência de relações domésticas pela relação de confiança decorrente do convívio na casa da vítima. |
 | Agravante do art. 61, II, "f" mantida (relações domésticas e hospitalidade) | AgRg no REsp 2.246.074, 6ª T., Rel. Min. Nilsoni de Freitas (Desembargadora convocada do TJDFT), j. 19/08/2026, DJe 24/08/2026 | Estupro de vulnerável; a agravante foi mantida junto às demais soluções do julgado (sem tentativa, Tema 1.121; continuidade em 2/3, Tema 1.202), estas fora do recorte. |
-| Confissão qualificada em menor proporção | REsp 2.183.634 | Aplicada em fração de 1/12 e sem preponderância no concurso com agravantes; a ementa não cita o Tema 1.194/STJ, mas o resultado é compatível com o item 5.8.2 da tese (inferência). |
+| Confissão qualificada em menor proporção | REsp 2.183.634 | Aplicada em fração de 1/12 e sem preponderância no concurso com agravantes; a ementa não cita o Tema 1.194/STJ, mas o resultado é compatível com o item 6.8.2 da tese (inferência). |
 
-#### 5.8.5.2 Hipóteses em que a valoração não é admitida
+#### 6.8.5.2 Hipóteses em que a valoração não é admitida
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
@@ -1959,11 +2367,11 @@ Os capítulos tratam do que é próprio de cada crime na primeira e na segunda f
 | Confissão qualificada com fração e preponderância cheias | REsp 2.183.634; Tema 1.194/STJ | Aplicação em menor proporção quando o fato confessado for tipificado com menor pena (tese do Tema 1.194, julgado em 10/09/2025, que revisou a Súmula 545). |
 | Atenuante reduzindo a pena abaixo do mínimo | Súmula 231/STJ | Mantida pela 3ª Seção. |
 
-# 6 Pendências de verificação
+# 7 Pendências de verificação
 
 Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a serem sanados na próxima versão desta pesquisa. A numeração das remissões segue a do capítulo a que cada lista pertence.
 
-## 6.1 Culpabilidade
+## 7.1 Culpabilidade
 
 1. **STF e premeditação.** O HC 94.620 foi localizado (Plenário, 24/06/2015, Info 791), mas o Informativo não menciona a premeditação; relação com o Tema 1.318 não confirmada. O HC-AgR 199.716 foi localizado no repositório externo (ver seção 4.1.5.3), com a marca **[Repositório externo]**; o RHC-AgR 195.426 e o HC-AgR 192.870 não foram localizados em nenhuma fonte (consulta por número e por tema), e a curadoria interna do STF só traz Informativos. Não devem ser citados como confirmados.
 2. **Tema 1.262.** A curadoria interna indica como paradigma o REsp 2.003.735 (afetação), enquanto o acórdão de mérito localizado é o REsp 2.004.455; conferir qual é o paradigma na fonte oficial.
@@ -1972,7 +2380,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 5. **Cobertura.** A curadoria interna devolve 10 acórdãos por consulta; as buscas foram lidas em uma a quatro páginas de dez ementas. Os julgados de 2024 a 2026 foram obtidos pelo canal de ementas do DJe, que traz a ementa, e não o inteiro teor.
 6. **Citações indiretas.** O AgRg no AREsp 2.107.370 (6ª T., 2022) foi obtido por citação.
 
-## 6.2 Antecedentes
+## 7.2 Antecedentes
 
 1. **Tema 150 (RE 593.818).** A curadoria interna não informa relator nem data do julgamento. O AgRg no HC 946.217 (STJ) registra relatoria do Min. Luís Roberto Barroso e publicação no DJe de 23/11/2020; o julgamento de 18/08/2020 vem de citação no AgRg no REsp 1.915.306. Conferir a data na fonte primária. O **Tema 129 (RE 591.054/SC)** foi publicado no DJe de 25/02/2015, segundo o Informativo 791; o relator não consta da curadoria interna.
 2. **Informativos do STF.** A curadoria interna entrega o texto do Informativo, e não a ementa oficial, e a base não traz data de publicação. As datas citadas são as de julgamento. Os julgados do STF da seção 4.2.5.3 não foram conferidos no inteiro teor.
@@ -1987,7 +2395,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 11. **Julgados de 2024 a 2026.** Obtidos pelo canal de ementas do DJe, sem inteiro teor.
 12. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas. Atos infralegais não localizados.
 
-## 6.3 Conduta social
+## 7.3 Conduta social
 
 1. **RHC 144.337 AgR (STF).** Citado apenas como transcrito na ementa do Tema 1.077; não foi localizado na curadoria interna. A data (05/11/2019) e o relator (Min. Celso de Mello) vêm do acórdão do STJ.
 2. **Informativos do STF.** A curadoria interna entrega o texto do Informativo, e não a ementa oficial, e a base não traz data de publicação. Nenhum julgado do STF sobre conduta social propriamente dita foi localizado; o HC 94.620 trata de alegações genéricas. O Tema 129 foi publicado no DJe de 25/02/2015 (Info 791); relator não consta.
@@ -1998,7 +2406,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 7. **Fração de redução para conduta social favorável.** Sem julgado; a conclusão de que não há fração é inferência a partir da Súmula 231/STJ e do Tema 158/STF.
 8. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas. Atos infralegais (resoluções) não localizados.
 
-## 6.4 Personalidade do agente
+## 7.4 Personalidade do agente
 
 1. **RHC 144.337 AgR (STF).** Citado apenas como transcrito na ementa do Tema 1.077; não foi localizado na curadoria interna. Data e relator vêm do acórdão do STJ.
 2. **Julgados do STF.** A curadoria interna entrega o texto do Informativo, e não a ementa oficial, e a base não traz data de publicação. O HC 88.422 e o HC 112.776 não tratam diretamente da personalidade; o HC 94.620 trata de alegações genéricas. Os Temas 129 e 182 não informam relator no retorno da curadoria interna.
@@ -2012,7 +2420,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 10. **Institutos despenalizadores.** Sem julgado que trate ANPP, transação ou suspensão condicional como indício de personalidade.
 11. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas. Atos infralegais não localizados.
 
-## 6.5 Motivos do crime
+## 7.5 Motivos do crime
 
 1. **Informativos do STF.** A curadoria interna entrega o texto do Informativo, e não a ementa oficial, e a base não traz data de publicação. As datas citadas são as de julgamento. O RHC 122.469 entra como contexto, e a ligação com o vetor é inferência. Os HC 120.165 e 107.090 não tratam da pena-base por motivo na forma comum; o HC 94.620 trata de alegações genéricas.
 2. **AREsp 2.514.889.** DJe de 31/12/2024 confirmado. A curadoria interna o classifica como Terceira Seção, mas a relatora, Min. Daniela Teixeira, também aparece na 5ª Turma em outros registros; conferir o órgão julgador.
@@ -2024,7 +2432,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 8. **Motivo de relevante valor social ou moral.** Sem julgado que o valore como circunstância favorável na pena-base (razão normativa na subseção 4.5.6.2).
 9. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas, não como prova de inexistência de precedente. Atos infralegais não localizados.
 
-## 6.6 Circunstâncias do crime
+## 7.6 Circunstâncias do crime
 
 1. **REsp 2.256.857 e HC 1.063.826 (2026).** A curadoria interna tem apenas a ementa resumida. Conferir no inteiro teor a base fática e se os dois julgados convivem: o fato que serve de qualificadora ou de agravante não pode ser duplicado, mas a qualificadora excedente pode ocupar o art. 59 uma única vez.
 2. **HC 60.012 (2007).** Julgado antigo, usado para a regra de competência do Júri; não foi verificado se foi superado ou reafirmado.
@@ -2036,7 +2444,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 8. **Presença de filhos do próprio réu.** Sem julgado do STJ que a trate, por si, como circunstância do art. 59.
 9. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas. Atos infralegais não localizados.
 
-## 6.7 Consequências do crime
+## 7.7 Consequências do crime
 
 1. **Informativos do STF.** A curadoria interna entrega o texto do Informativo, e não a ementa oficial, e a base não traz data de publicação. As datas citadas são as de julgamento. Nenhum julgado do STF localizado trata expressamente das "consequências do crime" além do HC 134.193 (e do HC 124.876, sobre regime); o Tema 182 não informa relator nem data no retorno da curadoria interna.
 2. **Divergências de 2025 e 2026.** AgRg no REsp 2.226.304 x REsp 2.270.558 (6ª Turma) e REsp 2.063.025 x REsp 2.154.023 (5ª Turma). A curadoria interna traz só as ementas; conferir os inteiros teores e se há julgado posterior que as resolva.
@@ -2047,7 +2455,14 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 7. **Crimes de trânsito.** Sem acórdão da Terceira Seção sobre consequências nesses crimes.
 8. **Escopo das buscas.** Foram lidas de uma a quatro páginas de dez ementas por busca; a ausência de resultado vale para as consultas feitas. Atos infralegais não localizados.
 
-## 6.8 Homicídio
+## 7.8 Critérios de quantificação
+
+- **Menoridade relativa e demais atenuantes no concurso do art. 67.** Foram feitas duas consultas específicas sobre a menoridade relativa em concurso com agravantes, sem filtro de ano, com quatro páginas de dez ementas em cada canal (STJ e STF de curadoria interna e repositório externo), além das demais consultas da segunda fase. Nenhuma ementa enfrenta a preponderância da menoridade relativa ou das atenuantes do art. 65, III, "a" a "c" e "e", sobre a reincidência. Os julgados localizados tratam apenas do quantum de redução: HC 341.483, 6ª T., Rel. Min. Maria Thereza de Assis Moura, j. 01/03/2016, DJe 09/03/2016; e HC 176.326, 6ª T., Rel. Min. Haroldo Rodrigues (Desembargador convocado do TJ/CE), j. 05/05/2011, DJe 03/08/2011. Ponto não resolvido.
+- **Posição do STF sobre as frações de 1/8 e de 1/6 na primeira fase.** Nas buscas feitas (curadoria interna e repositório externo), nenhum acórdão do STF adota ou rejeita expressamente o critério de 1/8 sobre o intervalo ou de 1/6 sobre a pena mínima por circunstância judicial negativa. Localizaram-se apenas julgados que afirmam a ausência de critério matemático rígido (HC 104.282; RHC 128.355). Ponto não resolvido.
+- **Fração da confissão qualificada.** As Turmas do STJ divergem: 1/12 (AgRg no REsp 2.095.569; AgRg no AREsp 2.695.312; AgRg no REsp 2.128.777) e 1/6 em júri (AgRg no REsp 2.195.701). Não localizei acórdão da Terceira Seção que fixe a fração depois do Tema 1.194.
+- **Textos legais.** Confirmar a vigência e o direito intertemporal da Lei 15.160/2025, que deu nova redação ao art. 65, I, do CP.
+
+## 7.9 Homicídio
 
 1. **Homicídio culposo (CP, art. 121, § 3º).** Examinei 40 ementas do STJ (quatro páginas de dez) por busca semântica sem filtro de ano; as que tratam de homicídio culposo são do art. 302 do CTB (por exemplo, AgRg no AREsp 2.201.123, 5ª T., Rel. Min. Ribeiro Dantas, DJe 14/12/2022; EDcl no AREsp 1.855.734, 5ª T., Rel. Min. Messod Azulay Neto, DJe 14/12/2023; AgRg no REsp 2.261.362, 5ª T., Rel. Min. Ribeiro Dantas, DJe 19/08/2026), e as demais, de homicídio doloso; nenhuma do art. 121, § 3º. No repositório externo, o único julgado de homicídio culposo localizado é o HC 135.360, do Código Penal Militar (ver 4.2). Não os aproveito para o tipo do Código Penal comum.
 2. **Fração da qualificadora sobejante.** Não há tese vinculante sobre a fração da agravante nem sobre a preferência entre a primeira e a segunda fase.
@@ -2057,7 +2472,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
     - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de as Leis 14.994/2024, 15.159/2025, 15.358/2026 e 15.384/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 5. **STF.** Dos Informativos do STF, aproveitei apenas o RHC 99.293, a AO 1046 e o HC 97.473; do repositório externo, o HC 108.146, o HC 107.501, o HC 121.758 e o HC 135.360. Não há outro julgado do STF sobre a dosimetria específica do homicídio doloso.
 
-## 6.9 Feminicídio
+## 7.10 Feminicídio
 
 1. **Agravante do art. 61, II, "f", no feminicídio.** Nenhum acórdão localizado aplica ou veda a agravante da alínea "f" em conjunto com o art. 121-A ou com o art. 121, § 2º, VI. Foram lidas mais de 100 ementas do STJ, em buscas com e sem filtro de ano. Os tribunais decidiram assim nos temas que cercam a questão:
     - **Alínea "f" e Lei Maria da Penha (Tema 1.197/STJ).** A Terceira Seção fixou que aplicar a agravante do art. 61, II, "f", em conjunto com a Lei 11.340/2006 não configura *bis in idem* (REsp 2.027.794, Rel. Min. Jesuíno Rissato, Des. convocado do TJDFT, j. 12/06/2024, DJe 24/06/2024). O fundamento é que as elementares do art. 129, § 9º, do CP não aludem ao gênero feminino da vítima, e é a condição de mulher que justifica a agravante.
@@ -2071,7 +2486,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 4. **Julgados de 2023 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **STF.** Nenhum julgado do STF sobre a dosimetria específica do feminicídio foi localizado, além da ADPF 779 e da ADPF 1107. No repositório externo, examinei 40 ementas por busca semântica e outras 10 por busca híbrida; nenhuma aplica ou veda a agravante do art. 61, II, "f", em conjunto com a qualificadora do feminicídio. O único acórdão de dosimetria do feminicídio localizado (HC 261.176, Primeira Turma, Rel. Min. Cármen Lúcia, j. 13/10/2025) trata da fração de redução da tentativa, matéria de terceira fase, fora do recorte.
 
-## 6.10 Roubo
+## 7.11 Roubo
 
 1. **Tema 1.110 e a Lei 13.964/2019.** A curadoria interna traz o art. 157, § 2º, VII (arma branca como majorante). Nenhum acórdão localizado delimita o alcance temporal do inciso VII em relação ao Tema 1.110. Os tribunais decidiram assim:
     - **Lei 13.654/2018.** A revogação do inciso I do § 2º retirou a arma branca do rol das majorantes, e a novatio legis in mellius retroage em benefício do réu (AgRg no HC 584.177, 6ª T., Rel. Min. Laurita Vaz, j. 01/09/2020, DJe 17/09/2020; AgRg no REsp 1.821.560, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 15/08/2019, DJe 30/08/2019).
@@ -2082,9 +2497,9 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
     - **Publicação e vigência na base.** Para a Lei 15.397/2026 a base não traz data de publicação nem de vigência.
     - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Lei 15.397/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 3. **Julgados de 2021 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
-4. **STF.** Dos Informativos do STF, aproveitei apenas o HC 97.473. Do repositório externo, aproveitei o HC 138.257, o HC 180.846, o RHC 124.797, o HC 225.709, o HC 208.584 e o HC 107.556. Quanto ao Tema 1.110/STJ, o HC 208.584 trata do deslocamento da arma branca para a pena-base na execução, mas não resolve a aplicação temporal do art. 157, § 2º, VII; a pendência do item 5.3.1 permanece.
+4. **STF.** Dos Informativos do STF, aproveitei apenas o HC 97.473. Do repositório externo, aproveitei o HC 138.257, o HC 180.846, o RHC 124.797, o HC 225.709, o HC 208.584 e o HC 107.556. Quanto ao Tema 1.110/STJ, o HC 208.584 trata do deslocamento da arma branca para a pena-base na execução, mas não resolve a aplicação temporal do art. 157, § 2º, VII; a pendência do item 6.3.1 permanece.
 
-## 6.11 Latrocínio
+## 7.12 Latrocínio
 
 1. **Majorantes do roubo como circunstâncias no latrocínio.** Entre as ementas examinadas, só o AgRg no HC 784.336 aceita arma e concurso de agentes nas circunstâncias; não localizei tese da 3ª Seção que unifique o ponto.
 2. **STF.** Nenhum julgado do STF sobre a dosimetria específica do latrocínio foi localizado nos Informativos. No repositório externo, a busca devolveu um único acórdão de latrocínio (HC 127.056, Primeira Turma, Rel. Min. Marco Aurélio, j. 17/10/2017), que apenas anulou a parte da sentença que fixou a pena e determinou nova dosimetria, sem tese aproveitável; não é citado como precedente. As Súmulas 603 e 610 tratam de competência e consumação, fora do recorte.
@@ -2094,7 +2509,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 4. **Julgados de 2023 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **AgRg no AREsp 2.063.632 (6ª T.).** Latrocínio consumado contra quatro vítimas, com negativação de culpabilidade, circunstâncias e consequências; o recurso não foi conhecido por falta de prequestionamento, e a curadoria interna não traz os fundamentos. Não é aproveitado.
 
-## 6.12 Furto
+## 7.13 Furto
 
 1. **Divergência sobre o prejuízo nas consequências.** Não há tese da Terceira Seção. Acolhem a valoração negativa: REsp 2.063.025, AgRg no AREsp 2.517.815 e AgRg no REsp 2.226.304; rejeitam: REsp 2.154.023 e REsp 2.270.558, em julgados da 5ª e da 6ª Turma. Os tribunais decidiram assim:
     - **Prejuízo comum é inerente ao tipo.** O prejuízo próprio dos crimes patrimoniais não autoriza negativar as consequências sem elemento concreto, como o valor exacerbado da coisa ou do dano (AgRg no AREsp 2.213.274, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 23/05/2023, DJe 31/05/2023). A subtração de celular de R$ 900,00, não restituído, não extrapola o tipo, e a majoração configura *bis in idem* (HC 839.713, 5ª T., Rel. Min. Daniela Teixeira, j. 15/10/2024, DJe 11/11/2024).
@@ -2108,7 +2523,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
     - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Leis 15.358/2026, 15.397/2026 e 15.517/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 6. **Julgados de 2023 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 
-## 6.13 Porte ilegal de arma de fogo
+## 7.14 Porte ilegal de arma de fogo
 
 1. **Uso restrito e proibido.** Não localizei acórdão que defina patamar próprio de aumento para o art. 16, *caput*, ou para o § 2º (uso proibido), nem sobre a proporcionalidade da pena mínima de 3 anos. Os tribunais decidiram assim nos pontos que cercam a questão:
     - **Fração da pena-base no art. 16.** A 5ª Turma aplicou 1/6 por circunstância desfavorável, com fração maior exigindo fundamentação específica (AgRg no AREsp 1.780.482, Rel. Min. Reynaldo Soares da Fonseca, j. 25/05/2021, DJe 01/06/2021, posse de arma de uso restrito e de artefatos explosivos); aceitou 1/4 pelas circunstâncias do crime e reduziu a pena-base de 4 anos e 6 meses, por desproporcional (AgRg no HC 344.002, Rel. Min. Joel Ilan Paciornik, j. 04/04/2017, DJe 10/04/2017); e o AgRg no HC 864.638 trata de aumento de 1/3.
@@ -2120,7 +2535,7 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
 4. **Julgados de 2021 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
 5. **STF.** Nenhum julgado do STF sobre a dosimetria do porte foi localizado nos Informativos (6 resultados examinados); do repositório externo, aproveitei apenas o HC 162.345, e os demais acórdãos localizados tratam de *abolitio criminis* temporária e de tipicidade; o HC 96.922 (1ª T., Rel. Min. Ricardo Lewandowski, j. 17/03/2009, Informativo 539), sobre dispensabilidade de perícia, trata de tipicidade e fica fora do recorte.
 
-## 6.14 Lesão corporal
+## 7.15 Lesão corporal
 
 1. **Divergência na 5ª Turma sobre o § 13.** O REsp 2.247.908 (5ª T., Rel. Min. Ribeiro Dantas, j. 07/04/2026, DJEN 13/04/2026) afasta a agravante do art. 61, II, "f", no § 13, com distinção do Tema 1.197. O REsp 2.257.101 (17 de junho de 2026), de outra relatoria, tratou do § 13 e das agravantes das alíneas "f" e "h" e restabeleceu a fração de 1/6 para cada; a ementa não discute o *bis in idem*. Não há acórdão de Seção. Os tribunais decidiram assim nos pontos que cercam a questão:
     - **Natureza e alcance do § 13.** O § 13 tem natureza objetiva e incide quando o crime está ligado à violência doméstica e familiar, sem exigir motivação específica do agente nem coabitação (AgRg no REsp 2.197.066, 6ª T., Rel. Min. Otávio de Almeida Toledo, Des. convocado do TJSP, j. 19/08/2025, DJEN 26/08/2025). Em contexto doméstico, a vulnerabilidade da mulher é presumida, e a condição de gênero feminino basta (AREsp 2.763.567, 6ª T., mesmo relator, j. 03/09/2025, DJEN 08/09/2025). A qualificadora alcança a violência entre mulheres em relação homoafetiva (REsp 2.236.141, 6ª T., Rel. Min. Rogerio Schietti Cruz, j. 12/05/2026, DJe 19/05/2026).
@@ -2132,9 +2547,9 @@ Registro dos pontos que não puderam ser resolvidos nas fontes consultadas, a se
     - **Publicação e vigência na base.** Datas de publicação na base: Lei 15.358/2026, 24/03/2026; Lei 15.487/2026, 16/07/2026. Para as demais leis citadas a base não traz data de publicação nem de vigência.
     - **Aplicação no tempo nos tribunais.** Nenhum acórdão localizado trata da aplicação no tempo de Leis 14.994/2024, 15.159/2025, 15.358/2026 e 15.455/2026. O STJ aplica a irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) à Lei 14.843/2024, que alterou a Lei de Execução Penal: AgRg no HC 999.545 (5ª T., Rel. Min. Reynaldo Soares da Fonseca, DJe 28/05/2025), AgRg no REsp 2.188.492 (6ª T., Rel. Min. Rogerio Schietti Cruz, DJe 08/09/2025) e, quanto ao exame criminológico, AgRg no HC 1.015.496 (6ª T., mesmo relator, DJe 21/10/2025).
 5. **Julgados de 2022 a 2026.** Lidos pela ementa do DJe, sem inteiro teor; as datas são de publicação (DJe), salvo quando a fonte traz a de julgamento.
-6. **STF.** Nenhum julgado do STF sobre a dosimetria específica da lesão corporal foi localizado nos Informativos (6 resultados examinados). Do repositório externo, aproveitei o HC 107.409, o HC 226.544 e o RHC 172.842; nenhum deles trata do § 13 do art. 129, e a divergência do item 5.7.1 permanece.
+6. **STF.** Nenhum julgado do STF sobre a dosimetria específica da lesão corporal foi localizado nos Informativos (6 resultados examinados). Do repositório externo, aproveitei o HC 107.409, o HC 226.544 e o RHC 172.842; nenhum deles trata do § 13 do art. 129, e a divergência do item 6.7.1 permanece.
 
-## 6.15 Estupro
+## 7.16 Estupro
 
 1. **Divergência sobre a idade da vítima.** Não há tese da Terceira Seção sobre o vetor em que se valora a idade da vítima de estupro de vulnerável. As duas Turmas aceitam a tenra idade como fundamento da pena-base, ora na culpabilidade, ora nas circunstâncias do crime. O repositório externo não traz julgado do STF sobre o ponto. Os tribunais decidiram assim:
     - **A idade como elemento do tipo.** A idade da vítima integra o art. 217-A, e a satisfação da lascívia é inerente ao delito; só a tenra idade justifica a exasperação (AgRg no AREsp 1.524.052, 5ª T., Rel. Min. Reynaldo Soares da Fonseca, j. 19/09/2019, DJe 27/09/2019).
@@ -2198,6 +2613,8 @@ BRASIL. Decreto-Lei nº 2.848, de 7 de dezembro de 1940. Código Penal. Arts. 61
 
 BRASIL. Decreto-Lei nº 2.848, de 7 de dezembro de 1940. Código Penal. Arts. 61, II, "f"; 213; 217-A (Leis nº 12.015/2009, 15.280/2025 e 15.353/2026); 226 (Lei nº 13.718/2018); 234-A.
 
+BRASIL. Decreto-Lei nº 2.848, de 7 de dezembro de 1940. Código Penal. Arts. 59; 61, I; 65, I e III, "d"; 67; 68.
+
 **Supremo Tribunal Federal (curadoria interna)**
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. ADPF 1107. Rel. Min. Cármen Lúcia. Julgada em 23 maio 2024 (Informativo 1138).
@@ -2218,7 +2635,7 @@ BRASIL. Supremo Tribunal Federal. Primeira Turma. HC 120.165. Rel. Min. Dias Tof
 
 BRASIL. Supremo Tribunal Federal. Segunda Turma. HC 124.876. Rel. Min. Gilmar Mendes. Julgado em 24 fev. 2015.
 
-BRASIL. Supremo Tribunal Federal. Tema 150 da Repercussão Geral (RE 593.818). Tribunal Pleno. Tese conforme a curadoria interna; relator e data não constam do retorno (ver seção 6.2).
+BRASIL. Supremo Tribunal Federal. Tema 150 da Repercussão Geral (RE 593.818). Tribunal Pleno. Tese conforme a curadoria interna; relator e data não constam do retorno (ver seção 7.2).
 
 BRASIL. Supremo Tribunal Federal. Temas de repercussão geral 114 (RE 453.000), 129 (RE 591.054) e 182 (AI 742.460).
 
@@ -2279,6 +2696,8 @@ BRASIL. Supremo Tribunal Federal. Súmulas 603 e 610.
 BRASIL. Supremo Tribunal Federal. HC 122.940. Rel. Min. Gilmar Mendes. Segunda Turma. Julgado em 13/12/2016 (Informativo 851).
 
 BRASIL. Supremo Tribunal Federal. HC 96.922. Rel. Min. Ricardo Lewandowski. Primeira Turma. Julgado em 17/03/2009 (Informativo 539).
+
+BRASIL. Supremo Tribunal Federal. Tema 158 de repercussão geral (RE 597.270). Tema 929 de repercussão geral.
 
 **Supremo Tribunal Federal (repositório externo)**
 
@@ -2362,6 +2781,26 @@ BRASIL. Supremo Tribunal Federal. Primeira Turma. RHC 172.842. Rel. Min. Marco A
 
 BRASIL. Supremo Tribunal Federal. Segunda Turma. HC 256.079 (agravo regimental). Rel. Min. Gilmar Mendes. Julgado em 6 ago. 2025.. **[Repositório externo]**
 
+BRASIL. Supremo Tribunal Federal. HC 104.282. Rel. Min. Rosa Weber. 1ª Turma. Julgado em 19/06/2012. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. RHC 128.355. Rel. Min. Marco Aurélio. 1ª Turma. Julgado em 12/09/2017. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. RE 597.270. Rel. Min. Cezar Peluso. Tribunal Pleno. Julgado em 26/03/2009. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. HC 120.137. Rel. Min. Marco Aurélio. 1ª Turma. Julgado em 12/09/2017. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. HC 116.722. Rel. Min. Marco Aurélio. 1ª Turma. Julgado em 24/04/2018. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. RHC 170.544. Rel. Min. Marco Aurélio. 1ª Turma. Julgado em 04/11/2020. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. HC 125.550. Rel. Min. Marco Aurélio. 1ª Turma. Julgado em 22/08/2017. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. RHC 111.454. Rel. Min. Luiz Fux. 1ª Turma. Julgado em 03/04/2012. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. HC 96.061. Rel. Min. Teori Zavascki. 2ª Turma. Julgado em 19/03/2013. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. RHC 135.819. Rel. Min. Marco Aurélio. 1ª Turma. Julgado em 29/05/2018. **[Repositório externo]**
+
 **Superior Tribunal de Justiça (curadoria interna)**
 
 BRASIL. Superior Tribunal de Justiça. Terceira Seção. REsp 2.174.028 e REsp 2.174.008 (Tema Repetitivo 1.318). Rel. Min. Otávio de Almeida Toledo. Julgados em 8 maio 2025. DJEN 13 maio 2025.
@@ -2422,7 +2861,7 @@ BRASIL. Superior Tribunal de Justiça. REsp 136.113. Rel. Min. Vicente Leal. 6ª
 
 BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 1.537.991. Rel. Min. Antonio Saldanha Palheiro. 6ª Turma. Julgado em 24/09/2019. DJe 01/10/2019.
 
-BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 2.203.440. Rel. Min. João Batista Moreira (Des. convocado do TRF 1ª Região). 5ª Turma. Julgado em 21/11/2023. DJe 05/12/2023.
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 2.203.440. Rel. Min. João Batista Moreira (Des. convocado do Tribunal Regional Federal (TRF) 1ª Região). 5ª Turma. Julgado em 21/11/2023. DJe 05/12/2023.
 
 BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.689.266. Rel. Min. Joel Ilan Paciornik. 5ª Turma. Julgado em 15/05/2018. DJe 28/05/2018.
 
@@ -2474,7 +2913,7 @@ BRASIL. Superior Tribunal de Justiça. HC 192.292. Rel. Min. Sebastião Reis Jú
 
 BRASIL. Superior Tribunal de Justiça. AgRg no REsp 2.208.093. Rel. Min. Messod Azulay Neto. 5ª Turma. Julgado em 05/08/2025. DJEN 14/08/2025.
 
-BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 1.885.196. Rel. Min. Olindo Menezes (Des. convocado do TRF 1ª Região). 6ª Turma. Julgado em 14/12/2021. DJe 17/12/2021.
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 1.885.196. Rel. Min. Olindo Menezes (Des. convocado do Tribunal Regional Federal (TRF) 1ª Região). 6ª Turma. Julgado em 14/12/2021. DJe 17/12/2021.
 
 BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.937.241. Rel. Min. Antonio Saldanha Palheiro. 6ª Turma. Julgado em 07/12/2021. DJe 13/12/2021.
 
@@ -2612,7 +3051,7 @@ BRASIL. Superior Tribunal de Justiça. AgRg no AgRg no AREsp 1.814.644. Rel. Min
 
 BRASIL. Superior Tribunal de Justiça. HC 212.666. Rel. Min. Laurita Vaz. 5ª Turma. Julgado em 17/09/2013. DJe 25/09/2013.
 
-BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 2.058.546. Rel. Min. Olindo Menezes (Des. convocado do TRF 1ª Região). 6ª Turma. Julgado em 04/10/2022. DJe 07/10/2022.
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 2.058.546. Rel. Min. Olindo Menezes (Des. convocado do Tribunal Regional Federal (TRF) 1ª Região). 6ª Turma. Julgado em 04/10/2022. DJe 07/10/2022.
 
 BRASIL. Superior Tribunal de Justiça. HC 76.535. Rel. Min. Laurita Vaz. 5ª Turma. Julgado em 27/04/2009. DJe 25/05/2009.
 
@@ -2741,6 +3180,64 @@ BRASIL. Superior Tribunal de Justiça. REsp 2.038.833 e REsp 2.049.969 (Tema Rep
 BRASIL. Superior Tribunal de Justiça. AgRg no HC 1.075.946 (5ª T., j. 17/06/2026, DJe 22/06/2026); AgRg no AREsp 3.194.800 (5ª T., j. 04/08/2026, DJe 13/08/2026); AgRg no HC 1.050.088 (5ª T., j. 12/08/2026, DJe 17/08/2026); AgRg no AgRg no AREsp 2.807.164 (6ª T., j. 04/08/2026, DJe 14/08/2026); AgRg no HC 1.090.235 (6ª T., j. 12/08/2026, DJe 17/08/2026); REsp 2.183.634 (6ª T., j. 15/04/2026, DJe 22/04/2026); REsp 2.176.423 (6ª T., j. 27/08/2025, DJEN 01/09/2025); AgRg no HC 677.747 (6ª T., j. 14/06/2022, DJe 20/06/2022).
 
 BRASIL. Superior Tribunal de Justiça. REsp 2.244.686 (5ª T., j. 17/06/2026, DJe 22/06/2026); AgRg no REsp 2.246.074 (6ª T., j. 19/08/2026, DJe 24/08/2026).
+
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 1.744.002. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 15/12/2020. DJe 17/12/2020.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 484.057. Rel. Min. Jorge Mussi. 5ª Turma. Julgado em 27/02/2018. DJe 09/03/2018.
+
+BRASIL. Superior Tribunal de Justiça. REsp 2.089.041. Rel. Min. Daniela Teixeira. 5ª Turma. Julgado em 18/02/2025. DJEN 25/02/2025.
+
+BRASIL. Superior Tribunal de Justiça. AREsp 2.467.463. Rel. Min. Daniela Teixeira. 5ª Turma. Julgado em 18/02/2025. DJEN 25/02/2025.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.919.781. Rel. Min. Sebastião Reis Júnior. 6ª Turma. Julgado em 05/10/2021. DJe 13/10/2021.
+
+BRASIL. Superior Tribunal de Justiça. REsp 1.945.656. Rel. Min. João Otávio de Noronha. 5ª Turma. Julgado em 14/09/2021. DJe 20/09/2021.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.817.386. Rel. Min. Laurita Vaz. 6ª Turma. Julgado em 27/10/2020. DJe 12/11/2020.
+
+BRASIL. Superior Tribunal de Justiça. AREsp 2.296.413. Rel. Min. Daniela Teixeira. 5ª Turma. Julgado em 26/11/2024. DJEN 04/12/2024.
+
+BRASIL. Superior Tribunal de Justiça. REsp 1.117.068. Rel. Min. Laurita Vaz. Terceira Seção. Julgado em 26/10/2011. DJe 08/06/2012.
+
+BRASIL. Superior Tribunal de Justiça. HC 402.812. Rel. Min. Maria Thereza de Assis Moura. 6ª Turma. Julgado em 05/09/2017. DJe 18/09/2017.
+
+BRASIL. Superior Tribunal de Justiça. HC 382.395. Rel. Min. Maria Thereza de Assis Moura. 6ª Turma. Julgado em 14/02/2017. DJe 22/02/2017.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.416.247. Rel. Min. Maria Thereza de Assis Moura. 6ª Turma. Julgado em 06/05/2014. DJe 15/05/2014.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.745.005. Rel. Min. Nefi Cordeiro. 6ª Turma. Julgado em 05/09/2019. DJe 12/09/2019.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 2.095.569. Rel. Min. Joel Ilan Paciornik. 5ª Turma. Julgado em 30/10/2024. DJe 05/11/2024.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 2.695.312. Rel. Min. Sebastião Reis Júnior. 6ª Turma. Julgado em 18/06/2025. DJEN 25/06/2025.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 2.128.777. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 01/04/2025. DJEN 01/07/2025.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 2.195.701. Rel. Min. Rogerio Schietti Cruz. 6ª Turma. Julgado em 24/06/2025. DJEN 27/06/2025.
+
+BRASIL. Superior Tribunal de Justiça. REsp 2.085.113. Rel. Min. Daniela Teixeira. 5ª Turma. Julgado em 17/12/2024. DJEN 23/12/2024.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no HC 537.732. Rel. Min. Jorge Mussi. 5ª Turma. Julgado em 21/11/2019. DJe 28/11/2019.
+
+BRASIL. Superior Tribunal de Justiça. EREsp 1.154.752. Rel. Min. Sebastião Reis Júnior. Terceira Seção. Julgado em 23/05/2012. DJe 04/09/2012.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no HC 448.110. Rel. Min. Nefi Cordeiro. 6ª Turma. Julgado em 26/06/2018. DJe 02/08/2018.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 2.094.483. Rel. Min. Reynaldo Soares da Fonseca. 5ª Turma. Julgado em 19/10/2023. DJe 27/10/2023.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no AREsp 1.727.581. Rel. Min. Joel Ilan Paciornik. 5ª Turma. Julgado em 17/11/2020. DJe 20/11/2020.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no REsp 1.478.043. Rel. Min. Nefi Cordeiro. 6ª Turma. Julgado em 18/11/2014. DJe 05/12/2014.
+
+BRASIL. Superior Tribunal de Justiça. AgRg no HC 464.632. Rel. Min. Sebastião Reis Júnior. 6ª Turma. Julgado em 27/11/2018. DJe 12/12/2018.
+
+BRASIL. Superior Tribunal de Justiça. Tema Repetitivo 585. REsp 1.947.845. Rel. Min. Sebastião Reis Júnior. Terceira Seção. Julgado em 22/06/2022. DJe 24/06/2022.
+
+BRASIL. Superior Tribunal de Justiça. Tema Repetitivo 1.194. REsp 2.001.973. Rel. Min. Og Fernandes. Terceira Seção. Julgado em 10/09/2025. DJEN 16/09/2025.
+
+BRASIL. Superior Tribunal de Justiça. Tema Repetitivo 1.172. REsp 2.003.716. Rel. Min. Joel Ilan Paciornik. Terceira Seção. Julgado em 25/10/2023. DJe 31/10/2023.
+
+BRASIL. Superior Tribunal de Justiça. Súmulas 231 e 545.
 
 # Licença
 
