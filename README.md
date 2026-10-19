@@ -2,16 +2,16 @@
 
 *Estudo jurisprudencial unificado do Supremo Tribunal Federal e do Superior Tribunal de Justiça.*
 
-Estudo jurisprudencial sobre a dosimetria da pena: as sete circunstâncias judiciais do art. 59 do Código Penal e oito crimes em espécie, com os entendimentos do STF e do STJ sobre o que admite e o que não admite valoração.
+Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase. Estudo jurisprudencial unificado do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
 
-**Autor:** Domingos José de Souza Lima Júnior  
-**Data:** 17 de outubro de 2026
+**Autor:** Domingos José de Souza Lima Júnior
+**Data:** Atualizado em 19 de outubro de 2026
 
 ## Arquivos
 
-- [`pesquisa_dosimetria-unificada_2026-10-17.pdf`](pesquisa_dosimetria-unificada_2026-10-17.pdf)
-- [`pesquisa_dosimetria-unificada_2026-10-17.docx`](pesquisa_dosimetria-unificada_2026-10-17.docx)
-- [`pesquisa_dosimetria-unificada_2026-10-17.md`](pesquisa_dosimetria-unificada_2026-10-17.md)
+- [`pesquisa_dosimetria-unificada_2026-10-19.md`](pesquisa_dosimetria-unificada_2026-10-19.md)
+- [`pesquisa_dosimetria-unificada_2026-10-19.pdf`](pesquisa_dosimetria-unificada_2026-10-19.pdf)
+- [`pesquisa_dosimetria-unificada_2026-10-19.docx`](pesquisa_dosimetria-unificada_2026-10-19.docx)
 
 ## Licença
 
@@ -30,7 +30,7 @@ Os dados desta pesquisa foram conferidos por meio de inteligência artificial (I
 
 ## Como citar
 
-SOUZA LIMA JÚNIOR, Domingos José de. *Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase*. 2026. Disponível em: https://github.com/domingossouzalima-dev/dosimetria-da-pena. Licença CC BY 4.0.
+SOUZA LIMA JÚNIOR, Domingos José de. *Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase*. Disponível em: https://github.com/dom-lima/dosimetria-da-pena. Licença CC BY 4.0.
 
 ## Contribuir
 
