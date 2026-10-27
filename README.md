@@ -5,13 +5,13 @@
 Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crimes em espécie na primeira e na segunda fase. Estudo jurisprudencial unificado do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
 
 **Autor:** Domingos José de Souza Lima Júnior
-**Data:** Atualizado em 19 de outubro de 2026
+**Data:** Atualizado em 26 de outubro de 2026
 
 ## Arquivos
 
-- [`pesquisa_dosimetria-unificada_2026-10-19.md`](pesquisa_dosimetria-unificada_2026-10-19.md)
-- [`pesquisa_dosimetria-unificada_2026-10-19.pdf`](pesquisa_dosimetria-unificada_2026-10-19.pdf)
-- [`pesquisa_dosimetria-unificada_2026-10-19.docx`](pesquisa_dosimetria-unificada_2026-10-19.docx)
+- [`pesquisa_dosimetria-unificada_2026-10-26.md`](pesquisa_dosimetria-unificada_2026-10-26.md)
+- [`pesquisa_dosimetria-unificada_2026-10-26.pdf`](pesquisa_dosimetria-unificada_2026-10-26.pdf)
+- [`pesquisa_dosimetria-unificada_2026-10-26.docx`](pesquisa_dosimetria-unificada_2026-10-26.docx)
 
 ## Licença
 
