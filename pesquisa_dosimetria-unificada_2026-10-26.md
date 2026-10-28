@@ -73,7 +73,7 @@ lang: pt-BR
 - **Pesquisa realizada por:** Domingos José de Souza Lima Júnior
 - **Data da pesquisa:** 26/10/2026 (reúne os estudos feitos entre 12/10/2026 e 15/10/2026)
 - **Bases consultadas:** legislação e jurisprudência do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
-- **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 8).
+- **Uso de IA:** consulta às fontes e redação assistidas por IA generativa, em terminal, com o OpenCode e o modelo DeepSeek V4.1. A conferência dos julgados na fonte primária cabe ao leitor (ver seção 8).
 - **Estrutura:** Parte I (seção 4), circunstâncias judiciais examinadas uma a uma, cada uma iniciada pelo conceito na jurisprudência; critérios de quantificação nas duas primeiras fases (seção 5); Parte II (seção 6), crimes em espécie.
 
 
