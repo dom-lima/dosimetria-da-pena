@@ -7,11 +7,9 @@ Dosimetria da pena: circunstâncias judiciais do art. 59 do Código Penal e crim
 **Autor:** Domingos José de Souza Lima Júnior
 **Data:** Atualizado em 26 de outubro de 2026
 
-## Arquivos
+## Arquivo
 
-- [`pesquisa_dosimetria-unificada_2026-10-26.md`](pesquisa_dosimetria-unificada_2026-10-26.md)
 - [`pesquisa_dosimetria-unificada_2026-10-26.pdf`](pesquisa_dosimetria-unificada_2026-10-26.pdf)
-- [`pesquisa_dosimetria-unificada_2026-10-26.docx`](pesquisa_dosimetria-unificada_2026-10-26.docx)
 
 ## Licença
 
